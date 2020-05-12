@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "vistasentranceexam"
+  },
+  "targets": {
+    "vistasentranceexam": {
+      "hosting": {
+        "vistas-exam-portal": [
+          "vistasentranceexam"
+        ]
+      }
+    }
+  }
+}

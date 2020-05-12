@@ -1,0 +1,50 @@
+<div class="displayTable">
+  <div class="displayTableCell">
+
+    <div class="vls-logo">
+      <a href="http://www.velsuniv.ac.in/" target="_blank">
+        <img src="assets/logo.png" alt="Vels Institute of Science, Technology & Advanced Studies (VISTAS)">
+      </a>
+    </div>
+
+    <div class="authBlock">
+      <h3>Sign Up</h3>
+
+
+      <div class="formGroup">
+        <input type="text" class="formControl" placeholder="Name" #userName required>
+      </div>
+      <div class="formGroup">
+        <input type="text" class="formControl" placeholder="Father's Name" #userFName required>
+      </div>
+      <div class="formGroup">
+        <input type="tel" class="formControl" placeholder="Mobile Number" #userMobile required>
+      </div>
+      <div class="formGroup">
+        <input type="text" class="formControl" placeholder="Admission Number. Leave empty if not there." #userAmission>
+      </div>
+      <div class="formGroup">
+        <input type="text" class="formControl" placeholder="Address" #userAddress required>
+      </div>
+
+      <div class="formGroup">
+        <input type="email" class="formControl" placeholder="Email Address" #userEmail required>
+      </div>
+
+      <div class="formGroup">
+        <input type="password" class="formControl" placeholder="Password" #userPwd required>
+      </div>
+
+      <div class="formGroup">
+        <input type="button" class="btn btnPrimary" value="Sign Up" (click)="authService.SignUp(userEmail.value, userPwd.value, userName.value, userFName.value, userMobile.value, userAmission.value, userAddress.value)">
+      </div>
+
+
+    </div>
+
+    <div class="redirectToLogin">
+      <span>Already have an account? <span class="redirect" routerLink="/sign-in">Log In</span></span>
+    </div>
+  </div>
+
+</div>
