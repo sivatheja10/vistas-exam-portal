@@ -10,6 +10,7 @@ import { Router } from "@angular/router";
 })
 
 export class AuthService {
+  
   userData: any; // Save logged in user data
 
   constructor(
@@ -22,6 +23,9 @@ export class AuthService {
     logged in and setting up null when logged out */
     this.afAuth.authState.subscribe(user => {
       if (user) {
+        const userRef: AngularFirestoreDocument<any> = this.afs.doc(`users/${user.uid}`);
+
+        console.log('User Data')
         this.userData = user;
         localStorage.setItem('user', JSON.stringify(this.userData));
         JSON.parse(localStorage.getItem('user'));
@@ -30,6 +34,10 @@ export class AuthService {
         JSON.parse(localStorage.getItem('user'));
       }
     })
+  }
+  authState(){
+    return this.afAuth.authState;
+
   }
 
   // Sign in with email/password
@@ -40,6 +48,8 @@ export class AuthService {
           this.router.navigate(['dashboard']);
         });
         this.SetUserData(result.user);
+        // this.SetSignedinUserData(result.user);
+        
       }).catch((error) => {
         window.alert(error.message)
       })
@@ -112,16 +122,29 @@ export class AuthService {
       email: user.email,
       photoURL: user.photoURL,
       emailVerified: user.emailVerified,
-
-
     }
     return userRef.set(userData, {
       merge: true
     })
   }
 
+  // SetSignedinUserData(user){
+  //   const userRef: AngularFirestoreDocument<any> = this.afs.doc(`users/${user.uid}`);
+  //   const currentUser = userRef.get();
+  //   console.log('Current User :'+ currentUser);
+  //   // const userData: User = {
+  //   //   uid: user.uid,
+  //   //   email: user.email,
+  //   //   photoURL: user.photoURL,
+  //   //   emailVerified: user.emailVerified,
+  //   // }
+    
+  // }
+
   UpdateUserData(user,name,fatherName,mobile,admissionNumber,address){
-        return this.afs.doc(`users/${user.uid}`).set(
+    const userRef: AngularFirestoreDocument<any> = this.afs.doc(`users/${user.uid}`);
+    
+    return userRef.set(
           {
           displayName: name,
           fatherName: fatherName,

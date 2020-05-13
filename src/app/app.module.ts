@@ -14,15 +14,25 @@ import { SignUpComponent } from './components/sign-up/sign-up.component';
 import { DashboardComponent } from './components/dashboard/dashboard.component';
 import { ForgotPasswordComponent } from './components/forgot-password/forgot-password.component';
 import { VerifyEmailComponent } from './components/verify-email/verify-email.component';
+import { WelcomeComponent } from './components/welcome/welcome.component'
 
 // Firebase services + enviorment module
 import { AngularFireModule } from "@angular/fire";
 import { AngularFireAuthModule } from "@angular/fire/auth";
 import { AngularFirestoreModule } from '@angular/fire/firestore';
 import { environment } from '../environments/environment';
+import {
+  AngularFireStorageModule,
+  AngularFireStorageReference,
+  AngularFireUploadTask,
+  StorageBucket
+} from "@angular/fire/storage";
 
 // Auth service
 import { AuthService } from "./shared/services/auth.service";
+import { FileUploadComponent } from './components/file-upload/file-upload.component';
+import { DropzoneDirective } from './dropzone.directive';
+import { UploadTaskComponent } from './components/upload-task/upload-task.component';
 
 
 @NgModule({
@@ -32,7 +42,10 @@ import { AuthService } from "./shared/services/auth.service";
     SignUpComponent,
     DashboardComponent,
     ForgotPasswordComponent,
-    VerifyEmailComponent
+    VerifyEmailComponent,
+    FileUploadComponent,
+    DropzoneDirective,
+    UploadTaskComponent
   ],
   imports: [
     BrowserModule,
@@ -40,7 +53,8 @@ import { AuthService } from "./shared/services/auth.service";
     AngularFireModule.initializeApp(environment.firebaseConfig),
     AngularFireAuthModule,
     AngularFirestoreModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    AngularFireStorageModule
   ],
   providers: [AuthService],
   bootstrap: [AppComponent]
