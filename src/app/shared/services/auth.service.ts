@@ -45,7 +45,7 @@ export class AuthService {
     return this.afAuth.auth.signInWithEmailAndPassword(email, password)
       .then((result) => {
         this.ngZone.run(() => {
-          this.router.navigate(['dashboard']);
+          this.router.navigate(['home']);
         });
         this.SetUserData(result.user);
         // this.SetSignedinUserData(result.user);
@@ -56,26 +56,33 @@ export class AuthService {
   }
 
   // Sign up with email/password
-  SignUp(email, password,name,fatherName,mobile,admissionNumber,address) {
+  SignUp(email, password,name,fatherName,mobile,admissionNumber,hallTicketNumber,address) {
     return this.afAuth.auth.createUserWithEmailAndPassword(email, password)
       .then((result) => {
         /* Call the SendVerificaitonMail() function when new user sign
         up and returns promise */
-        this.SendVerificationMail();
-        this.SetUserData(result.user);
-        this.UpdateUserData(result.user,name,fatherName,mobile,admissionNumber,address);
+        // this.SendVerificationMail();
+
+
+        this.SetUserData(result.user).then(()=>{
+          this.ngZone.run(() => {
+            this.router.navigate(['upload']);
+          });
+  
+        });
+        this.UpdateUserData(result.user,name,fatherName,mobile,admissionNumber,hallTicketNumber,address);
       }).catch((error) => {
         window.alert(error.message)
       })
   }
 
   // Send email verfificaiton when new user sign up
-  SendVerificationMail() {
-    return this.afAuth.auth.currentUser.sendEmailVerification()
-    .then(() => {
-      this.router.navigate(['verify-email-address']);
-    })
-  }
+  // SendVerificationMail() {
+  //   return this.afAuth.auth.currentUser.sendEmailVerification()
+  //   .then(() => {
+  //     this.router.navigate(['verify-email-address']);
+  //   })
+  // }
 
   // Reset Forggot password
   ForgotPassword(passwordResetEmail) {
@@ -90,7 +97,9 @@ export class AuthService {
   // Returns true when user is looged in and email is verified
   get isLoggedIn(): boolean {
     const user = JSON.parse(localStorage.getItem('user'));
-    return (user !== null && user.emailVerified !== false) ? true : false;
+    return (user !== null 
+      // && user.emailVerified !== false
+      ) ? true : false;
   }
 
 
@@ -109,6 +118,7 @@ export class AuthService {
       this.SetUserData(result.user);
     }).catch((error) => {
       window.alert(error)
+      
     })
   }
 
@@ -141,7 +151,7 @@ export class AuthService {
     
   // }
 
-  UpdateUserData(user,name,fatherName,mobile,admissionNumber,address){
+  UpdateUserData(user,name,fatherName,mobile,admissionNumber,hallTicketNumber,address){
     const userRef: AngularFirestoreDocument<any> = this.afs.doc(`users/${user.uid}`);
     
     return userRef.set(
@@ -150,8 +160,8 @@ export class AuthService {
           fatherName: fatherName,
           address: address,
           admissionNumber: admissionNumber,
+          hallTicketNumber: hallTicketNumber,
           mobile: mobile,
-          hallTicket : null
         },{
           merge: true
         }

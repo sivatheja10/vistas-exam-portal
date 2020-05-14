@@ -3,11 +3,11 @@ import { Routes, RouterModule } from '@angular/router';
 
 import { SignInComponent } from '../../components/sign-in/sign-in.component';
 import { SignUpComponent } from '../../components/sign-up/sign-up.component';
-import { DashboardComponent } from '../../components/dashboard/dashboard.component';
 import { ForgotPasswordComponent } from '../../components/forgot-password/forgot-password.component';
-import { VerifyEmailComponent } from '../../components/verify-email/verify-email.component';
-import{ FileUploadComponent } from '../../components/file-upload/file-upload.component'
-import{ WelcomeComponent } from '../../components/welcome/welcome.component'
+import{ FileUploadComponent } from '../../components/file-upload/file-upload.component';
+import{ WelcomeComponent } from '../../components/welcome/welcome.component';
+import { HomePageComponent } from '../../components/home-page/home-page.component';
+import { ExamQuestionComponent } from '../../components/exam-question/exam-question.component';
 
 
 import { AuthGuard } from "../../shared/guard/auth.guard";
@@ -16,11 +16,12 @@ const routes: Routes = [
   { path: '', redirectTo: '/welcome', pathMatch: 'full'},
   { path: 'sign-in', component: SignInComponent},
   { path: 'register-user', component: SignUpComponent},
-  { path: 'dashboard', component: DashboardComponent, canActivate: [AuthGuard] },
   { path: 'forgot-password', component: ForgotPasswordComponent },
-  { path: 'verify-email-address', component: VerifyEmailComponent },
-  { path: 'upload', component: FileUploadComponent },
+  { path: 'upload', component: FileUploadComponent,canActivate: [AuthGuard] },
   { path: 'welcome', component: WelcomeComponent},
+  { path: 'questions', component: ExamQuestionComponent,canActivate: [AuthGuard]},
+  { path: 'home', component: HomePageComponent,canActivate: [AuthGuard]},
+
 
 ];
 
@@ -30,3 +31,4 @@ const routes: Routes = [
 })
 
 export class AppRoutingModule { }
+export const routingComponents = [ExamQuestionComponent, HomePageComponent]

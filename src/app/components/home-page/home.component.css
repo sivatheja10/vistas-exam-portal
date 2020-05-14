@@ -1,0 +1,16 @@
+.fill{
+    margin: auto;
+}
+
+.header-spacer{
+    margin-top: 30px;
+}
+
+.card-form{
+    max-width: 600px;
+    margin: auto;
+}
+
+.fill{
+    flex: 1 1 auto;
+}

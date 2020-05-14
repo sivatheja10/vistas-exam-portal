@@ -23,6 +23,9 @@
         <input type="text" class="formControl" placeholder="Admission Number. Leave empty if not there." #userAmission>
       </div>
       <div class="formGroup">
+        <input type="text" class="formControl" placeholder="Hallticket Number" #userHallticket required>
+      </div>
+      <div class="formGroup">
         <input type="text" class="formControl" placeholder="Address" #userAddress required>
       </div>
 
@@ -35,7 +38,7 @@
       </div>
 
       <div class="formGroup">
-        <input type="button" class="btn btnPrimary" value="Sign Up" (click)="authService.SignUp(userEmail.value, userPwd.value, userName.value, userFName.value, userMobile.value, userAmission.value, userAddress.value)">
+        <input type="button" class="btn btnPrimary" value="Sign Up" (click)="authService.SignUp(userEmail.value, userPwd.value, userName.value, userFName.value, userMobile.value, userAmission.value, userHallticket.value, userAddress.value)">
       </div>
 
 
