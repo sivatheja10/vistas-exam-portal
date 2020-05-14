@@ -1,4 +1,7 @@
 import { Component } from '@angular/core';
+import { AuthService } from "../../shared/services/auth.service";
+import { MatDialog } from '@angular/material/dialog';
+
 
 @Component({
   selector: 'file-upload',
@@ -6,6 +9,21 @@ import { Component } from '@angular/core';
   styleUrls: ['./file-upload.component.scss']
 })
 export class FileUploadComponent {
+
+  user: firebase.User;
+
+  constructor(public dialog: MatDialog, private auth:AuthService) {
+    
+   }
+
+  ngOnInit(): void {
+    this.auth.authState()
+    .subscribe( user => {
+      this.user = user;
+      
+    })
+  }
+
 
   isHovering: boolean;
 
@@ -19,5 +37,10 @@ export class FileUploadComponent {
     for (let i = 0; i < files.length; i++) {
       this.files.push(files.item(i));
     }
+  }
+
+
+   logout() {
+    this.auth.SignOut();
   }
 }

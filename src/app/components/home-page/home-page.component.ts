@@ -26,9 +26,6 @@ export class HomePageComponent implements OnInit {
     })
   }
 
-  openDialog(){
-    this.dialog.open(TestDialogComponent);
-  }
 
   logout() {
     this.auth.SignOut();

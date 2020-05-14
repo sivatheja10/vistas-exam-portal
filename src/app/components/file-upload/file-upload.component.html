@@ -1,14 +1,22 @@
+<mat-toolbar class="mat-elevation-z5" color="primary">
+  <p>Welcome, {{user.email}}</p>
+    <span class="fill"></span>
+  Vels Entrance Exam 
+    <span class="fill"></span>
+  <button class="mat-raised-button" (click)="logout()">Logout</button>  
+  </mat-toolbar >
+
+  <div class="header-spacer"></div>
+
+
 <div class="dropzone" 
      dropzone
      (hovered)="toggleHover($event)"
      (dropped)="onDrop($event)"
      [class.hovering]="isHovering">
 
-
-
-
-
-     <h3>Upload Hallticket | Formats : (PDF, JPG, PNG, JPEG)</h3>
+     <h3>Upload 12th or Equivalent Exam Hallticket</h3>
+     <h4>Formats : (PDF, JPG, PNG, JPEG)</h4>
      <p>Drag and Drop a File</p>
      <div class="file">
         <label class="file-label">
