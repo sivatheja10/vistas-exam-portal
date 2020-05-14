@@ -29,6 +29,7 @@ import { SignUpComponent } from './components/sign-up/sign-up.component';
 import { ForgotPasswordComponent } from './components/forgot-password/forgot-password.component';
 import { WelcomeComponent } from './components/welcome/welcome.component'
 import { TestDialogComponent } from './components/test-dialog/test-dialog.component';
+import { SubmissionComponent } from './components/submission/submission.component';
 
 
 // Firebase services + enviorment module
@@ -63,6 +64,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     WelcomeComponent,
     routingComponents,
     TestDialogComponent,
+    SubmissionComponent,
     
   ],
   entryComponents: [TestDialogComponent],
