@@ -8,6 +8,8 @@ import{ FileUploadComponent } from '../../components/file-upload/file-upload.com
 import{ WelcomeComponent } from '../../components/welcome/welcome.component';
 import { HomePageComponent } from '../../components/home-page/home-page.component';
 import { ExamQuestionComponent } from '../../components/exam-question/exam-question.component';
+import { SubmissionComponent } from '../../components/submission/submission.component';
+
 
 
 import { AuthGuard } from "../../shared/guard/auth.guard";
@@ -21,6 +23,7 @@ const routes: Routes = [
   { path: 'welcome', component: WelcomeComponent},
   { path: 'questions', component: ExamQuestionComponent,canActivate: [AuthGuard]},
   { path: 'home', component: HomePageComponent,canActivate: [AuthGuard]},
+  { path: 'submission', component:SubmissionComponent }
 
 
 ];
