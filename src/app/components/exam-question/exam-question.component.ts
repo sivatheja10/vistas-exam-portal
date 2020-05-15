@@ -3,6 +3,7 @@ import { Component, OnInit } from '@angular/core';
 import { QuizService } from '../../services/quiz.service';
 import { HelperService } from '../../services/helper.service';
 import { Option, Question, Quiz, QuizConfig } from '../../models/index';
+import { AuthService } from 'src/app/shared/services/auth.service';
 
 @Component({
   selector: 'app-exam-question',
@@ -11,6 +12,8 @@ import { Option, Question, Quiz, QuizConfig } from '../../models/index';
   providers: [QuizService]
 })
 export class ExamQuestionComponent implements OnInit {
+
+  user: firebase.User;
 
   exam: any;
   quizes: any[];
@@ -43,7 +46,7 @@ export class ExamQuestionComponent implements OnInit {
   ellapsedTime = '00:00';
   duration = '';
 
-  constructor(private quizService: QuizService) { }
+  constructor(private quizService: QuizService, private auth:AuthService) { }
 
   ngOnInit() {
     this.exam = localStorage.getItem('exam');
@@ -52,6 +55,12 @@ export class ExamQuestionComponent implements OnInit {
     this.quizName = this.quizes[this.exam].id;
     console.log(this.quizName);
     this.loadQuiz(this.quizName);
+
+    //Auth state
+    this.auth.authState()
+    .subscribe( user => {
+      this.user = user;
+    })
   }
 
   loadQuiz(quizName: string) {
@@ -118,6 +127,7 @@ export class ExamQuestionComponent implements OnInit {
     this.quiz.questions.forEach(x => answers.push({ 'quizId': this.quiz.id, 'answered': x.answered }));
 
     // Post your data to the server here. answers contains the questionId and the users' answer.
+    this.auth.SignOut();
     console.log(this.quiz.questions);
     this.mode = 'result';
   }
