@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { Router } from "@angular/router";
+
 
 import { QuizService } from '../../services/quiz.service';
 import { HelperService } from '../../services/helper.service';
@@ -43,7 +45,7 @@ export class ExamQuestionComponent implements OnInit {
   ellapsedTime = '00:00';
   duration = '';
 
-  constructor(private quizService: QuizService) { }
+  constructor(private quizService: QuizService,public router: Router) { }
 
   ngOnInit() {
     this.exam = localStorage.getItem('exam');
@@ -119,6 +121,7 @@ export class ExamQuestionComponent implements OnInit {
 
     // Post your data to the server here. answers contains the questionId and the users' answer.
     console.log(this.quiz.questions);
+    console.log(answers);
     this.mode = 'result';
   }
 }
