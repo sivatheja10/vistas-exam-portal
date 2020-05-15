@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from "@angular/router";
+import {  NgZone } from '@angular/core';
 
 
 import { QuizService } from '../../services/quiz.service';
@@ -48,11 +49,7 @@ export class ExamQuestionComponent implements OnInit {
   ellapsedTime = '00:00';
   duration = '';
 
-<<<<<<< HEAD
-  constructor(private quizService: QuizService,public router: Router) { }
-=======
-  constructor(private quizService: QuizService, private auth:AuthService) { }
->>>>>>> 29baefaeee9313a0ae433adbc397b3c8d985911d
+  constructor(private quizService: QuizService, private auth:AuthService, public router: Router, public ngZone: NgZone) { }
 
   ngOnInit() {
     this.exam = localStorage.getItem('exam');
@@ -133,7 +130,11 @@ export class ExamQuestionComponent implements OnInit {
     this.quiz.questions.forEach(x => answers.push({ 'quizId': this.quiz.id, 'answered': x.answered }));
 
     // Post your data to the server here. answers contains the questionId and the users' answer.
-    this.auth.SignOut();
+    
+    this.ngZone.run(() => {
+      this.router.navigate(['submission']);
+    });
+    // this.auth.SignOut();
     console.log(this.quiz.questions);
     console.log(answers);
     this.mode = 'result';
