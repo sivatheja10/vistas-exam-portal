@@ -32,7 +32,7 @@
       </div>
     </div>
     <div class="result" *ngIf="mode=='result'">
-      <h2>Test Result</h2>
+      <!-- <h2>Test Result</h2>
       <div *ngFor="let question of quiz.questions; let index = index">
         <div class="result-question">
           <h5>{{index + 1}}. {{question.name}}</h5>
@@ -44,12 +44,25 @@
           <div class="p-1 m-2 alert {{ isCorrect(question) == 'correct'? 'alert-success': 'alert-danger'}}">Your answer is {{isCorrect(question)}}.</div>
         </div>
       </div>
-      <h4 class="alert alert-info text-center">You may close this window now.</h4>
+      <h4 class="alert alert-info text-center">You may close this window now.</h4> -->
+      <mat-toolbar class="mat-elevation-z7 d-flex justify-content-center" color="primary">
+        <span class="title">Vels Entrance Exam</span>
+      </mat-toolbar >
+
+      <mat-card class="mat-elevation-z6" style="width: 450px; margin: auto; margin-top: 50px;">
+        <mat-card-title class="d-flex justify-content-center">
+            THANK YOU
+        </mat-card-title>
+        <mat-card-content>
+          <h2>Your exam has been successfully submitted</h2><br>
+          <h3>Further details will be notified by Email or Phone</h3>
+        </mat-card-content>
+      </mat-card>
     </div>
     <hr />
     <div *ngIf="mode!='result'">
       <button class="btn btn-warning" (click)="mode = 'quiz'">Test</button>
       <button class="btn btn-info" (click)="mode = 'review'">Review</button>
-      <button class="btn btn-primary" (click)="onSubmit();">Submit</button>
+      <button class="btn btn-primary" (click)="onSubmit()">Submit</button>
     </div>
   </div>
