@@ -23,7 +23,7 @@ const routes: Routes = [
   { path: 'welcome', component: WelcomeComponent},
   { path: 'questions', component: ExamQuestionComponent,canActivate: [AuthGuard]},
   { path: 'home', component: HomePageComponent,canActivate: [AuthGuard]},
-  { path: 'submission', component:SubmissionComponent }
+  { path: 'submission', component:SubmissionComponent,canActivate: [AuthGuard] }
 
 
 ];

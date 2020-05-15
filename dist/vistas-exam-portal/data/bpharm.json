@@ -4,6 +4,7 @@
     "questions": [
         {
             "name": "Which of the following statement is false about enzyme? ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1,
@@ -22,13 +23,14 @@
                 },
                 {
                     "id": 4,
-                    "name": "Thermostable",
+                    "name": "None of the above",
                     "isAnswer": false
                 }
             ]
         },
         {
             "name": "Which of the following is not an intermediate product of Kreb’s cycle? ?",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1,
@@ -54,6 +56,7 @@
         },
         {
             "name": "Mycorrhiza is a relationship of roots of Pinus and:",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1,
@@ -79,6 +82,7 @@
         },
         {
             "name": "Interferon suppresses the pathogenic activity of",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1,
@@ -104,6 +108,7 @@
         },
         {
             "name": "Isobilateral leaf is present in:",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1,
@@ -129,6 +134,7 @@
         },
         {
             "name": "The material through which electrical charge can flow easily is ________",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1,
@@ -154,6 +160,7 @@
         },
         {
             "name": "In the case of insulators , as the temperature decrease, resistivity_______",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1,
@@ -178,8 +185,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "Thermodynamically the most stable form of carbon is",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -208,7 +216,9 @@
             ]
         },
         {
+            "id": 1019,
             "name": "Phenacetin is used a",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -237,8 +247,9 @@
             ]
         },
                 {
-            
+            "id": 1018,
             "name": "Which of the following lanthanide is commonly used?",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -267,8 +278,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "Which of the following ions has the least magnetic moment?",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -297,8 +309,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "Electromagnetic induction is not used in________",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -327,8 +340,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "Television waves range from_________",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -357,8 +371,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "The amount of optical rotation depends on_______",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -387,8 +402,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "Synthetic polymer which resembles natural rubber is",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -417,8 +433,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "In gymnosperms, the ovule is naked because",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -447,8 +464,9 @@
             ]
         }, 
         {
-            
+            "id": 1018,
             "name": "Crossing over occurs during",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -477,8 +495,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "Clove is",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -508,8 +527,9 @@
         },
 
         {
-            
+            "id": 1018,
             "name": "Genes are made up of",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -538,8 +558,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "________ is used in treatment of skin disease",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -568,8 +589,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "The mean life of radon is 5.5 days. Its half life is_________",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -598,8 +620,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "Two compounds have the same empirical formula but different molecular formulae they must have",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -628,8 +651,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "DNA strands are antiparallel because of the presence of",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -658,8 +682,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "Porous wood contains",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -688,8 +713,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "In TV blanking pulse is applied to",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -718,8 +744,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "When lead nitrate is heated, it produces",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -749,8 +776,9 @@
         },
 
 {
-            
+            "id": 1018,
             "name": "Which of the following compounds is found abundantly in nature?",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -779,8 +807,9 @@
                 ]
          },
         {
-            
+            "id": 1018,
             "name": "Which of the following is the strongest acid?",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -809,8 +838,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The curve y2=x2 (1-x2) is symmetrical about ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -839,8 +869,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The differential of y if y = sin 2x ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -869,8 +900,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The set of positive even integers, with usual multiplication forms ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -899,8 +931,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Which of the following is not true regarding the normal distribution?",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -929,8 +962,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The transition metal ion is purple in colour while Ti4 metal ion is colourless due to",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -959,8 +993,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Which of these scientists proposed electromagnetic wave theory",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -989,8 +1024,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Which one of these p - block elements is used as thermistors",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1019,8 +1055,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "What is the net charge of the complex [ Fe (CN)6]4-",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1049,8 +1086,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The smallest leucocytes are",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1079,8 +1117,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Y chromosome belongs to",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1109,8 +1148,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Histamine is secreted by",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1139,8 +1179,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Vitamin Kplays an important role in ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1169,8 +1210,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Which one of the following is a protozoan disease",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1199,8 +1241,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The blood cell count is made by using",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1229,8 +1272,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Virions contain only a single copy of nucleic acid, hence they are called",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1259,8 +1303,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "A clot in the cerebral vessel causes",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1289,8 +1334,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The ability of the callus to develop into shoot or root or embryoid",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1319,8 +1365,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The enzyme that catalyses the fixation of CO2 in C4 cycle is ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1349,8 +1396,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Example for aquatic fern",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1379,8 +1427,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The phenomenon of paramagnetism is a consequence of _______.   ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1409,8 +1458,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The reduction of which of the following compound would yield secondary amine?",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1439,8 +1489,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "If the earth stops rotating, the value of ‘g’ at the equator will _______.   ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1469,8 +1520,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "On being churned the butter separates out of milk due to _______.   ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1499,8 +1551,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "A solid having irregular shape is called _______ solid.   ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1529,8 +1582,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "In graphite, carbon atoms form interlinked _______ membered rings.  ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1559,8 +1613,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Silicon is a _______.  ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1589,8 +1644,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Amorphous solids are _______.  ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1619,8 +1675,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The highest magnetic moment will be shown by",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1649,8 +1706,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Yellow glass contains _______.",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1679,8 +1737,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The lustre of a metal is due to _______.   ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1709,8 +1768,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Nuclear force is",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1739,8 +1799,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "A simple second pendulum is mounted in a rocket. Its time period will decrease when the rocket is",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1769,8 +1830,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The force required to keep a body in uniform circular motion is   ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1799,8 +1861,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Who is known as “Father of Genetics",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1829,8 +1892,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Genotype is   ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1859,8 +1923,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The botanical name of garden pea is   ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1890,8 +1955,9 @@
         },
 
 {
-            
+            "id": 1018,
             "name": "Find the odd one out.",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1920,8 +1986,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The science dealing with heredity and variation is known as  ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1950,8 +2017,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The drug ‘belladonna’ is obtained from",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -1980,8 +2048,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Which part of embryo comes out first during seed germination?",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2010,8 +2079,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Lower ether act as",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2040,8 +2110,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Bragg’s equation is used to calculate",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2069,8 +2140,9 @@
                 }
             ]
         },{
-            
+            "id": 1018,
             "name": "The inside and outside temperatures of a refrigerator are 273 K and 303 K respectively Assuming that refrigerator cycle is reversible for every joule of work done the heat delivered to the surrounding will be",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2099,8 +2171,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "A diffraction pattern is obtained using a beam of red light. What happens if the red light is replaced by blue light?",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2129,8 +2202,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The focal length of the objective of a telescope is 60 cm. To obtain a magnification of 20 for the relaxed eye, the length of telescope should be",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2159,8 +2233,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Two identical capacitors are joined in parallel and charged to a potential V. Then these are separated and connected in series with the positive plate of one connected to the negative of the other. Then the",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2189,8 +2264,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Which of the following shows rhipidiuminfloresence",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2219,8 +2295,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Two electric bulbs, one of 200 V, 40 W and the other of 200 V, 100 W are connected in a domestic circuit. Then",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2249,8 +2326,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Parsec is a unit of",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2279,8 +2357,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Carrier proteins are involved in ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2309,8 +2388,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Haploid callus can be converted to diploid callus using",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2339,8 +2419,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Ribosomal precursor or ribosomal subunits in cell is formed in:",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2369,8 +2450,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "How will you separate mixture of two gases? ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2399,8 +2481,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Which of these have no unit? ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2429,8 +2512,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Which of the following cuts ultraviolet rays?",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2459,8 +2543,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Acetone is mixed with bleaching powder to give ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2489,8 +2574,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Impurities of Cu and Ag from gold are removed by ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2519,8 +2605,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "EDTA has coordination number  ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2549,8 +2636,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Write the IUPAC name of propionic acid ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2580,8 +2668,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Stainless steel is an alloy of  ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2610,8 +2699,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": " Triple point of water is ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2640,8 +2730,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "What is the % of acetic acid present in vinegar?  ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2670,8 +2761,9 @@
             ]
         },
                 {
-            
+            "id": 1018,
             "name": "Nitrous oxide is known as   ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2700,8 +2792,9 @@
             ]
         },
                 {
-            
+            "id": 1018,
             "name": "The magnitude of acceleration of particle executing SHM at the position of maximum displacement is  ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2730,8 +2823,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The wavelength of a radiowave of frequency of I MHz is ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2760,8 +2854,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The error in the measurement of radius of the sphere is 0.3%. What is the permissible error in its surface area?",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2790,8 +2885,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Graphite is a good conductor of heat and electricity because it contains  ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2820,8 +2916,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "The crucial function of moderators in nuclear reactors is to  ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2850,8 +2947,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "Tyndall effect can be observed in",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2880,8 +2978,9 @@
             ]
         },
 {
-            
+            "id": 1018,
             "name": "According to Bronsted, a base is a substance which  ",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2910,8 +3009,9 @@
             ]
         },
         {
-            
+            "id": 1018,
             "name": "Which of the following ions has the least magnetic moment?",
+            "questionTypeId": 1,
             "options": [
                 {
                     "id": 1055,
@@ -2944,5 +3044,5 @@
                 "isActive": true
             }
         }
-        ]
+    ]
 }
