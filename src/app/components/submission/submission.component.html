@@ -1,12 +1,25 @@
-<mat-toolbar class="mat-elevation-z5" color="primary">
+<nav class="flex items-center justify-between flex-wrap bg-purple-800 p-2">
+  <p class="text-white text-xl ml-5">Welcome, {{user.email}}</p>
+  <div class="flex items-center flex-shrink-0 text-white mr-4">
+      <span class="font-bold text-xl justify-center align-items-center text-center">VISTAS Admin Panel</span>
+  </div>
+  
+  <div class="p-2">
+      <button class="inline-block text-sm px-4 py-2 leading-none border rounded text-white border-white hover:border-trasparent hover:text-blue-500 hover:bg-purple-700 mt-4 md:mt-0" (click)="logout()">
+          Logout
+      </button>
+      
+  </div>
+</nav>
+<!-- <mat-toolbar class="mat-elevation-z5" color="primary">
     <p>Welcome, {{user.email}}</p>
       <span class="fill"></span>
-   Vels Entrance Exam 
+  <h3 class="justify-center align-items-center text-center "> Vels Entrance Exam </h3> 
       <span class="fill"></span>
-    <button class="mat-raised-button" (click)="logout()">Logout</button>  
+    <button class="mat-raised-button inline-block text-sm px-4 py-2 leading-none border rounded text-black border-white hover:border-trasparent hover:text-blue-500 hover:bg-white mt-4 md:mt-0" (click)="logout()">Logout</button>  
     </mat-toolbar >
   
-    <div class="header-spacer"></div>
+    <div class="header-spacer"></div> -->
     <div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
         <main role="main" class="inner cover">
             <h1 class="cover-heading">Thank You!</h1>
@@ -16,7 +29,7 @@
                 Having trouble? <a href="http://www.velsuniv.ac.in/contact.asp"target="_blank">Contact us</a>
               </p> -->
             <p class="lead">
-              <a href="http://www.velsuniv.ac.in/" class="btn btn-lg btn-secondary">Learn more</a>
+              <a href="http://www.velsuniv.ac.in/" class="btn btn-lg btn-secondary" target="_blank">Learn more</a>
             </p>
           </main>
         

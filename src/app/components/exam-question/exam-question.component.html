@@ -1,34 +1,66 @@
 <div id="quiz">
-    <h2 class="text-center font-weight-normal">{{quiz.name}}</h2>  
-  <hr />
+  <br>
+    <div class="shadow-md">
+      <h2 class="text-center font-weight-normal">{{quiz.name}}</h2>  
+    <br>
+    </div>
     <div *ngIf="mode=='quiz' && quiz">
       <div *ngFor="let question of filteredQuestions;">
-        <div class="badge badge-info">Question {{pager.index + 1}} of {{pager.count}}.</div>
-        <div *ngIf="config.duration" class="badge badge-info float-right">Time: {{ellapsedTime}} / {{duration}}</div>
-        <h3 class="font-weight-normal">{{pager.index + 1}}.
+        <!-- Questions count -->
+        <br>
+        <div class="badge badge-info text-base">Question {{pager.index + 1}} of {{pager.count}}.</div>
+        <!-- Timer -->
+        <div *ngIf="config.duration" class="badge badge-info float-right text-base">Time: {{ellapsedTime}} / {{duration}}</div>
+          <br>
+        <!-- Question field -->
+       <br>
+        <h3 class="ml-5 font-weight-normal ">{{pager.index + 1}}.
           <span [innerHTML]="question.name"></span>
         </h3>
+        <!-- Options -->
         <div class="row text-left options">
           <div class="col-6" *ngFor="let option of question.options">
-            <div class="option">
+            <div class="shadow-xl rounded-full mx-5 option">
               <label class="font-weight-normal" [attr.for]="option.id">
                 <input id="{{option.id}}" type="checkbox" [(ngModel)]="option.selected" (change)="onSelect(question, option);" /> {{option.name}}
               </label>
             </div>
           </div>
         </div>
+
       </div>
-      <hr />
-      <div class="text-center">
+      <br><br><br>
+      
+      <!-- <div class="text-center">
         <button class="btn btn-default" *ngIf="config.allowBack" (click)="goTo(0);">First</button>
         <button class="btn btn-default" *ngIf="config.allowBack" (click)="goTo(pager.index - 1);">Prev</button>
         <button class="btn btn-primary" (click)="goTo(pager.index + 1);">Next</button>
         <button class="btn btn-default" *ngIf="config.allowBack" (click)="goTo(pager.count - 1);">Last</button>
+      </div> -->
+      <br>
+      <div class="flex  justify-center align-items-center text-center py-4">
+        <button class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-full mr-2 shadow sm:shadow-md md:shadow-lg lg:shadow-xl xl:shadow-2xl"
+        *ngIf="config.allowBack" (click)="goTo(0);">
+          First
+        </button>
+        <button class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-full mr-2 shadow sm:shadow-md md:shadow-lg lg:shadow-xl xl:shadow-2xl"
+        *ngIf="config.allowBack" (click)="goTo(pager.index - 1);">
+          Prev
+        </button>
+        <button class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-full mr-2 shadow sm:shadow-md md:shadow-lg lg:shadow-xl xl:shadow-2xl"
+        (click)="goTo(pager.index + 1);">
+          Next
+        </button>
+        <button class="bg-gray-300 hover:bg-gray-400 text-gray-800 font-bold py-2 px-4 rounded-full shadow sm:shadow-md md:shadow-lg lg:shadow-xl xl:shadow-2xl"
+        *ngIf="config.allowBack" (click)="goTo(pager.count - 1);">
+          Last
+        </button>
       </div>
     </div>
+    <br>
     <div class="row text-center" *ngIf="mode=='review'">
       <div class="col-4 cursor-pointer" *ngFor="let question of quiz.questions; let index = index;">
-        <div (click)="goTo(index)" class="p-3 mb-2 {{ isAnswered(question) == 'Answered'? 'bg-info': 'bg-warning' }}">{{index + 1}}. {{ isAnswered(question) }}</div>
+        <div (click)="goTo(index)" class=" rounded-full shadow p-3 mb-2 {{ isAnswered(question) == 'Answered'? 'bg-green-500': 'bg-orange-400' }}">{{index + 1}}. {{ isAnswered(question) }}</div>
       </div>
     </div>
     <div class="result" *ngIf="mode=='result'">
@@ -59,10 +91,24 @@
         </mat-card-content>
       </mat-card>
     </div>
-    <hr />
-    <div *ngIf="mode!='result'">
-      <button class="btn btn-warning" (click)="mode = 'quiz'">Test</button>
-      <button class="btn btn-info" (click)="mode = 'review'">Review</button>
-      <button class="btn btn-primary" (click)="onSubmit()">Submit</button>
+
+      <!-- <div *ngIf="mode!='result'">
+        <button class="btn btn-warning" (click)="mode = 'quiz'">Test</button>
+        <button class="btn btn-info" (click)="mode = 'review'">Review</button>
+        <button class="btn btn-primary" (click)="onSubmit()">Submit</button>
+      </div> -->
+    <div class="flex justify-center align-items-center text-center py-4" *ngIf="mode!='result'">
+        <button class="bg-yellow-400 hover:bg-yellow-500 text-black-800 font-bold py-2 px-4 rounded-full mr-2 shadow sm:shadow-md md:shadow-lg lg:shadow-xl xl:shadow-2xl"
+        (click)="mode = 'quiz'">
+          Test
+        </button>
+        <button class="bg-teal-400 hover:bg-teal-300 text-white font-bold py-2 px-4 rounded-full mr-2 shadow sm:shadow-md md:shadow-lg lg:shadow-xl xl:shadow-2xl"
+        (click)="mode = 'review'">
+          Review
+        </button>
+        <button class="bg-indigo-600 hover:bg-indigo-400 text-white font-bold py-2 px-4 rounded-full mr-2 shadow sm:shadow-md md:shadow-lg lg:shadow-xl xl:shadow-2xl"
+        (click)="onSubmit()">
+          Submit
+        </button>
     </div>
-  </div>
+</div>
