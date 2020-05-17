@@ -22,7 +22,10 @@ export class ExamQuestionComponent implements OnInit {
   quizes: any[];
   quiz: Quiz = new Quiz(null);
   mode = 'quiz';
+  score: number = 0;
   quizName: string;
+  correctAnswerCount: number = 0;
+
   config: QuizConfig = {
     'allowBack': true,
     'allowReview': true,
@@ -49,7 +52,9 @@ export class ExamQuestionComponent implements OnInit {
   ellapsedTime = '00:00';
   duration = '';
 
-  constructor(private quizService: QuizService, private auth:AuthService, public router: Router, public ngZone: NgZone) { }
+  constructor(private quizService: QuizService, private auth:AuthService, public router: Router, public ngZone: NgZone) {
+    this.score = 0;
+   }
 
   ngOnInit() {
     this.exam = localStorage.getItem('exam');
@@ -58,6 +63,8 @@ export class ExamQuestionComponent implements OnInit {
     this.quizName = this.quizes[this.exam].id;
     console.log(this.quizName);
     this.loadQuiz(this.quizName);
+    this.correctAnswerCount = 0;
+    localStorage.setItem('score', this.score.toString())
 
     //Auth state
     this.auth.authState()
@@ -122,12 +129,20 @@ export class ExamQuestionComponent implements OnInit {
   };
 
   isCorrect(question: Question) {
-    return question.options.every(x => x.selected === x.isAnswer) ? 'correct' : 'wrong';
-  };
+    if(question.options.every(x => x.selected == x.isAnswer)){
+      this.score = this.score + 1
+      this.correctAnswerCount++
+      console.log(this.correctAnswerCount)
+      console.log('Score increased')
+      localStorage.setItem('score', this.score.toString())
+      return question.options.every(x => x.selected == x.isAnswer) ? 'Correct' : 'Wrong'  };
+
+    }
 
   onSubmit() {
     let answers = [];
     this.quiz.questions.forEach(x => answers.push({ 'quizId': this.quiz.id, 'answered': x.answered }));
+    this.quiz.questions.forEach(qn => this.isCorrect(qn));
 
     // Post your data to the server here. answers contains the questionId and the users' answer.
     
