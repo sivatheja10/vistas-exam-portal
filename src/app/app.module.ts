@@ -50,6 +50,7 @@ import { FileUploadComponent } from './components/file-upload/file-upload.compon
 import { DropzoneDirective } from './dropzone.directive';
 import { UploadTaskComponent } from './components/upload-task/upload-task.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
+import { CreditsComponent } from './components/credits/credits.component';
 
 
 @NgModule({
@@ -65,6 +66,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
     routingComponents,
     TestDialogComponent,
     SubmissionComponent,
+    CreditsComponent,
     
   ],
   entryComponents: [TestDialogComponent],
