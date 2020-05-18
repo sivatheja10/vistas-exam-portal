@@ -11,6 +11,8 @@ import { AuthService } from "../../shared/services/auth.service";
 export class SubmissionComponent implements OnInit {
 
   user: firebase.User;
+  loggedUser = JSON.parse(localStorage.getItem('user'));
+
 
   constructor(public dialog: MatDialog, private router: Router, private auth:AuthService) {
     

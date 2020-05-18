@@ -13,8 +13,9 @@ export class WelcomeComponent implements OnInit {
 
   ngOnInit(): void {
   }
-  setExam(exam:string){
+  setExam(exam:string,examName:string){
     localStorage.setItem('exam',exam);
+    localStorage.setItem('examName',examName);
     // console.log(exam);
     this.router.navigate(['register-user']);
   }

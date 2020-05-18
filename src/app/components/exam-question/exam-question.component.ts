@@ -1,12 +1,13 @@
 import { Component, OnInit } from '@angular/core';
 import { Router } from "@angular/router";
 import {  NgZone } from '@angular/core';
-
-
+import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firestore';
 import { QuizService } from '../../services/quiz.service';
 import { HelperService } from '../../services/helper.service';
 import { Option, Question, Quiz, QuizConfig } from '../../models/index';
 import { AuthService } from 'src/app/shared/services/auth.service';
+import * as firebase from 'firebase';
+
 
 @Component({
   selector: 'app-exam-question',
@@ -22,7 +23,6 @@ export class ExamQuestionComponent implements OnInit {
   quizes: any[];
   quiz: Quiz = new Quiz(null);
   mode = 'quiz';
-  score: number = 0;
   quizName: string;
   correctAnswerCount: number = 0;
 
@@ -52,8 +52,7 @@ export class ExamQuestionComponent implements OnInit {
   ellapsedTime = '00:00';
   duration = '';
 
-  constructor(private quizService: QuizService, private auth:AuthService, public router: Router, public ngZone: NgZone) {
-    this.score = 0;
+  constructor(private quizService: QuizService,public afs: AngularFirestore, private auth:AuthService, public router: Router, public ngZone: NgZone) {
    }
 
   ngOnInit() {
@@ -64,7 +63,6 @@ export class ExamQuestionComponent implements OnInit {
     console.log(this.quizName);
     this.loadQuiz(this.quizName);
     this.correctAnswerCount = 0;
-    localStorage.setItem('score', this.score.toString())
 
     //Auth state
     this.auth.authState()
@@ -130,28 +128,29 @@ export class ExamQuestionComponent implements OnInit {
 
   isCorrect(question: Question) {
     if(question.options.every(x => x.selected == x.isAnswer)){
-      this.score = this.score + 1
       this.correctAnswerCount++
-      console.log(this.correctAnswerCount)
-      console.log('Score increased')
-      localStorage.setItem('score', this.score.toString())
+      // console.log(this.correctAnswerCount)
+      // console.log('Score increased')
       return question.options.every(x => x.selected == x.isAnswer) ? 'Correct' : 'Wrong'  };
 
     }
 
   onSubmit() {
-    let answers = [];
-    this.quiz.questions.forEach(x => answers.push({ 'quizId': this.quiz.id, 'answered': x.answered }));
+    var date = firebase.firestore.Timestamp.now();
     this.quiz.questions.forEach(qn => this.isCorrect(qn));
-
     // Post your data to the server here. answers contains the questionId and the users' answer.
     
     this.ngZone.run(() => {
       this.router.navigate(['submission']);
     });
-    // this.auth.SignOut();
-    console.log(this.quiz.questions);
-    console.log(answers);
+
+    
+    this.afs.collection('users').doc(`${this.user.uid}`).set({
+      Score : this.correctAnswerCount,
+      SubmissionTime : date,    },{
+      merge: true
+    });
+    // console.log(this.quiz.questions);
     this.mode = 'result';
   }
 }

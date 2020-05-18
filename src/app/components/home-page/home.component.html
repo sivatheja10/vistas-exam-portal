@@ -1,7 +1,7 @@
 <mat-toolbar class="mat-elevation-z5" color="primary">
-  <p>Welcome, {{user.email}}</p>
+  <p>Welcome, {{loggedUser.email}}</p>
     <span class="fill"></span>
-  Vels Entrance Exam 
+  VISTAS Entrance Exam 
     <span class="fill"></span>
   <button class="mat-raised-button" (click)="logout()">Logout</button>  
   </mat-toolbar >
@@ -42,7 +42,7 @@
       </b>
     </mat-card-content>
     <mat-card-actions>
-      <button mat-raised-button color="primary" routerLink="/questions" routerLinkActive="active">Take Test</button>
+      <button mat-raised-button color="primary" routerLink="/questions" routerLinkActive="active" (click)="saveExamStartTime()">Take Test</button>
     </mat-card-actions>
   </mat-card>
   
