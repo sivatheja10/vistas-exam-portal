@@ -3010,6 +3010,37 @@
         },
         {
             "id": 1018,
+            "name": "Interferon suppresses the pathogenic activity of:",
+            "questionTypeId": 1,
+            "options": [
+                {
+                    "id": 1055,
+                    "questionId": 1010,
+                    "name": "Virus",
+                    "isAnswer": true
+                },
+                {
+                    "id": 1057,
+                    "questionId": 1010,
+                    "name": "Fungi",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1056,
+                    "questionId": 1010,
+                    "name": "Bacteria",
+                    "isAnswer": false
+                },
+                {
+                    "id": 1058,
+                    "questionId": 1010,
+                    "name": "Mould",
+                    "isAnswer":false
+                }
+            ]
+        },
+        {
+            "id": 1018,
             "name": "Which of the following ions has the least magnetic moment?",
             "questionTypeId": 1,
             "options": [
