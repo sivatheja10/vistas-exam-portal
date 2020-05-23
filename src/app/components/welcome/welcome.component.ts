@@ -8,6 +8,7 @@ import { Router } from "@angular/router";
   styleUrls: ['./welcome.component.css']
 })
 export class WelcomeComponent implements OnInit {
+  exam :any
 
   constructor( public router: Router) { }
 
@@ -16,8 +17,12 @@ export class WelcomeComponent implements OnInit {
   setExam(exam:string,examName:string){
     localStorage.setItem('exam',exam);
     localStorage.setItem('examName',examName);
+    this.exam = localStorage.getItem('exam');
+    if (exam === "0"){
+      this.router.navigate(['register-user']);
+
+    }
     // console.log(exam);
-    this.router.navigate(['register-user']);
   }
   // getExam(){
   //   let myItem = localStorage.getItem('exam');
