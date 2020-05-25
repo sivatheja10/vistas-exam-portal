@@ -1,0 +1,942 @@
+{
+
+      "examname": "Engineering (B.E., B.Tech.)",
+        "questions": [
+          {
+            "A": "10 mps",
+            "Answer": "A",
+            "Question": "Express a speed of 36 kmph in meters per second?",
+            "C": "14 mps",
+            "questionTypeId": 1,
+            "B": "12 mps",
+            "D": "17 mps"
+          },
+          {
+            "C": "90 kmph",
+            "questionTypeId": 1,
+            "B": "99 kmph",
+            "D": "None",
+            "A": "15 kmph",
+            "Answer": "C",
+            "Question": "Express 25 mps in kmph?"
+          },
+          {
+            "B": "12 kmph",
+            "D": "5 kmph",
+            "A": "15 kmph",
+            "Answer": "A",
+            "Question": "The speed of a train is 90 kmph. What is the distance covered by it in 10 minutes?",
+            "C": "10 kmph",
+            "questionTypeId": 1
+          },
+          {
+            "D": "10.4 kmph",
+            "A": "104 kmph",
+            "Answer": "A",
+            "Question": "A car covers a distance of 624 km in 6 ½ hours. Find its speed?",
+            "C": "104 mph",
+            "questionTypeId": 1,
+            "B": "140 kmph"
+          },
+          {
+            "Answer": "A",
+            "Question": "A and B complete a work in 6 days. A alone can do it in 10 days. If both together can do the work in how many days?",
+            "C": "5 days",
+            "questionTypeId": 1,
+            "B": "4 days",
+            "D": "6 days",
+            "A": "3.75 days"
+          },
+          {
+            "Answer": "B",
+            "Question": "A can do a piece of work in 4 days. B can do it in 5 days. With the assistance of C they completed the work in 2 days. Find in how many days can C alone do it?",
+            "C": "5 days",
+            "questionTypeId": 1,
+            "B": "20 days",
+            "D": "4 days",
+            "A": "10 days"
+          },
+          {
+            "C": "13 days",
+            "questionTypeId": 1,
+            "B": "14 days",
+            "D": "11 days",
+            "A": "15 days",
+            "Answer": "D",
+            "Question": "A, B and C can do a piece of work in 24, 30 and 40 days respectively. They start the work together but C leaves 4 days before the completion of the work. In how many days is the work done?"
+          },
+          {
+            "Answer": "D",
+            "Question": "5 men and 12 boys finish a piece of work in 4 days, 7 men and 6 boys do it in 5 days. The ratio between the efficiencies of a man and boy is?",
+            "C": "2:3",
+            "questionTypeId": 1,
+            "B": "2:1",
+            "D": "6:5",
+            "A": "1:2 "
+          },
+          {
+            "A": "56",
+            "Answer": "B",
+            "Question": "A and B can finish a work in 16 days while A alone can do the same work in 24 days. In how many days B alone will complete the work?",
+            "C": "36",
+            "questionTypeId": 1,
+            "B": "48",
+            "D": "58"
+          },
+          {
+            "D": "12 days",
+            "A": "3 days",
+            "Answer": "A",
+            "Question": "Some persons can do a piece of work in 12 days. Two times the number of these people will do half of that work in?",
+            "C": "6 days",
+            "questionTypeId": 1,
+            "B": "4 days"
+          },
+          {
+            "A": "42",
+            "Answer": "B",
+            "Question": "What number has a 5:1 ratio to the number 10?",
+            "C": "55",
+            "questionTypeId": 1,
+            "B": "50",
+            "D": "62"
+          },
+          {
+            "D": "10:27",
+            "A": "3:8",
+            "Answer": "B",
+            "Question": "Two same glasses are respectively 1/4th 1/5th full of milk. They are then filled with water and the contents mixed in a tumbler. The ratio of milk and water in the tumbler is?",
+            "C": "8:21",
+            "questionTypeId": 1,
+            "B": "9:31"
+          },
+          {
+            "Answer": "",
+            "Question": "A and B entered into a partnership investing Rs.25000 and Rs.30000 respectively. After 4 months C also joined the business with an investment of Rs.35000. What is the share of C in an annual profit of Rs.47000?",
+            "C": "Rs.17000",
+            "questionTypeId": 1,
+            "B": "Rs.15000",
+            "D": "14000",
+            "A": "Rs.18000"
+          },
+          {
+            "D": "23",
+            "A": "22",
+            "Answer": "A",
+            "Question": "In how many years does a sum of Rs. 5000 yield a simple interest of Rs. 16500 at 15% p.a.?",
+            "C": "25",
+            "questionTypeId": 1,
+            "B": "24"
+          },
+          {
+            "A": "1.01% ",
+            "Answer": "D",
+            "Question": "The radius of a circle is increased by 1%. Find how much % does its area increases?",
+            "C": "3.01%",
+            "questionTypeId": 1,
+            "B": "5.01%",
+            "D": "2.01%"
+          },
+          {
+            "Answer": "A",
+            "Question": "If (y - 2, x + 1) = (x - 1, 2) then the values of x and y are?",
+            "C": "-1,-2",
+            "questionTypeId": 1,
+            "B": "2,3",
+            "D": "1,-2",
+            "A": "1,2 "
+          },
+          {
+            "D": "det (2A) = 2 det A",
+            "A": "det(-A) = -det A",
+            "Answer": "A",
+            "Question": "If A is a square matrix of order 3 then the true statement is",
+            "C": "det (A+I) = I + det A",
+            "questionTypeId": 1,
+            "B": "det A = 0"
+          },
+          {
+            "A": "1/3",
+            "Answer": "C",
+            "Question": "For the equation 3x2+px+3=0, p>0, if one of the roots is square of the other, then p is equal to",
+            "C": "3",
+            "questionTypeId": 1,
+            "B": "1",
+            "D": "2/3"
+          },
+          {
+            "C": "10000",
+            "questionTypeId": 1,
+            "B": "9999",
+            "D": "10001",
+            "A": "9998 ",
+            "Answer": "A",
+            "Question": "The 99th term of the sequence 2,7,14,23,34,.... is"
+          },
+          {
+            "Answer": "A",
+            "Question": "The number of integer values of m, for which the x-co-ordinate of the point of intersection of the lines 3x + 4y = 9 and y = mx + 1 is also an integer is",
+            "C": "4",
+            "questionTypeId": 1,
+            "B": "0",
+            "D": "1",
+            "A": "2"
+          },
+          {
+            "D": "20x+72y-109=0, x+5y=2",
+            "A": "21x+77y-101=0, 11x-3y+9=0",
+            "Answer": "A",
+            "Question": "Equations of the bisectors of the lines 3x-4y+7=0 and 12x+5y-2=0 are given by",
+            "C": "15x-9y+67=0, 15x+4y+33=0",
+            "questionTypeId": 1,
+            "B": "11x-6y+111=0, 22x-13y+104=0"
+          },
+          {
+            "A": "intersect at two points",
+            "Answer": "A",
+            "Question": "The circles x2 + y2 - 4x - 6y - 12 = 0 and x2 + y2 + 6x - 8y + 21 = 0",
+            "C": "touches each other internally",
+            "questionTypeId": 1,
+            "B": "touches each other externally",
+            "D": "Neither touches nor intersects"
+          },
+          {
+            "A": "6/sqrt(5)",
+            "Answer": "A",
+            "Question": "The length of the intercept made by the line y = 2x + 1 on the circle x2 + y2 = 2 is",
+            "C": "6.sqrt(2)",
+            "questionTypeId": 1,
+            "B": "6.sqrt(5)",
+            "D": "6/sqrt(2)"
+          },
+          {
+            "Answer": "B",
+            "Question": "Let u1 and u2 be two wins such that u1 contains 3 white and 2 red balls and u2 contains only one white ball. A fair coin is tossed. If head appear then one ball is drawn at random from u1 and put into u2. However if tail appears then 2 balls are drawn at random from u1 and put into u2. Now one ball is drawn at random from u2. Then the probability of the drawn ball from u2 being white is ",
+            "C": "19/30",
+            "questionTypeId": 1,
+            "B": "23/30",
+            "D": "11/30",
+            "A": "13/30 "
+          },
+          {
+            "Answer": "B",
+            "Question": "Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?",
+            "C": "12",
+            "questionTypeId": 1,
+            "B": "10",
+            "D": "13",
+            "A": "7"
+          },
+          {
+            "D": "(1/16)",
+            "A": "(1/3)",
+            "Answer": "B",
+            "Question": "Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",
+            "C": "(2/8)",
+            "questionTypeId": 1,
+            "B": "(1/8)"
+          },
+          {
+            "D": "KLLA",
+            "A": "OLPA",
+            "Answer": "D",
+            "Question": "ELFA, GLHA, ILJA, _____, MLNA",
+            "C": "LLMA",
+            "questionTypeId": 1,
+            "B": "KLMA"
+          },
+          {
+            "Answer": "C",
+            "Question": "CMM, EOO, GQQ, _____, KUU",
+            "C": "ISS",
+            "questionTypeId": 1,
+            "B": "GSS",
+            "D": "ITT",
+            "A": "GRR"
+          },
+          {
+            "D": "",
+            "A": "True",
+            "Answer": "A",
+            "Question": "Apartments in the Riverdale Manor cost less than apartments in The Gaslight Commons. Apartments in the Livingston Gate cost more than apartments in the Gaslight Commons. Of the three apartment buildings, the Livingston Gate costs the most. If the first two statements are true, the third statement is",
+            "C": "Uncertain",
+            "questionTypeId": 1,
+            "B": "False"
+          },
+          {
+            "D": "",
+            "A": "True",
+            "Answer": "A",
+            "Question": "All the offices on the 9th floor have wall-to-wall carpeting. No wall-to-wall carpeting is pink. None of the offices on the 9th floor has pink wall-to-wall carpeting. If the first two statements are true, the third statement is",
+            "C": "Uncertain",
+            "questionTypeId": 1,
+            "B": "False"
+          },
+          {
+            "Answer": "D",
+            "Question": "Window is to pane as book is to",
+            "C": "Cover",
+            "questionTypeId": 1,
+            "B": "Glass",
+            "D": "Page",
+            "A": "Novel"
+          },
+          {
+            "Answer": "B",
+            "Question": "Cup is to coffee as bowl is to",
+            "C": "Spoon",
+            "questionTypeId": 1,
+            "B": "Soup",
+            "D": "Food",
+            "A": "Dish"
+          },
+          {
+            "D": "Direction",
+            "A": "Speed",
+            "Answer": "D",
+            "Question": "Odometer is to mileage as compass is to",
+            "C": "Needle",
+            "questionTypeId": 1,
+            "B": "Hiking"
+          },
+          {
+            "D": "Sleep",
+            "A": "Winter",
+            "Answer": "D",
+            "Question": "Marathon is to race as hibernation is to",
+            "C": "Dream",
+            "questionTypeId": 1,
+            "B": "Bear"
+          },
+          {
+            "D": "JAI",
+            "A": "JAK",
+            "Answer": "A",
+            "Question": "FAG, GAF, HAI, IAH, ____",
+            "C": "HAK",
+            "questionTypeId": 1,
+            "B": "HAL"
+          },
+          {
+            "A": "OLPA",
+            "Answer": "D",
+            "Question": "ELFA, GLHA, ILJA, _____, MLNA",
+            "C": "LLMA",
+            "questionTypeId": 1,
+            "B": "KLMA",
+            "D": "KLLA"
+          },
+          {
+            "Answer": "B",
+            "Question": "Mara runs faster than Gail. Lily runs faster than Mara. Gail runs faster than Lily. If the first two statements are true, the third statement is",
+            "C": "Uncertain",
+            "questionTypeId": 1,
+            "B": "False",
+            "D": "",
+            "A": "True"
+          },
+          {
+            "Answer": "A",
+            "Question": "What difference does the 5th generation computer have from other generation computers?",
+            "C": "Object Oriented Programming",
+            "questionTypeId": 1,
+            "B": "Scientific code",
+            "D": "All the above",
+            "A": "Technological advancement"
+          },
+          {
+            "D": "PASCAL",
+            "A": "PL/1",
+            "Answer": "D",
+            "Question": "Which of the following languages is more suited to a structured program?",
+            "C": "BASIC",
+            "questionTypeId": 1,
+            "B": "FORTRAN"
+          },
+          {
+            "A": "Surface",
+            "Answer": "B",
+            "Question": "The tracks on a disk which can be accessed without re-positioning the R/W heads is",
+            "C": "Cluster",
+            "questionTypeId": 1,
+            "B": "Cylinder",
+            "D": "All the above"
+          },
+          {
+            "Answer": "B",
+            "Question": "A computer assisted method for the recording and analyzing of existing or hypothetical systems is",
+            "C": "Data capture",
+            "questionTypeId": 1,
+            "B": "Data flow",
+            "D": "Data processing",
+            "A": "Data transmission"
+          },
+          {
+            "B": "Memory",
+            "D": "Control unit",
+            "A": "ALU",
+            "Answer": "C",
+            "Question": "The brain of any computer system is",
+            "C": "CPU",
+            "questionTypeId": 1
+          },
+          {
+            "Answer": "B",
+            "Question": "Which of the following computer language is used for artificial intelligence?",
+            "C": "C",
+            "questionTypeId": 1,
+            "B": "PROLOG",
+            "D": "COBOL",
+            "A": "FORTRAN"
+          },
+          {
+            "D": "MDR",
+            "A": "M",
+            "Answer": "A",
+            "Question": "A section of code to which control is transferred when a processor is interrupted is known as",
+            "C": "IP",
+            "questionTypeId": 1,
+            "B": "SVC"
+          },
+          {
+            "C": "Logic unit",
+            "questionTypeId": 1,
+            "B": "Storage unit",
+            "D": "Control unit",
+            "A": "Input",
+            "Answer": "D",
+            "Question": "Which part interprets program instructions and initiate control operations."
+          },
+          {
+            "D": "10",
+            "A": "01",
+            "Answer": "A",
+            "Question": "Which of the following is the 1's complement of 10?",
+            "C": "11",
+            "questionTypeId": 1,
+            "B": "110"
+          },
+          {
+            "D": "Seek time",
+            "A": "Delay time",
+            "Answer": "B",
+            "Question": "The time required for the fetching and execution of one simple machine instruction is",
+            "C": "Real time",
+            "questionTypeId": 1,
+            "B": "CPU cycle"
+          },
+          {
+            "C": "Assembler",
+            "questionTypeId": 1,
+            "B": "Interpreter",
+            "D": "Comparator",
+            "A": "Compiler",
+            "Answer": "C",
+            "Question": "A computer program that converts assembly language to machine language is"
+          },
+          {
+            "Answer": "A",
+            "Question": "The binary system uses powers of",
+            "C": "8",
+            "questionTypeId": 1,
+            "B": "10",
+            "D": "16",
+            "A": "2"
+          },
+          {
+            "Answer": "B",
+            "Question": "The Human Genome Project officially began in",
+            "C": "1992",
+            "questionTypeId": 1,
+            "B": "1990",
+            "D": "1998",
+            "A": "1988 "
+          },
+          {
+            "D": "Adult stem cells reproduce much faster than embryonic stem cells",
+            "A": "Embryonic stem cells are never really living",
+            "Answer": "B",
+            "Question": "What is an argument in favor of using embryonic stem cells over adult stem cells?",
+            "C": "Adult stem cells cannot be cultured",
+            "questionTypeId": 1,
+            "B": "Embryonic stem cells can differentiate into many more types of cells"
+          },
+          {
+            "A": "Bioinformatics and medical microbiology",
+            "Answer": "C",
+            "Question": "The analysis and storage of the massive amount of data generated from sequence maps has led to the growth of what new disciplines?",
+            "C": "Genomics and bioinformatics",
+            "questionTypeId": 1,
+            "B": "Genomics and genetic engineering",
+            "D": "Proteomics and environmental microbiology"
+          },
+          {
+            "C": "Microinjection",
+            "questionTypeId": 1,
+            "B": "Hypotonic lysis",
+            "D": "Polymerization",
+            "A": "Fusion using polyethylene glycol",
+            "Answer": "D",
+            "Question": "Which technique is not used in the transfer of gene into fertilized egg or embryo?"
+          },
+          {
+            "C": "Transformant",
+            "questionTypeId": 1,
+            "B": "Vector",
+            "D": "cDNA",
+            "A": "Carrier",
+            "Answer": "B",
+            "Question": "The DNA molecule to which the gene of interest is integrated for cloning is called"
+          },
+          {
+            "Answer": "B",
+            "Question": "Totally unrelated plants are brought together in a single group and those that are closely related are placed in widely separated groups in the system of classification given by ",
+            "C": "Engler and Prantl",
+            "questionTypeId": 1,
+            "B": "Carolus Linnaeus",
+            "D": "Charles Darwin",
+            "A": "Bentahm and Hooker"
+          },
+          {
+            "Answer": "C",
+            "Question": "In Pavonia odorata the inflorescence is",
+            "C": "Terminal or Axillary Cyme",
+            "questionTypeId": 1,
+            "B": "Axillary Cyathium ",
+            "D": "Axillary Cyme",
+            "A": "Terminal head "
+          },
+          {
+            "B": "Galium",
+            "D": "Rubia",
+            "A": "Ixora",
+            "Answer": "B",
+            "Question": "Leaves are simple and whorled in",
+            "C": "Gardeni",
+            "questionTypeId": 1
+          },
+          {
+            "C": "organ",
+            "questionTypeId": 1,
+            "B": "tissue system",
+            "D": "organ system",
+            "A": "tissue",
+            "Answer": "A",
+            "Question": "Morphologically, a _____________is a group of cells, which are similar in origin, form and function."
+          },
+          {
+            "C": "complex to simple",
+            "questionTypeId": 1,
+            "B": "simple to complex",
+            "D": "permanent to meristematic",
+            "A": "meristematic to permanent",
+            "Answer": "A",
+            "Question": "Differentiation is change of tissues from_________________."
+          },
+          {
+            "Answer": "A",
+            "Question": "Procambium gives rise to ________________ ",
+            "C": "cortex",
+            "questionTypeId": 1,
+            "B": "epidermis",
+            "D": "pith",
+            "A": "primary vascular tissues"
+          },
+          {
+            "D": "1-6 linkage",
+            "A": "1-4 linkage",
+            "Answer": "C",
+            "Question": "Cellulose is a polymer of D-glucose units joined by",
+            "C": "1-4 linkage",
+            "questionTypeId": 1,
+            "B": "1-6 linkage"
+          },
+          {
+            "Answer": "C",
+            "Question": "The most accepted theory of origin of life is",
+            "C": "Oparin haldane theory",
+            "questionTypeId": 1,
+            "B": "Theory of abiogenesis",
+            "D": "Theory of spontaneous generation",
+            "A": "Special creation theory"
+          },
+          {
+            "D": "short midgut",
+            "A": "Spiracles",
+            "Answer": "C",
+            "Question": "One of the following structure of Cockroach is responsible for water conservation.",
+            "C": "Malpighian tubules",
+            "questionTypeId": 1,
+            "B": "Hepatic caeca"
+          },
+          {
+            "B": "UUGCAUUGC",
+            "D": "TTGCATTGC",
+            "A": "AACGTAACG ",
+            "Answer": "B",
+            "Question": "A DNA strand with the sequence AACGTAACG is transcribed. What is the sequence of the mRNA molecule synthesized?",
+            "C": "AACGUAACG",
+            "questionTypeId": 1
+          },
+          {
+            "Answer": "B",
+            "Question": "Which of the following is not a component of cell membrane?",
+            "C": "Carbohydrate",
+            "questionTypeId": 1,
+            "B": "Nucleic acids",
+            "D": "Proteins",
+            "A": "Lipid"
+          },
+          {
+            "A": "High lysine content",
+            "Answer": "D",
+            "Question": "Golden rice is a transgenic crop of the future with the following improved trait",
+            "C": "High protein content",
+            "questionTypeId": 1,
+            "B": "Insect resistance",
+            "D": "High Vitamin-A content"
+          },
+          {
+            "D": "Plastic surgery",
+            "A": "Tissue culture",
+            "Answer": "C",
+            "Question": "When the genotype of an organism is improved by the addition of foreign gene, the process is called",
+            "C": "Genetic engineering",
+            "questionTypeId": 1,
+            "B": "Genetic diversity"
+          },
+          {
+            "Answer": "",
+            "Question": "An example for transferase is",
+            "C": "histidine decarboxylase",
+            "questionTypeId": 1,
+            "B": "pyruvic carboxylase",
+            "D": "G-3-P dehydrogenase",
+            "A": "transaminase "
+          },
+          {
+            "D": "4",
+            "A": "1",
+            "Answer": "C",
+            "Question": "Atomicity of oxygen in ozone molecule is",
+            "C": "3",
+            "questionTypeId": 1,
+            "B": "2"
+          },
+          {
+            "D": "Nature of solute",
+            "A": "Nature of solvent",
+            "Answer": "C",
+            "Question": "A true solution does not show Tyndall effect, because of the",
+            "C": "Size of the particles",
+            "questionTypeId": 1,
+            "B": "Amount of solute"
+          },
+          {
+            "B": "Scattering of light",
+            "D": "Movement of particles",
+            "A": "True solutions of light",
+            "Answer": "B",
+            "Question": "Tyndall effect is produced by",
+            "C": "Refraction of light",
+            "questionTypeId": 1
+          },
+          {
+            "Answer": "C",
+            "Question": "The particle size in a suspension is",
+            "C": "More than 2000 Å",
+            "questionTypeId": 1,
+            "B": "10 Å - 2000 Å",
+            "D": "Less than 1 Å",
+            "A": "1 Å – 10 Å"
+          },
+          {
+            "B": "Unsaturated solution",
+            "D": "Colloidal solution",
+            "A": "Saturated solution",
+            "Answer": "C",
+            "Question": "Chalk powder in water is an example of",
+            "C": "suspension",
+            "questionTypeId": 1
+          },
+          {
+            "D": "saturated solution",
+            "A": "True solution",
+            "Answer": "B",
+            "Question": "Milk is a",
+            "C": "suspension",
+            "questionTypeId": 1,
+            "B": "Colloidal solution"
+          },
+          {
+            "A": "Liquid in gas",
+            "Answer": "A",
+            "Question": "Fog is a solution of",
+            "C": "Solid in gas",
+            "questionTypeId": 1,
+            "B": "Gas in liquid",
+            "D": "Gas in gas"
+          },
+          {
+            "Answer": "B",
+            "Question": "Blood is an example of",
+            "C": "Saturated solution",
+            "questionTypeId": 1,
+            "B": "Colloidal solution",
+            "D": "Suspension",
+            "A": "True solution"
+          },
+          {
+            "B": "True solutions",
+            "D": "Suspensions",
+            "A": "Heterogeneous mixtures",
+            "Answer": "B",
+            "Question": "Sugar and Salt solutions are",
+            "C": "Colloidal solutions",
+            "questionTypeId": 1
+          },
+          {
+            "D": "water",
+            "A": "benzene",
+            "Answer": "D",
+            "Question": "In aqueous solutions, the solvent used is",
+            "C": "alcohol",
+            "questionTypeId": 1,
+            "B": "ether"
+          },
+          {
+            "B": "Liquid in solid",
+            "D": "Gas in solid",
+            "A": "Solid in solid",
+            "Answer": "B",
+            "Question": "Cheese is a colloidal solution of",
+            "C": "Solid in liquid",
+            "questionTypeId": 1
+          },
+          {
+            "D": "Solid in Gas",
+            "A": "Solid in solid",
+            "Answer": "D",
+            "Question": "Smoke is a colloid of",
+            "C": "Solid in liquid",
+            "questionTypeId": 1,
+            "B": "Liquid in solid"
+          },
+          {
+            "D": "8g",
+            "A": "20g",
+            "Answer": "B",
+            "Question": "The solubility level of an aqueous solution of NaCl at 250C is",
+            "C": "95g",
+            "questionTypeId": 1,
+            "B": "36g"
+          },
+          {
+            "Answer": "C",
+            "Question": "Solubility of CaO in water is a",
+            "C": "exothermic",
+            "questionTypeId": 1,
+            "B": "endothermic",
+            "D": "hypothermic",
+            "A": "Chermic"
+          },
+          {
+            "A": "Helium - Oxygen",
+            "Answer": "A",
+            "Question": "Deep sea divers use mixture of",
+            "C": "Hydrogen - Nitrogen",
+            "questionTypeId": 1,
+            "B": "Nitrogen - Oxygen",
+            "D": "Helium – Nitrogen"
+          },
+          {
+            "D": "Does not change",
+            "A": "Increase",
+            "Answer": "A",
+            "Question": "On increasing the temperature, the solubility of the solute in the solvent",
+            "C": "Change",
+            "questionTypeId": 1,
+            "B": "Decrease"
+          },
+          {
+            "Answer": "B",
+            "Question": "When sunlight passes through the window of your house, the dust particles scatter the light making the path of the light visible. This phenomenon is called as",
+            "C": "Raman effect",
+            "questionTypeId": 1,
+            "B": "Tyndall effect",
+            "D": "Uniform motion",
+            "A": "Brownian motion"
+          },
+          {
+            "B": "Mass number",
+            "D": "Chemical nature",
+            "A": "Atomic number",
+            "Answer": "B",
+            "Question": "Isotopes are the atoms of same element, with same atomic number. But with different",
+            "C": "Number of electrons",
+            "questionTypeId": 1
+          },
+          {
+            "B": "Copper",
+            "D": "None of these",
+            "A": "Nichrome",
+            "Answer": "A",
+            "Question": "The Element of an electric heater is made of",
+            "C": "Aluminum",
+            "questionTypeId": 1
+          },
+          {
+            "D": "Ultra Violet rays",
+            "A": "X-rays",
+            "Answer": "C",
+            "Question": "Growth of the baby in the uterus is found using",
+            "C": "Ultra sound",
+            "questionTypeId": 1,
+            "B": "Gamma rays"
+          },
+          {
+            "C": "Earth",
+            "questionTypeId": 1,
+            "B": "Venus",
+            "D": "Mars",
+            "A": "Mercury",
+            "Answer": "D",
+            "Question": "The Period of revolution round the sun is maximum by which among the following planets?"
+          },
+          {
+            "A": "Low resistance in series",
+            "Answer": "B",
+            "Question": "Galvanometer can be converted into a voltmeter by using",
+            "C": "Low resistance in parallel",
+            "questionTypeId": 1,
+            "B": "High resistance in series",
+            "D": "High resistance in parallel"
+          },
+          {
+            "A": "Energy",
+            "Answer": "B",
+            "Question": "Kilowatt – hour is a unit of",
+            "C": "Electric charge",
+            "questionTypeId": 1,
+            "B": "Power",
+            "D": "Current"
+          },
+          {
+            "D": "0oC",
+            "A": "35oC",
+            "Answer": "D",
+            "Question": "What will be the temperature of the maximum if 100 gm ice at 0oC is put in 100 gm water at 80oC? (Latent heat of ice = 80 cal / gm)",
+            "C": "60oC",
+            "questionTypeId": 1,
+            "B": "45oC"
+          },
+          {
+            "D": "Remain Unaffected",
+            "A": "Decrease",
+            "Answer": "B",
+            "Question": "With an increase in pressure the melting point of max will",
+            "C": "First increase and then decrease",
+            "questionTypeId": 1,
+            "B": "Increase"
+          },
+          {
+            "C": "I, II, III, IV",
+            "questionTypeId": 1,
+            "B": "I, III, II, IV",
+            "D": "IV, III, II, I",
+            "A": "II, I, IV, III ",
+            "Answer": "C",
+            "Question": "Which among the following order of decreasing wavelengths of electromagnetic waves is correct? I. Radio waves II. Infrared rays III. Visible Light IV. X-Rays"
+          },
+          {
+            "D": "J. J. Thomson",
+            "A": "Madam Curie",
+            "Answer": "C",
+            "Question": "Who discovered X-Rays?",
+            "C": "Roentgen",
+            "questionTypeId": 1,
+            "B": "Einstein"
+          },
+          {
+            "Answer": "D",
+            "Question": "At what temperature will the density of water be maximum?",
+            "C": "- 4o C",
+            "questionTypeId": 1,
+            "B": "32o C",
+            "D": "4o C",
+            "A": "0o C"
+          },
+          {
+            "Answer": "B",
+            "Question": "Which metal is commonly used for making an electromagnet?",
+            "C": "Nickel",
+            "questionTypeId": 1,
+            "B": "Iron",
+            "D": "Cobalt",
+            "A": "Copper"
+          },
+          {
+            "D": "Convert DC to AC",
+            "A": "Reduce the current in AC circuit",
+            "Answer": "A",
+            "Question": "Choke is used to",
+            "C": "Convert AC to DC",
+            "questionTypeId": 1,
+            "B": "Reduce the current in DC circuit"
+          },
+          {
+            "Answer": "C",
+            "Question": "A telescope and microscope differ in that",
+            "C": "Telescope has objective of large focal length and eyepiece of smaller focal lengths",
+            "questionTypeId": 1,
+            "B": "Telescope’s eyepiece with longer focal lengths that the oblective ",
+            "D": "None of these ",
+            "A": "Both are different instruments"
+          },
+          {
+            "D": "-273o C ",
+            "A": "0o C",
+            "Answer": "D",
+            "Question": "At what temperature a body will not radiate any heat energy?",
+            "C": "100o C",
+            "questionTypeId": 1,
+            "B": "273o C"
+          },
+          {
+            "B": "It does not rotate",
+            "D": "None of these",
+            "A": "Only one part reflects light",
+            "Answer": "C",
+            "Question": "Only one part of moon can be seen from earth because",
+            "C": "The period of rotation and revolution are equal",
+            "questionTypeId": 1
+          },
+          {
+            "A": "Refrigeration",
+            "Answer": "C",
+            "Question": "In which among the following is alternating current not used?",
+            "C": "Electroplating",
+            "questionTypeId": 1,
+            "B": "Heat production",
+            "D": "Radio detection"
+          },
+          {
+            "Answer": "C",
+            "Question": "An ice cube is floating on the surface of water: How will the water level be affected by melting of this ice cube?",
+            "C": "Water level will remain the same",
+            "questionTypeId": 1,
+            "B": "Water level will go down",
+            "D": "Water level will first rise up then it will go down",
+            "A": "Water level will be raised"
+          },
+          {
+            "Answer": "D",
+            "Question": "Ohmic conductor among the following is",
+            "C": "Electrolyte",
+            "questionTypeId": 1,
+            "B": "Thermal value",
+            "D": "Constantum",
+            "A": "Transistor"
+          }
+        ]
+  }

@@ -107,7 +107,7 @@ export class ExamQuestionComponent implements OnInit {
 
   onSelect(question: Question, option: Option) {
     if (question.questionTypeId === 1) {
-      question.options.forEach((x) => { if (x.id !== option.id) x.selected = false; });
+      question.options.forEach((x) => { if (x.id !== option.id) x.selected.toString; });
     }
 
     if (this.config.autoMove) {
@@ -127,11 +127,11 @@ export class ExamQuestionComponent implements OnInit {
   };
 
   isCorrect(question: Question) {
-    if(question.options.every(x => x.selected == x.isAnswer)){
+    if(question.options.every(x => x.selected == x.Answer)){
       this.correctAnswerCount++
       // console.log(this.correctAnswerCount)
       // console.log('Score increased')
-      return question.options.every(x => x.selected == x.isAnswer) ? 'Correct' : 'Wrong'  };
+      return question.options.every(x => x.selected == x.Answer) ? 'Correct' : 'Wrong'  };
 
     }
 

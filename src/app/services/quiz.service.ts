@@ -13,6 +13,7 @@ export class QuizService {
   getAll() {
     return [
       { id: 'data/bpharm.json', name: 'B. Pharm' },
+      { id: 'data/engineering.json', name: 'Engineering B.E cse'}
       // { id: 'data/aspnet.json', name: 'Asp.Net' },
       // { id: 'data/csharp.json', name: 'C Sharp' },
       // { id: 'data/designPatterns.json', name: 'Design Patterns' }
