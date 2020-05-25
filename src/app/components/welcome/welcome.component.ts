@@ -18,7 +18,7 @@ export class WelcomeComponent implements OnInit {
     localStorage.setItem('exam',exam);
     localStorage.setItem('examName',examName);
     this.exam = localStorage.getItem('exam');
-    if (exam === "0"){
+    if (exam === "0" || exam === "1" ){
       this.router.navigate(['register-user']);
 
     }
