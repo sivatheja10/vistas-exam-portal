@@ -5,4 +5,5 @@ export interface User {
    photoURL: string;
    emailVerified: boolean;
    hallTicketNumber?: string;
+   examCompleted?:boolean;
 }

@@ -1,85 +1,2614 @@
 {
-      "id": 1,  
-      "examname": "Engineering (B.E., B.Tech.)",
-        "questions": [
-          {
-            "name": "Express a speed of 36 kmph in meters per second?",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1,
-                    "name": "10 mps",
-                    "isAnswer": true
-                },
-                {
-                    "id": 2,
-                    "name": "12 mps",
-                    "isAnswer": false
-                },
-                {
-                    "id": 3,
-                    "name": "14 mps",
-                    "isAnswer": false
-                },
-                {
-                    "id": 4,
-                    "name": "17 mps",
-                    "isAnswer": false
-                }
-            ]
-        },
-        {
-          "name": "Express 25 mps in kmph?",
+    "id": 1,  
+    "name": "Engineering (B.E., B.Tech.)",
+      "questions": [
+     {
+          "name": "Express a speed of 36 kmph in meters per second?",
           "questionTypeId": 1,
           "options": [
               {
                   "id": 1,
-                  "name": "15 kmph",
-                  "isAnswer": false
+                  "name": "10 mps",
+                  "isAnswer": true
               },
               {
                   "id": 2,
-                  "name": "99 kmph",
+                  "name": "12 mps",
                   "isAnswer": false
               },
               {
                   "id": 3,
-                  "name": "90 kmph",
-                  "isAnswer": true
+                  "name": "14 mps",
+                  "isAnswer": false
               },
               {
                   "id": 4,
-                  "name": "None",
+                  "name": "17 mps",
                   "isAnswer": false
               }
           ]
       },
       {
-        "name": "The speed of a train is 90 kmph. What is the distance covered by it in 10 minutes?",
+        "name": "Express 25 mps in kmph?",
         "questionTypeId": 1,
         "options": [
             {
                 "id": 1,
                 "name": "15 kmph",
-                "isAnswer": true
+                "isAnswer": false
             },
             {
                 "id": 2,
-                "name": "12 kmph",
+                "name": "99 kmph",
                 "isAnswer": false
             },
             {
                 "id": 3,
-                "name": "10 kmph",
+                "name": "90 kmph",
                 "isAnswer": true
             },
             {
                 "id": 4,
-                "name": "5 kmph",
+                "name": "None",
                 "isAnswer": false
             }
         ]
     },
-      
+    {
+      "name": "The speed of a train is 90 kmph. What is the distance covered by it in 10 minutes?",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "15 kmph",
+              "isAnswer": true
+          },
+          {
+              "id": 2,
+              "name": "12 kmph",
+              "isAnswer": false
+          },
+          {
+              "id": 3,
+              "name": "10 kmph",
+              "isAnswer": false
+          },
+          {
+              "id": 4,
+              "name": "5 kmph",
+              "isAnswer": false
+          }
+      ]
+  },
+  {
+    "name": "A car covers a distance of 624 km in 6 ½ hours. Find its speed?",
+    "questionTypeId": 1,
+    "options": [
+        {
+            "id": 1,
+            "name": "104 kmph",
+            "isAnswer": true
+        },
+        {
+            "id": 2,
+            "name": "140 kmph",
+            "isAnswer": false
+        },
+        {
+            "id": 3,
+            "name": "104 mph",
+            "isAnswer": false
+        },
+        {
+            "id": 4,
+            "name": "10.4 kmph",
+            "isAnswer": false
+        }
+    ]
+  },
+  {
+  "name": "A and B complete a work in 6 days. A alone can do it in 10 days. If both together can do the work in how many days?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "3.75 days",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "4 days",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "5 days",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "6 days",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "A can do a piece of work in 4 days. B can do it in 5 days. With the assistance of C they completed the work in 2 days. Find in how many days can C alone do it?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "10 days",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "20 days",
+          "isAnswer": true
+      },
+      {
+          "id": 3,
+          "name": "5 days",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "4 days",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "A, B and C can do a piece of work in 24, 30 and 40 days respectively. They start the work together but C leaves 4 days before the completion of the work. In how many days is the work done?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "15 days",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "14 days",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "13 days",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "11 days",
+          "isAnswer": true
+      }
+    ]
+  },
+  {
+  "name": "5 men and 12 boys finish a piece of work in 4 days, 7 men and 6 boys do it in 5 days. The ratio between the efficiencies of a man and boy is?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "1:2 ",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "2:1",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "2:3",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "6:5",
+          "isAnswer": true
+      }
+    ]
+  },
+  {
+  "name": "A and B can finish a work in 16 days while A alone can do the same work in 24 days. In how many days B alone will complete the work?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "56",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "48",
+          "isAnswer": true
+      },
+      {
+          "id": 3,
+          "name": "36",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "58",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "Some persons can do a piece of work in 12 days. Two times the number of these people will do half of that work in?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "3 days",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "4 days",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "6 days",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "12 days",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "What number has a 5:1 ratio to the number 10?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "42",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "50",
+          "isAnswer": true
+      },
+      {
+          "id": 3,
+          "name": "62",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "55",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "Two same glasses are respectively 1/4th 1/5th full of milk. They are then filled with water and the contents mixed in a tumbler. The ratio of milk and water in the tumbler is?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "3:8",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "9:31",
+          "isAnswer": true
+      },
+      {
+          "id": 3,
+          "name": "8:21",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "10:27",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "A and B entered into a partnership investing Rs.25000 and Rs.30000 respectively. After 4 months C also joined the business with an investment of Rs.35000. What is the share of C in an annual profit of Rs.47000?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "Rs.18000",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "Rs.15000",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "Rs.17000",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "Rs.14000",
+          "isAnswer": true
+      }
+    ]
+  },
+  {
+  "name": "In how many years does a sum of Rs. 5000 yield a simple interest of Rs. 16500 at 15% p.a.?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "22",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "24",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "25",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "23",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "The radius of a circle is increased by 1%. Find how much % does its area increases?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "1.01%",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "5.01%",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "3.01%",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "2.01%",
+          "isAnswer": true
+      }
+    ]
+  },
+  {
+  "name": "If (y - 2, x + 1) = (x - 1, 2) then the values of x and y are?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "1,2",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "2,3",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "-1,-2",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "1,-2",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "If A is a square matrix of order 3 then the true statement is",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "det(-A) = -det A",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "det A = 0",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "det (A+I) = I + det A",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "det (2A) = 2 det A",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "For the equation 3x2+px+3=0, p>0, if one of the roots is square of the other, then p is equal to",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "1/3",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "1",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "3",
+          "isAnswer": true
+      },
+      {
+          "id": 4,
+          "name": "2/3",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "The 99th term of the sequence 2,7,14,23,34,.... is",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "9998",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "9999",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "1000",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "10001",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "The number of integer values of m, for which the x-co-ordinate of the point of intersection of the lines 3x + 4y = 9 and y = mx + 1 is also an integer is",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "2",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "0",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "4",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "1",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "Equations of the bisectors of the lines 3x-4y+7=0 and 12x+5y-2=0 are given by",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "21x+77y-101=0, 11x-3y+9=0",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "11x-6y+111=0, 22x-13y+104=0",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "15x-9y+67=0, 15x+4y+33=0",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "20x+72y-109=0, x+5y=2",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "The circles x2 + y2 - 4x - 6y - 12 = 0 and x2 + y2 + 6x - 8y + 21 = 0",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "intersect at two points",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "touches each other externally",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "touches each other internally",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "Neither touches nor intersects",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "The length of the intercept made by the line y = 2x + 1 on the circle x2 + y2 = 2 is",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "6/sqrt(5)",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "6.sqrt(5)",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "6/sqrt(2)",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "6.sqrt(2)",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "Let u1 and u2 be two wins such that u1 contains 3 white and 2 red balls and u2 contains only one white ball. A fair coin is tossed. If head appear then one ball is drawn at random from u1 and put into u2. However if tail appears then 2 balls are drawn at random from u1 and put into u2. Now one ball is drawn at random from u2. Then the probability of the drawn ball from u2 being white is ",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "13/30",
+          
+  
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "23/30",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "19/30",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "11/30",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "Look at this series: 7, 10, 8, 11, 9, 12, ... What number should come next?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "7",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "10",
+          "isAnswer": true
+      },
+      {
+          "id": 3,
+          "name": "12",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "13",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "(1/3)",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "(1/8)",
+          "isAnswer": true
+      },
+      {
+          "id": 3,
+          "name": "(2/8)",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "(1/16)",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "ELFA, GLHA, ILJA, _____, MLNA",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "OLPA",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "KLMA",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "LLMA",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "KLLA",
+          "isAnswer": true
+      }
+    ]
+  },
+  {
+  "name": "CMM, EOO, GQQ, _____, KUU",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "GRR",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "GSS",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "ISS",
+          "isAnswer": true
+      },
+      {
+          "id": 4,
+          "name": "ITT",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "Apartments in the Riverdale Manor cost less than apartments in The Gaslight Commons. Apartments in the Livingston Gate cost more than apartments in the Gaslight Commons. Of the three apartment buildings, the Livingston Gate costs the most. If the first two statements are true, the third statement is",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "True",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "False",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "Uncertain",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "None",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "All the offices on the 9th floor have wall-to-wall carpeting. No wall-to-wall carpeting is pink. None of the offices on the 9th floor has pink wall-to-wall carpeting. If the first two statements are true, the third statement is",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "True",
+          "isAnswer":true
+      },
+      {
+          "id": 2,
+          "name": "False",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "Uncertain",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "None",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "Window is to pane as book is to",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "Novel",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "Glass",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "Cover",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "Page",
+          "isAnswer": true
+      }
+    ]
+  },
+  {
+  "name": "Cup is to coffee as bowl is to",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "Dish",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "Soup",
+          "isAnswer": true
+      },
+      {
+          "id": 3,
+          "name": "Spoon",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "Food",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "Odometer is to mileage as compass is to",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "Speed",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "Hiking",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "Needle",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "Direction",
+          "isAnswer": true
+      }
+    ]
+  },
+  {
+  "name": "Marathon is to race as hibernation is to",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "Winter",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "Bear",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "Dream",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "Sleep",
+          "isAnswer": true
+      }
+    ]
+  },
+  {
+  "name": "FAG, GAF, HAI, IAH, ____",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "JAK",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "HAL",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "HAK",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "JAI",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "ELFA, GLHA, ILJA, _____, MLNA",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "OLPA",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "KLMA",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "LLMA",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "KLLA",
+          "isAnswer": true
+      }
+    ]
+  },
+  {
+  "name": "Mara runs faster than Gail. Lily runs faster than Mara. Gail runs faster than Lily. If the first two statements are true, the third statement is",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "True",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "False",
+          "isAnswer": true
+      },
+      {
+          "id": 3,
+          "name": "Uncertain",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "None",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "What difference does the 5th generation computer have from other generation computers?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "Technological advancement",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "Scientific code",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "Object Oriented Programming",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "All of the above",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "Which of the following languages is more suited to a structured program?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "PL/1",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "FORTRAN",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "BASIC",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "PASCAL",
+          "isAnswer": true
+      }
+    ]
+  },
+  {
+  "name": "The tracks on a disk which can be accessed without re-positioning the R/W heads is",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "Surface",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "Cylinder",
+          "isAnswer": true
+      },
+      {
+          "id": 3,
+          "name": "Cluster",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "All the above",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "A computer assisted method for the recording and analyzing of existing or hypothetical systems is",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "Data transmission",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "Data flow",
+          "isAnswer": true
+      },
+      {
+          "id": 3,
+          "name": "Data capture",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "Data processing",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "The brain of any computer system is",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "ALU",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "Memory",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "CPU",
+          "isAnswer": true
+      },
+      {
+          "id": 4,
+          "name": "Control unit",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "Which of the following computer language is used for artificial intelligence?",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "FORTRAN",
+          "isAnswer": false
+      },
+      {
+          "id": 2,
+          "name": "PROLOG",
+          "isAnswer": true
+      },
+      {
+          "id": 3,
+          "name": "C",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "COBOL",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+  "name": "A section of code to which control is transferred when a processor is interrupted is known as",
+  "questionTypeId": 1,
+  "options": [
+      {
+          "id": 1,
+          "name": "M",
+          "isAnswer": true
+      },
+      {
+          "id": 2,
+          "name": "SVC",
+          "isAnswer": false
+      },
+      {
+          "id": 3,
+          "name": "IP",
+          "isAnswer": false
+      },
+      {
+          "id": 4,
+          "name": "MDR",
+          "isAnswer": false
+      }
+    ]
+  },
+  {
+      "name": "Which part interprets program instructions and initiate control operations.",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "Input",
+              "isAnswer": false
+          },
+          {
+              "id": 2,
+              "name": "Storage unit",
+              "isAnswer": false
+          },
+          {
+              "id": 3,
+              "name": "Logic unit",
+              "isAnswer": false
+          },
+          {
+              "id": 4,
+              "name": "Control unit",
+              "isAnswer": true
+          }
         ]
-  }
+      },      
+    {
+      "name": "Which of the following is the 1's complement of 10?",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "01",
+              "isAnswer": true
+          },
+          {
+              "id": 2,
+              "name": "110",
+              "isAnswer": false
+          },
+          {
+              "id": 3,
+              "name": "11",
+              "isAnswer": false
+          },
+          {
+              "id": 4,
+              "name": "10",
+              "isAnswer": false
+          }
+        ]
+      },
+    {
+      "name": "The time required for the fetching and execution of one simple machine instruction is",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "Delay time",
+              "isAnswer": false
+          },
+          {
+              "id": 2,
+              "name": "CPU cycle",
+              "isAnswer": true
+          },
+          {
+              "id": 3,
+              "name": "CPU cycle",
+              "isAnswer": false
+          },
+          {
+              "id": 4,
+              "name": "Seek time",
+              "isAnswer": false
+          }
+        ]
+      },
+    {
+      "name": "A computer program that converts assembly language to machine language is",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "Compiler",
+              "isAnswer": false
+          },
+          {
+              "id": 2,
+              "name": "Interpreter",
+              "isAnswer": false
+          },
+          {
+              "id": 3,
+              "name": "Assembler",
+              "isAnswer": true
+          },
+          {
+              "id": 4,
+              "name": "Comparator",
+              "isAnswer": false
+          }
+        ]
+      },
+    {
+      "name": "The binary system uses powers of",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "2",
+              "isAnswer": true
+          },
+          {
+              "id": 2,
+              "name": "10",
+              "isAnswer": false
+          },
+          {
+              "id": 3,
+              "name": "8",
+              "isAnswer": false
+          },
+          {
+              "id": 4,
+              "name": "16",
+              "isAnswer": false
+          }
+        ]
+      },
+    {
+      "name": "The Human Genome Project officially began in",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "1988",
+              "isAnswer": false
+          },
+          {
+              "id": 2,
+              "name": "1990",
+              "isAnswer": true
+          },
+          {
+              "id": 3,
+              "name": "1992",
+              "isAnswer": false
+          },
+          {
+              "id": 4,
+              "name": "1998",
+              "isAnswer": false
+          }
+        ]
+      },
+    {
+      "name": "What is an argument in favor of using embryonic stem cells over adult stem cells?",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "Embryonic stem cells are never really living",
+              "isAnswer": false
+          },
+          {
+              "id": 2,
+              "name": "Embryonic stem cells can differentiate into many more types of cells",
+              "isAnswer": true
+          },
+          {
+              "id": 3,
+              "name": "Adult stem cells cannot be cultured",
+              "isAnswer": false
+          },
+          {
+              "id": 4,
+              "name": "Adult stem cells reproduce much faster than embryonic stem cells",
+              "isAnswer": false
+          }
+        ]
+      },
+    {
+      "name": "The analysis and storage of the massive amount of data generated from sequence maps has led to the growth of what new disciplines?",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "Bioinformatics and medical microbiology",
+              "isAnswer": false
+          },
+          {
+              "id": 2,
+              "name": "Genomics and genetic engineering",
+              "isAnswer": false
+          },
+          {
+              "id": 3,
+              "name": "Genomics and bioinformatics",
+              "isAnswer": true
+          },
+          {
+              "id": 4,
+              "name": "Proteomics and environmental microbiology",
+              "isAnswer": false
+          }
+        ]
+      },
+    {
+      "name": "Which technique is not used in the transfer of gene into fertilized egg or embryo?",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "Fusion using polyethylene glycol",
+              "isAnswer": false
+          },
+          {
+              "id": 2,
+              "name": "Hustarion technique",
+              "isAnswer": false
+          },
+          {
+              "id": 3,
+              "name": "Microinjection",
+              "isAnswer": false
+          },
+          {
+              "id": 4,
+              "name": "Polymerization",
+              "isAnswer": true
+          }
+        ]
+      },
+    {
+      "name": "The DNA molecule to which the gene of interest is integrated for cloning is called",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "Carrier",
+              "isAnswer": false
+          },
+          {
+              "id": 2,
+              "name": "Vector",
+              "isAnswer": true
+          },
+          {
+              "id": 3,
+              "name": "Transformant",
+              "isAnswer": false
+          },
+          {
+              "id": 4,
+              "name": "cDNA",
+              "isAnswer": false
+          }
+        ]
+      },
+    {
+      "name": "Totally unrelated plants are brought together in a single group and those that are closely related are placed in widely separated groups in the system of classification given by ",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "Bentahm and Hooker",
+              "isAnswer": false
+          },
+          {
+              "id": 2,
+              "name": "Carolus Linnaeus",
+              "isAnswer": true
+          },
+          {
+              "id": 3,
+              "name": "Engler and Prantl",
+              "isAnswer": false
+          },
+          {
+              "id": 4,
+              "name": "Charles Darwin",
+              "isAnswer": false
+          }
+        ]
+      },
+    {
+      "name": "In Pavonia odorata the inflorescence is",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "Terminal head",
+              "isAnswer": false
+          },
+          {
+              "id": 2,
+              "name": "Axillary Cyathium",
+              "isAnswer": false
+          },
+          {
+              "id": 3,
+              "name": "Terminal or Axillary Cyme",
+              "isAnswer": true
+          },
+          {
+              "id": 4,
+              "name": "Axillary Cyme",
+              "isAnswer": false
+          }
+        ]
+      },
+    {
+      "name": "Leaves are simple and whorled in",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "Ixora",
+              "isAnswer": false
+          },
+          {
+              "id": 2,
+              "name": "Galium",
+              "isAnswer": true
+          },
+          {
+              "id": 3,
+              "name": "Gardeni",
+              "isAnswer": false
+          },
+          {
+              "id": 4,
+              "name": "Rubia",
+              "isAnswer": false
+          }
+        ]
+      },
+    {
+      "name": "Morphologically, a _____________is a group of cells, which are similar in origin, form and function.",
+      "questionTypeId": 1,
+      "options": [
+          {
+              "id": 1,
+              "name": "tissue",
+              "isAnswer": true
+          },
+          {
+              "id": 2,
+              "name": "tissue system",
+              "isAnswer": false
+          },
+          {
+              "id": 3,
+              "name": "organ",
+              "isAnswer": false
+          },
+          {
+              "id": 4,
+              "name": "organ system",
+              "isAnswer": false
+          }
+        ]
+      },{
+          "name": "Differentiation is change of tissues from_________________.",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "meristematic to permanent",
+                  "isAnswer": true
+              },
+              {
+                  "id": 2,
+                  "name": "simple to complex",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "complex to simple",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "permanent to meristematic",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Procambium gives rise to ________________ ",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "primary vascular tissues",
+                  "isAnswer": true
+              },
+              {
+                  "id": 2,
+                  "name": "epidermis",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "cortex",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "pith",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Cellulose is a polymer of D-glucose units joined by",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "1-4 linkage",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "1-6 linkage",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "1-4 linkage",
+                  "isAnswer": true
+              },
+              {
+                  "id": 4,
+                  "name": "1-6 linkage",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "The most accepted theory of origin of life is",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Special creation theory",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Theory of abiogenesis",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Oparin haldane theory",
+                  "isAnswer": true
+              },
+              {
+                  "id": 4,
+                  "name": "Theory of spontaneous generation",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "One of the following structure of Cockroach is responsible for water conservation.",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Spiracles",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Hepatic caeca",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Malpighian tubules",
+                  "isAnswer": true
+              },
+              {
+                  "id": 4,
+                  "name": "short midgut",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "A DNA strand with the sequence AACGTAACG is transcribed. What is the sequence of the mRNA molecule synthesized?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "AACGTAACG",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "UUGCAUUGC",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "AACGUAACG",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "TTGCATTGC",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Which of the following is not a component of cell membrane?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Lipid",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Nucleic acids",
+                  "isAnswer":true
+              },
+              {
+                  "id": 3,
+                  "name": "Carbohydrates",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Proteins",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Golden rice is a transgenic crop of the future with the following improved trait",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "High lysine content",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Insect resistance",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "High protein content",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "High Vitamin-A content",
+                  "isAnswer": true
+              }
+            ]
+          },
+        {
+          "name": "When the genotype of an organism is improved by the addition of foreign gene, the process is called",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Tissue culture",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Genetic diversity",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Genetic engineering",
+                  "isAnswer": true
+              },
+              {
+                  "id": 4,
+                  "name": "Plastic surgery",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "An example for transferase is",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "transaminase",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "pyruvic carboxylase",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "histidine decarboxylase",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "G-3-P dehydrogenase",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Atomicity of oxygen in ozone molecule is",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "1",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "2",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "3",
+                  "isAnswer": true
+              },
+              {
+                  "id": 4,
+                  "name": "4",
+                  "isAnswer": false
+              }
+            ]
+          },
+          {
+          "name": "A true solution does not show Tyndall effect, because of the",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Nature of solvent",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Amount of solute",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Size of the particles",
+                  "isAnswer": true
+              },
+              {
+                  "id": 4,
+                  "name": "Nature of solute",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Tyndall effect is produced by",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "True solutions of light",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Scattering of light",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "Refraction of light",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Movement of particles",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "The particle size in a suspension is",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "1 Å – 10 Å",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "10 Å - 2000 Å",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "More than 2000 Å",
+                  "isAnswer": true
+              },
+              {
+                  "id": 4,
+                  "name": "Less than 1 Å",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Chalk powder in water is an example of",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Saturated solution",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Unsaturated solution",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "suspension",
+                  "isAnswer": true
+              },
+              {
+                  "id": 4,
+                  "name": "Colloidal solution",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Milk is a",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "True solution",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Colloidal solution",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "suspension",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "saturated solution",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Fog is a solution of",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Liquid in gas",
+                  "isAnswer": true
+              },
+              {
+                  "id": 2,
+                  "name": "Gas in liquid",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Solid in gas",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Gas in gas",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Blood is an example of",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "True solution",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Colloidal solution",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "Saturated solution",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Suspension",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Sugar and Salt solutions are",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Heterogeneous mixture",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "True solutions",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "Colloidal solutions",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Suspensions",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "In aqueous solutions, the solvent used is",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "benzene",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "ether",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "alcohol",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "water",
+                  "isAnswer": true
+              }
+            ]
+          },
+        {
+          "name": "Cheese is a colloidal solution of",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Solid in solid",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Liquid in solid",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "Solid in liquid",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Gas in solid",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Smoke is a colloid of",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Solid in solid",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Liquid in solid",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Solid in liquid",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Solid in Gas",
+                  "isAnswer": true
+              }
+            ]
+          },
+        {
+          "name": "The solubility level of an aqueous solution of NaCl at 250C is",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "20g",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "36g",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "95g",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "8g",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Solubility of CaO in water is a",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Chermic",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "endothermic",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "exothermic",
+                  "isAnswer": true
+              },
+              {
+                  "id": 4,
+                  "name": "hypothermic",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Deep sea divers use mixture of",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Helium - Oxygen",
+                  "isAnswer": true
+              },
+              {
+                  "id": 2,
+                  "name": "Nitrogen - Oxygen",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Hydrogen - Nitrogen",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Helium – Nitrogen",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "On increasing the temperature, the solubility of the solute in the solvent",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Increase",
+                  "isAnswer": true
+              },
+              {
+                  "id": 2,
+                  "name": "Decreases",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "change",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Does not change",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "When sunlight passes through the window of your house, the dust particles scatter the light making the path of the light visible. This phenomenon is called as",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Brownian motion",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Tyndall effect",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "Raman effect",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Uniform motion",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Isotopes are the atoms of same element, with same atomic number. But with different",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Atomic number",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Mass number",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "Number of electrons",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Chemical nature",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "The Element of an electric heater is made of",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Nichrome",
+                  "isAnswer": true
+              },
+              {
+                  "id": 2,
+                  "name": "Copper",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Aluminumv",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "None of these",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Growth of the baby in the uterus is found using",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "X-rays",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Gamma rays",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Ultra sound",
+                  "isAnswer": true
+              },
+              {
+                  "id": 4,
+                  "name": "Ultra Violet rays",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "The Period of revolution round the sun is maximum by which among the following planets?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Mercury",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Venus",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Earth",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Mars",
+                  "isAnswer": true
+              }
+            ]
+          },
+        {
+          "name": "Galvanometer can be converted into a voltmeter by using",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Low resistance in series",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "High resistance in series",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "Low resistance in parallel",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "High resistance in parallel",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Kilowatt – hour is a unit of",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Energy",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Power",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "Electric charge",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Current",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "What will be the temperature of the maximum if 100 gm ice at 0oC is put in 100 gm water at 80oC? (Latent heat of ice = 80 cal / gm)",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "35oC",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "45oC",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "60oC",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "0oC",
+                  "isAnswer": true
+              }
+            ]
+          },
+        {
+          "name": "With an increase in pressure the melting point of max will",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Decrease",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Increase",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "First increase and then decrease",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Remain Unaffected",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Which among the following order of decreasing wavelengths of electromagnetic waves is correct? I. Radio waves II. Infrared rays III. Visible Light IV. X-Rays",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "II, I, IV, III",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "I, III, II, IV",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "I, II, III, IV",
+                  "isAnswer": true
+              },
+              {
+                  "id": 4,
+                  "name": "IV, III, II, I",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "Who discovered X-Rays?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Madam Curie",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Einstein",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Roentgen",
+                  "isAnswer": true
+              },
+              {
+                  "id": 4,
+                  "name": "J. J. Thomson",
+                  "isAnswer": false
+              }
+            ]
+          },
+        {
+          "name": "At what temperature will the density of water be maximum?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "0o C",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "32o C",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "- 4o C",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "4o C",
+                  "isAnswer": true
+              }
+            ]
+          },
+        {
+          "name": "Which metal is commonly used for making an electromagnet?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Copper",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Iron",
+                  "isAnswer": true
+              },
+              {
+                  "id": 3,
+                  "name": "Nickel",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Cobalt",
+                  "isAnswer": false
+              }
+            ]
+          },
+      {
+          "name": "Choke is used to",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Reduce the current in AC circuit",
+                  "isAnswer": true
+              },
+              {
+                  "id": 2,
+                  "name": "Reduce the current in DC circuit",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Convert AC to DC",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "Convert DC to AC",
+                  "isAnswer": false
+              }
+            ]
+          },
+      
+      {
+          "name": "A telescope and microscope differ in that",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "Both are different instruments",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "Telescope’s eyepiece with longer focal lengths that the oblective ",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "Telescope has objective of large focal length and eyepiece of smaller focal lengths",
+                  "isAnswer":true
+              },
+              {
+                  "id": 4,
+                  "name": "None of these",
+                  "isAnswer": false
+              }
+            ]
+          },
+      {
+          "name": "At what temperature a body will not radiate any heat energy?",
+          "questionTypeId": 1,
+          "options": [
+              {
+                  "id": 1,
+                  "name": "0o C",
+                  "isAnswer": false
+              },
+              {
+                  "id": 2,
+                  "name": "273o C",
+                  "isAnswer": false
+              },
+              {
+                  "id": 3,
+                  "name": "100o C",
+                  "isAnswer": false
+              },
+              {
+                  "id": 4,
+                  "name": "-273o C",
+                  "isAnswer": true
+              }
+            ]
+          }
+        
+  ]
+}
+    
+  
+  
+    
+

@@ -4,12 +4,15 @@ import { auth } from 'firebase/app';
 import { AngularFireAuth } from "@angular/fire/auth";
 import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firestore';
 import { Router } from "@angular/router";
+import { Observable } from 'rxjs';
+
 
 @Injectable({
   providedIn: 'root'
 })
 
 export class AuthService {
+  user : Observable<User>
   
   userData: any; // Save logged in user data
 
@@ -23,15 +26,18 @@ export class AuthService {
     logged in and setting up null when logged out */
     this.afAuth.authState.subscribe(user => {
       if (user) {
+
         const userRef: AngularFirestoreDocument<any> = this.afs.doc(`users/${user.uid}`);
 
         // console.log('User Data')
         this.userData = user;
         localStorage.setItem('user', JSON.stringify(this.userData));
         JSON.parse(localStorage.getItem('user'));
+        return this.afs.doc<User>(`users/${user.uid}`).valueChanges();
       } else {
         localStorage.setItem('user', null);
         JSON.parse(localStorage.getItem('user'));
+        return null;
       }
     })
   }
@@ -148,7 +154,6 @@ export class AuthService {
   //   //   photoURL: user.photoURL,
   //   //   emailVerified: user.emailVerified,
   //   // }
-    
   // }
 
   UpdateUserData(user,name,fatherName,mobile,admissionNumber,hallTicketNumber,address){
@@ -162,6 +167,8 @@ export class AuthService {
           admissionNumber: admissionNumber,
           hallTicketNumber: hallTicketNumber,
           mobile: mobile,
+          examCompleted: false
+
         },{
           merge: true
         }

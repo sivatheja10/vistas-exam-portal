@@ -1,851 +1,2613 @@
-{  
-        "examname": "MBA",
-        "Questions": [
-          {
-            "D": "29%",
-            "A": "23%",
-            "Answer": "B",
-            "Question": "A shopkeeper sold an article for Rs. 2500. If the cost price of the article is 2000, find the profit percent.",
-            "C": "27%",
-            "questionTypeId": 1,
-            "B": "25%"
-          },
-          {
-            "D": "Rs.6500",
-            "A": "Rs.7200",
-            "Answer": "A",
-            "Question": "A man purchases a TV for Rs. 8000 and sells it at 10% loss. What is the selling price of T.V?",
-            "C": "Rs.6900",
-            "questionTypeId": 1,
-            "B": "Rs.7000"
-          },
-          {
-            "Answer": "B",
-            "Question": "A running man crosses a bridge of length 500 meters in 4 minutes. At what speed he is running?",
-            "C": "9.5 km/s",
-            "questionTypeId": 1,
-            "B": "7.5 km/s",
-            "D": "6.5 km/s",
-            "A": "8.5 km/s"
-          },
-          {
-            "C": "250 km/hr",
-            "questionTypeId": 1,
-            "B": "280 km/hr",
-            "D": "240 km/hr",
-            "A": "300 km/hr",
-            "Answer": "B",
-            "Question": "A car running at a speed of 140 km/hr reached its destination in 2 hours. If the car wants to reach at its destination in 1 hour, at what speed it needs to travel?"
-          },
-          {
-            "D": "170 m",
-            "A": "150 m",
-            "Answer": "C",
-            "Question": "A train moving at speed of 80 km/hr crosses a pole in 7 seconds. Find the length of the train.",
-            "C": "175 m",
-            "questionTypeId": 1,
-            "B": "165 m"
-          },
-          {
-            "Answer": "B",
-            "Question": "A train is moving at 120 km/hr. The length of the train is 150 meters. How long it will take to cross a platform of length 100 meters?",
-            "C": "20 Seconds",
-            "questionTypeId": 1,
-            "B": "7.5 seconds",
-            "D": "25 seconds",
-            "A": "10 seconds"
-          },
-          {
-            "Answer": "B",
-            "Question": "Worker A completes a task in 8 days and worker B completes the same task in 10 days. If both A and B work together, in how many days they will complete the task?",
-            "C": "40/8 days",
-            "questionTypeId": 1,
-            "B": "40/9 days",
-            "D": "40/7 days",
-            "A": "40/10 days"
-          },
-          {
-            "A": "13 days",
-            "Answer": "C",
-            "Question": "Vikas and Mohan working together can complete a work in 6 days. If Vikas alone completes the same work in 10 days, in how many days Mohan alone can complete the same work?",
-            "C": "15 days",
-            "questionTypeId": 1,
-            "B": "14 days",
-            "D": "16 days"
-          },
-          {
-            "Answer": "C",
-            "Question": "The value of 51/4 x (125)0.25 is",
-            "C": "5",
-            "questionTypeId": 1,
-            "B": "15",
-            "D": "25",
-            "A": "1"
-          },
-          {
-            "B": "4",
-            "D": "16",
-            "A": "64",
-            "Answer": "B",
-            "Question": "Value of (256)0.16 x (256)0.09 is",
-            "C": "8",
-            "questionTypeId": 1
-          },
-          {
-            "D": "35",
-            "A": "7",
-            "Answer": "D",
-            "Question": "Find the HCF of 210, 385, and 735.",
-            "C": "21",
-            "questionTypeId": 1,
-            "B": "14"
-          },
-          {
-            "C": "308",
-            "questionTypeId": 1,
-            "B": "283",
-            "D": "318",
-            "A": "279",
-            "Answer": "C",
-            "Question": "The LCM of two numbers is 7700, and their HCF is 11. If one of these numbers is 275, what is the other number?"
-          },
-          {
-            "D": "40 square meters",
-            "A": "20 square meters",
-            "Answer": "C",
-            "Question": "What is the area of a triangle with base 5 meters and height 10 meters?",
-            "C": "25 square meters",
-            "questionTypeId": 1,
-            "B": "35 square meters"
-          },
-          {
-            "A": "52 meters",
-            "Answer": "D",
-            "Question": "The base of a right-angled triangle is 10 and hypotenuse is 20. What is its area?",
-            "C": "68 meters",
-            "questionTypeId": 1,
-            "B": "58 meters",
-            "D": "60 meters"
-          },
-          {
-            "Answer": "B",
-            "Question": "Look at this series: 2, 1, (1/2), (1/4), …What number should come next?",
-            "C": "(2/8)",
-            "questionTypeId": 1,
-            "B": "(1/8)",
-            "D": "(1/16)",
-            "A": "(1/3)"
-          },
-          {
-            "D": "book",
-            "A": " index",
-            "Answer": "D",
-            "Question": "Which word does NOT belong with the others?",
-            "C": "chapter",
-            "questionTypeId": 1,
-            "B": "glossary"
-          },
-          {
-            "Answer": "C",
-            "Question": "Which word is the odd man out?",
-            "C": "important",
-            "questionTypeId": 1,
-            "B": "unimportant",
-            "D": "insignificant",
-            "A": "trivial"
-          },
-          {
-            "D": "BUSH",
-            "A": "GRASS",
-            "Answer": "C",
-            "Question": "CUP : LIP :: BIRD : ?",
-            "C": "BEAK",
-            "questionTypeId": 1,
-            "B": " FOREST"
-          },
-          {
-            "Answer": "B",
-            "Question": "Safe : Secure :: Protect :",
-            "C": "Sure",
-            "questionTypeId": 1,
-            "B": "Guard",
-            "D": "Conserve",
-            "A": "Lock"
-          },
-          {
-            "D": "Fox",
-            "A": "Flow",
-            "Answer": "D",
-            "Question": "Parts : Strap :: Wolf :",
-            "C": "Wood",
-            "questionTypeId": 1,
-            "B": "Animal"
-          },
-          {
-            "A": "A debating club meets on the first Sunday morning of every month.",
-            "Answer": "B",
-            "Question": "An Informal Gathering occurs when a group of people get together in a casual, relaxed manner. Which situation below is the best example of an Informal Gathering?",
-            "C": "Meena sends out 10 invitations for a bachelorette party she is giving for her elder sister.",
-            "questionTypeId": 1,
-            "B": "After finding out about his salary raise, Jay and a few colleagues go out for a quick dinner after work.",
-            "D": "Whenever she eats at a Chinese restaurant, Roop seems to run into Dibya."
-          },
-          {
-            "C": "The umpire tosses a coin to decide which team will have bat first.",
-            "questionTypeId": 1,
-            "B": "Serena and Maria have each secured 1 set in the game.",
-            "D": "RCB and KKR each finished at 140 all out.",
-            "A": "At halftime, the score is tied at 2-2 in a football match.",
-            "Answer": "D",
-            "Question": "A Tiebreaker is an additional contest carried out to establish a winner among tied contestants. Choose one situation from the options below that best represents a Tiebreaker."
-          },
-          {
-            "Answer": "C",
-            "Question": "The Sharks and the Bears each finished with 34 points, and they are now battling it out in a five-minute overtime.",
-            "C": "Malcolm is readjusting to civilian life after two years of overseas military service.",
-            "questionTypeId": 1,
-            "B": "Catherine is spending her junior year of college studying abroad in France.",
-            "D": "After several miserable months, Sharon decides that she can no longer share an apartment with her roommate Hilary.",
-            "A": "When he is offered a better paying position, Jacob leaves the restaurant he manages to manage a new restaurant on the other side of town."
-          },
-          {
-            "D": " After 5 miserable months, Sneha decides that she can no longer share her room with roommate Hital.",
-            "A": "When he is offered a better paying position, Javed leaves the hotel he manages to manage another one in a neighboring city.",
-            "Answer": "C",
-            "Question": "Reentry occurs when a person leaves his or her social system for a period of time and then returns. Which situation below best describes Reentry?",
-            "C": "Manan is readjusting to civilian life after 2 years of overseas merchant navy service.",
-            "questionTypeId": 1,
-            "B": "Charan is spending her final year of college studying abroad in China."
-          },
-          {
-            "B": "If only II follows",
-            "D": "If neither I nor II follows",
-            "A": "If only I follows",
-            "Answer": "A",
-            "Question": "The ‘A’ state government has chalked out a plan for the underdeveloped ‘B’ district where 66% of the funds will be placed in the hands of a committee of local representatives. Courses of action: I. The ‘A’ state government should decide guidelines and norms for the functioning of the committee. II. Other state government may follow similar plan if directed by the Central government.",
-            "C": "If either I or II follows",
-            "questionTypeId": 1
-          },
-          {
-            "Answer": "B",
-            "Question": "The car dealer found that there was a tremendous response for the new XYZ’s car booking with long queues of people complaining about the duration of business hours and arrangements. Courses of action: I. People should make their arrangement of lunch and snacks while going for car XYZ’s booking and be ready to spend several hours. II. Arrangement should be made for more booking desks and increase business hours to serve more people in less time.",
-            "C": "If either I or II follows",
-            "questionTypeId": 1,
-            "B": "If only II follows",
-            "D": "If neither I nor II follows",
-            "A": "If only I follows"
-          },
-          {
-            "C": "Wednesday or Thursday",
-            "questionTypeId": 1,
-            "B": "Tuesday or Thursday",
-            "D": "Thursday or Friday",
-            "A": "Tuesday or Wednesday",
-            "Answer": "C",
-            "Question": "According to a schedule, the restaurant’s floors are polished on either…"
-          },
-          {
-            "Answer": "B",
-            "Question": "If dinner is served on the same day as plants are watered, which of the following is correct?",
-            "C": "Plants are watered on Wednesday.",
-            "questionTypeId": 1,
-            "B": "Floors are polished on Thursday.",
-            "D": "Floors are polished on Wednesday.",
-            "A": "Plants are watered on Tuesday."
-          },
-          {
-            "C": "four",
-            "questionTypeId": 1,
-            "B": "three",
-            "D": "six",
-            "A": "two",
-            "Answer": "D",
-            "Question": "Assume that floors are polished on consecutive days, but all other scheduling policies are untampered. For how many of the days can it be determined whether plants are watered, and floors are polished?"
-          },
-          {
-            "B": "The cause of poverty is extravagance.",
-            "D": "Stingy habits of the poor.",
-            "A": "Being extravagant is always condemnable.",
-            "Answer": "C",
-            "Question": "Which of the following would be the most appropriate title for the passage?",
-            "C": "Extravagance is a part of the rich as well as of the poor.",
-            "questionTypeId": 1
-          },
-          {
-            "A": "Is expected to have lavish lifestyle.",
-            "Answer": "A",
-            "Question": "According to the passage the person, who is a successful businessman and wealthy.",
-            "C": "Is more popular if he appears to be wasting away his time.",
-            "questionTypeId": 1,
-            "B": "Should not bother about popularity.",
-            "D": "Must be extravagant before achieving success."
-          },
-          {
-            "A": "Thoughtful in spending only on guests and strangers.",
-            "Answer": "D",
-            "Question": "The phrase ‘lavish with his hospitality’ in the third sentence of the first paragraph means",
-            "C": "Stinginess in dealing with his relatives.",
-            "questionTypeId": 1,
-            "B": "Unconcerned in treating his friends and relatives.",
-            "D": "Extravagance in entertaining guest."
-          },
-          {
-            "Answer": "B",
-            "Question": "The word ‘paradox’ in the last sentence of the first paragraph means",
-            "C": "Statement based on facts",
-            "questionTypeId": 1,
-            "B": "A statement that seems self-contradictory but in reality expresses a possible truth.",
-            "D": "A word that brings out the hidden meaning",
-            "A": "Statement based on the popular opinion"
-          },
-          {
-            "Answer": "A",
-            "Question": "What is the meaning of the word “equanimity”?",
-            "C": "Equivocal",
-            "questionTypeId": 1,
-            "B": "Discomposure",
-            "D": "Dubious",
-            "A": "Calmness"
-          },
-          {
-            "B": "The Miracle of Confronting Danger",
-            "D": "Courage and Panic",
-            "A": "The Will to Fight",
-            "Answer": "B",
-            "Question": "The title that best suits the passage would be:-",
-            "C": "The Change of Nature",
-            "questionTypeId": 1
-          },
-          {
-            "Answer": "C",
-            "Question": "A man may react to sudden danger in three different ways. What are they?",
-            "C": "He may be paralyzed with fear, or seized with panic, or as if by miracle, become possessed of the necessary courage, and face the danger.",
-            "questionTypeId": 1,
-            "B": "He may be paralyzed with fear, seized with panic or act like an inferior animal.",
-            "D": "He may be paralyzed with fear, run away or fight.",
-            "A": "He may flee in panic or fight back or stand still."
-          },
-          {
-            "Answer": "A",
-            "Question": "What is the meaning of the word debilitating?",
-            "C": "debase",
-            "questionTypeId": 1,
-            "B": "strengthen",
-            "D": "thriving",
-            "A": "enfeeble"
-          },
-          {
-            "D": "To be enthusiastic and brave the odds.",
-            "A": "Find peace in times of difficulty.",
-            "Answer": "B",
-            "Question": "Explain the phrase ‘gather resolution from danger’.",
-            "C": "To remain calm and not to lose hope.",
-            "questionTypeId": 1,
-            "B": "A state of utter hopelessness makes one determined to face the difficulty."
-          },
-          {
-            "D": "He felt elated as he was alive.",
-            "A": "They brought him a new experience.",
-            "Answer": "B",
-            "Question": "The author feels happy in the recollection of dangers faced and overcome because",
-            "C": "These experiences boosted his confidence.",
-            "questionTypeId": 1,
-            "B": "They added a new perspective and lifted him above himself for a time."
-          },
-          {
-            "Answer": "D",
-            "Question": "Which word is nearly opposite in meaning as “defile” as used in the passage?",
-            "C": "degenerate",
-            "questionTypeId": 1,
-            "B": "forgery",
-            "D": "sanctify",
-            "A": "Disparage"
-          },
-          {
-            "D": "To prepare the young generation with high intellectual acumen.",
-            "A": "To champion the cause of elitism",
-            "Answer": "C",
-            "Question": "According to the passage, what should be the main purpose of political education?",
-            "C": "To create an egalitarian society",
-            "questionTypeId": 1,
-            "B": "To bring qualitative change in the entire education system"
-          },
-          {
-            "Answer": "D",
-            "Question": "How has politics been related to educational institutions after independence?",
-            "C": "They got political support at the cost of political interference.",
-            "questionTypeId": 1,
-            "B": "It is clear that they got almost no political support as well as political interference.",
-            "D": "There was substantial interference without political support.",
-            "A": "Although they got political support but there was no interference of politics."
-          },
-          {
-            "A": "The education system mainly represents the oppressed sections of the society.",
-            "Answer": "B",
-            "Question": "Based on the passage, which is the major drawback of the present education system?",
-            "C": "It is based on the British model of education.",
-            "questionTypeId": 1,
-            "B": "The present education system promotes the domination of the privileged few.",
-            "D": "It is highly hierarchical and egalitarian in nature."
-          },
-          {
-            "D": "initiate",
-            "A": "Accelerate",
-            "Answer": "C",
-            "Question": "Which is the most opposite in meaning to the word ‘hamper’ as used in the passage?",
-            "C": "foster",
-            "questionTypeId": 1,
-            "B": "envision"
-          },
-          {
-            "D": "writing work",
-            "A": "the electrician",
-            "Answer": "B",
-            "Question": "The electrician / is / do / writing work.",
-            "C": "do",
-            "questionTypeId": 1,
-            "B": "is"
-          },
-          {
-            "A": "either suganya",
-            "Answer": "A",
-            "Question": "Either suganya / nor Kanmani / has attended / the function.",
-            "C": "has attended",
-            "questionTypeId": 1,
-            "B": "nor kanmani",
-            "D": "the function"
-          },
-          {
-            "D": "together now",
-            "A": "my friend",
-            "Answer": "C",
-            "Question": "My friend / and myself / and myself / together now.",
-            "C": "and myself",
-            "questionTypeId": 1,
-            "B": "and myself"
-          },
-          {
-            "D": "in 2012",
-            "A": "the house",
-            "Answer": "C",
-            "Question": "The house / has been / built / in 2012.",
-            "C": " built",
-            "questionTypeId": 1,
-            "B": "has been"
-          },
-          {
-            "Answer": "A",
-            "Question": "The / woods / floats / in waters.",
-            "C": "floats",
-            "questionTypeId": 1,
-            "B": "woods",
-            "D": "in waters",
-            "A": "the"
-          },
-          {
-            "D": "are you",
-            "A": "are",
-            "Answer": "D",
-            "Question": "Are / you involved / in this project? / are you?",
-            "C": "in this project",
-            "questionTypeId": 1,
-            "B": "you involved"
-          },
-          {
-            "Answer": "B",
-            "Question": "They / are seeing / a cricket match / with great interest.",
-            "C": "a cricket match",
-            "questionTypeId": 1,
-            "B": "are seeing",
-            "D": "with great interest",
-            "A": "they"
-          },
-          {
-            "Answer": "B",
-            "Question": "The class / is having / forty students / on the rolls.",
-            "C": "forty students",
-            "questionTypeId": 1,
-            "B": "is having",
-            "D": "on the rolls",
-            "A": "the class"
-          },
-          {
-            "D": "of non violence",
-            "A": "mahavira",
-            "Answer": "C",
-            "Question": "Mahavira / was / a advocate / of non violence",
-            "C": "a advocate",
-            "questionTypeId": 1,
-            "B": "was"
-          },
-          {
-            "C": "her",
-            "questionTypeId": 1,
-            "B": "has married",
-            "D": "last month",
-            "A": "he",
-            "Answer": "B",
-            "Question": "He / has married / her / last month.  \t"
-          },
-          {
-            "B": "ROAKANM",
-            "D": "ROKANAM",
-            "A": " ROAAKNM",
-            "Answer": "A",
-            "Question": "If MADRAS can be written as ARSARS, how can ARKONAM be written in that code?",
-            "C": "ROAKNNM",
-            "questionTypeId": 1
-          },
-          {
-            "D": "EOJDJEFM",
-            "A": "EOJDEJFM",
-            "Answer": "D",
-            "Question": "In a certain code, COMPUTER is written as RFUVQNPC. How is MEDICINE written in the same code?  ",
-            "C": "MFEDJJOE",
-            "questionTypeId": 1,
-            "B": "MFEJDJOE"
-          },
-          {
-            "D": "RPBOELM",
-            "A": "PELBROM",
-            "Answer": "C",
-            "Question": "If in a certain language FASHION is coded as FOIHSAN, how is PROBLEM coded in that code?  ",
-            "C": "PELBORM",
-            "questionTypeId": 1,
-            "B": "PRBOELM"
-          },
-          {
-            "D": "ALDALDALD",
-            "A": "TIATIATIA",
-            "Answer": "C",
-            "Question": "If BOMBAY is written as MYMYMY, how will TAMIL NADU be written in that code?",
-            "C": "MNUMNUMNU",
-            "questionTypeId": 1,
-            "B": " IATIATIAT"
-          },
-          {
-            "C": "FRACNOIT",
-            "questionTypeId": 1,
-            "B": "CARFTION",
-            "D": "ARFCNOIT",
-            "A": "CARFNOIT",
-            "Answer": "A",
-            "Question": "According to a military code, SYSTEM is SYSMET and NEARER is AENRER. What is the code for FRACTION?  \t"
-          },
-          {
-            "D": "1,2,3,4,5",
-            "A": "1,4,3,2,5",
-            "Answer": "B",
-            "Question": "1. Patients 2. Diagnosis 3. Bill 4. Doctor 5. Treatment",
-            "C": "1,4,2,3,5",
-            "questionTypeId": 1,
-            "B": "1,4,2,5,3"
-          },
-          {
-            "C": "1,5,2,4,3",
-            "questionTypeId": 1,
-            "B": "3,2,1,5,4",
-            "D": "2,4,3,1,5",
-            "A": "2,4,1,3,5",
-            "Answer": "A",
-            "Question": "1. Mother 2. Child 3. Milk 4. Cry 5. Smile  "
-          },
-          {
-            "D": "4,2,1,5,3",
-            "A": "1,2,3,5,4",
-            "Answer": "C",
-            "Question": "1. Key 2. Door 3. Lock 4. Room 5. Switch on  \t",
-            "C": "1,3,2,4,5",
-            "questionTypeId": 1,
-            "B": " 5,1,2,4,3"
-          },
-          {
-            "D": "5,3,2,1,4",
-            "A": "4,1,3,5,2",
-            "Answer": "C",
-            "Question": "1. College 2. Child 3. Salary 4. School 5. Employment",
-            "C": "2,4,1,5,3",
-            "questionTypeId": 1,
-            "B": "1,2,4,3,5"
-          },
-          {
-            "B": "2,3,4,5,1",
-            "D": "1,5,4,2,3",
-            "A": "1,3,4,5,2",
-            "Answer": "D",
-            "Question": "1. Birth 2. Death 3. Funeral 4. Marriage 5. Education",
-            "C": "4,5,3,1,2",
-            "questionTypeId": 1
-          },
-          {
-            "Answer": "B",
-            "Question": "R U S G A – 1 2 3 4 5  ",
-            "C": "5 3 4 1 2",
-            "questionTypeId": 1,
-            "B": "3 2 4 5 1",
-            "D": "1 5 4 2 3",
-            "A": "4 5 3 2 1"
-          },
-          {
-            "C": "3 2 1 5 4",
-            "questionTypeId": 1,
-            "B": "4 3 2 1 5",
-            "D": "2 1 5 4 3",
-            "A": "1 3 2 5 4",
-            "Answer": "D",
-            "Question": "R P E D I – 1 2 3 4 5  "
-          },
-          {
-            "D": "3 2 5 4 1 6",
-            "A": "4 5 3 6 2 1",
-            "Answer": "B",
-            "Question": "T L P N A E – 1 2 3 4 5 6  \t",
-            "C": "4 6 1 3 5 2",
-            "questionTypeId": 1,
-            "B": "3 2 5 4 6 1"
-          },
-          {
-            "B": "5 1 2 3 4",
-            "D": "3 2 1 4 5",
-            "A": "1 2 3 4 5",
-            "Answer": "B",
-            "Question": "R A C E T – 1 2 3 4 5  \t",
-            "C": "5 2 3 4 1",
-            "questionTypeId": 1
-          },
-          {
-            "D": "2 5 4 1 6 3",
-            "A": "4 5 1 2 3 6",
-            "Answer": "D",
-            "Question": "I P E L O C – 1 2 3 4 5 6  ",
-            "C": "1 4 3 5 2 6",
-            "questionTypeId": 1,
-            "B": "3 4 5 1 2 6"
-          },
-          {
-            "Answer": "C",
-            "Question": "Find the missing number? 7\t4\t5 8\t7\t6 3\t3\t? 29\t19\t31",
-            "C": "5",
-            "questionTypeId": 1,
-            "B": " 4",
-            "D": "6",
-            "A": " 3"
-          },
-          {
-            "D": "37",
-            "A": "25",
-            "Answer": "B",
-            "Question": "Find the missing number? 51\t11\t61 64\t30\t32 35\t?\t43",
-            "C": "32",
-            "questionTypeId": 1,
-            "B": "27"
-          },
-          {
-            "D": "5",
-            "A": "2",
-            "Answer": "B",
-            "Question": "Find the missing number? 18\t24\t32 12\t14\t16 3 \t?\t4 72\t112\t128",
-            "C": "4",
-            "questionTypeId": 1,
-            "B": "3"
-          },
-          {
-            "D": "15",
-            "A": "7",
-            "Answer": "A",
-            "Question": "Find the missing number? 13\t12\t5 17\t15\t8 25\t24\t? 29\t21\t20",
-            "C": "11",
-            "questionTypeId": 1,
-            "B": "9"
-          },
-          {
-            "B": "18",
-            "D": "20",
-            "A": "15",
-            "Answer": "B",
-            "Question": "Find the missing number? 3\t15\t4 7\t38\t5 3\t?\t5",
-            "C": "19",
-            "questionTypeId": 1
-          },
-          {
-            "Answer": "C",
-            "Question": "In a certain code '415' means 'milk is hot'; '18' means 'hot soup'; and '895' means 'soup is brown'. What number will indicate the word 'brown'?",
-            "C": "9",
-            "questionTypeId": 1,
-            "B": "8",
-            "D": "1",
-            "A": "5"
-          },
-          {
-            "D": "M%22",
-            "A": "H@38",
-            "Answer": "A",
-            "Question": "What may be the possible code for 'Scientists'?",
-            "C": "K@35",
-            "questionTypeId": 1,
-            "B": "G%21"
-          },
-          {
-            "D": "Follows",
-            "A": "Cloud",
-            "Answer": "B",
-            "Question": "What will be the code for 'R@29' in the given code language?",
-            "C": "Inters",
-            "questionTypeId": 1,
-            "B": "Impact"
-          },
-          {
-            "A": "F@22",
-            "Answer": "D",
-            "Question": "What is the code for 'Butterflies' in the given code language?",
-            "C": "T@25",
-            "questionTypeId": 1,
-            "B": "E%20",
-            "D": "Y%21"
-          },
-          {
-            "C": "R%15",
-            "questionTypeId": 1,
-            "B": "B@20",
-            "D": "H@22",
-            "A": "V%25",
-            "Answer": "A",
-            "Question": "What is the code for 'Environment' in the given code language?"
-          },
-          {
-            "D": "Homes",
-            "A": "Other",
-            "Answer": "C",
-            "Question": "In the given code language, what does the code 'L%29' stand for?",
-            "C": "Ocean",
-            "questionTypeId": 1,
-            "B": "After"
-          },
-          {
-            "D": "8",
-            "A": "5",
-            "Answer": "D",
-            "Question": "What is the code for 'thou'?",
-            "C": "9",
-            "questionTypeId": 1,
-            "B": "6"
-          },
-          {
-            "A": "1",
-            "Answer": "D",
-            "Question": "What may be the possible code for 'thy'?",
-            "C": "3",
-            "questionTypeId": 1,
-            "B": "7",
-            "D": "None of these"
-          },
-          {
-            "D": "Only",
-            "A": "Warn",
-            "Answer": "C",
-            "Question": "Which of the following word represent ‘C2’?  ",
-            "C": "Oil",
-            "questionTypeId": 1,
-            "B": "And"
-          },
-          {
-            "A": "D1 G3",
-            "Answer": "A",
-            "Question": "Which of the following represent ‘Foreign Land’ in coding language?",
-            "C": "A2 C3",
-            "questionTypeId": 1,
-            "B": "E4 H6",
-            "D": "D2 E2"
-          },
-          {
-            "D": "Neither I nor II is true",
-            "A": "Only I is true",
-            "Answer": "C",
-            "Question": "Statements:  Some Magic is Trick. No Trick is a Risk. Some Risk is Spell. Conclusions: I. All Trick being Magic is a possibility II. All Risk being Magic is a possibility",
-            "C": "Both I and II are true",
-            "questionTypeId": 1,
-            "B": "Only II is true"
-          },
-          {
-            "D": "Neither I nor II is true",
-            "A": "Only I is true",
-            "Answer": "B",
-            "Question": "Statements:  Only a few wells are mats. All pillows are mats. Conclusions: I. Atleast some pillows are wells II. All wells can never be pillow",
-            "C": "Either I or II true",
-            "questionTypeId": 1,
-            "B": "Only II is true"
-          },
-          {
-            "C": "Either I or II is true",
-            "questionTypeId": 1,
-            "B": "Only II is true",
-            "D": "Neither I nor II is true",
-            "A": "Only I is true",
-            "Answer": "C",
-            "Question": "Statements:  Some balls are rackets. Some rackets are bats. All bats are nets. Conclusions: I. No net is a ball II. All rackets are nets"
-          },
-          {
-            "Answer": "B",
-            "Question": "Statements:  All biscuits are butter. No butter is a bread. Conclusions: I. At least some bread are butter. II. No biscuit is a bread.",
-            "C": "Either I or II is true",
-            "questionTypeId": 1,
-            "B": "Only II is true",
-            "D": "Neither I nor II is true",
-            "A": "Only I is true"
-          },
-          {
-            "Answer": "C",
-            "Question": "Statements:  All sweet are sugar Some sugar is salt No sweet is bad\t Conclusions: I. Some salt is not bad II. Some sweet is bad is possibility",
-            "C": "Either I or II is true",
-            "questionTypeId": 1,
-            "B": "Only II is true",
-            "D": "Both Conclusion I and II are true",
-            "A": "Only I is true"
-          },
-          {
-            "Answer": "A",
-            "Question": "Statements: A > B, B ≥ C, C < D Conclusions: I. A > C II. A = C",
-            "C": "Either I or II true",
-            "questionTypeId": 1,
-            "B": "Only II is true",
-            "D": "Neither I nor II is true",
-            "A": "Only I is true"
-          },
-          {
-            "C": "Either I or II true",
-            "questionTypeId": 1,
-            "B": "Only II is true",
-            "D": "Neither I nor II is true",
-            "A": "Only I is true",
-            "Answer": "D",
-            "Question": "Statements: P = E, Q ≥ P, V < Q Conclusions: I. Q ≤ E II. E > V"
-          },
-          {
-            "B": "Only II is true",
-            "D": "Neither I nor II is true",
-            "A": "Only I is true",
-            "Answer": "D",
-            "Question": "Statements: M # K, K % P, P $ R Conclusions: I. R $ M II. P % M     ",
-            "C": "Either I or II true",
-            "questionTypeId": 1
-          },
-          {
-            "D": "Neither I nor II is true",
-            "A": "Only I is true",
-            "Answer": "D",
-            "Question": "Statements: L $ P, P % Q, Q # R Conclusions: I. R $ L II. R % L  ",
-            "C": "Either I or II true",
-            "questionTypeId": 1,
-            "B": "Only II is true"
-          },
-          {
-            "Answer": "D",
-            "Question": "Statements: L* M, M $ N, N % K Conclusions: I. K @ L II. L * N",
-            "C": "Either I or II true",
-            "questionTypeId": 1,
-            "B": "Only II is true",
-            "D": "Both Conclusion I and II are true",
-            "A": "Only I is true"
-          }
-        ]
+{
+  "id": 1,  
+  "name": "MBA",
+    "questions": [
+{
+"name": "A shopkeeper sold an article for Rs. 2500. If the cost price of the article is 2000, find the profit percent.",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "23%",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "25%",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "27%",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "29%",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "A man purchases a TV for Rs. 8000 and sells it at 10% loss. What is the selling price of T.V?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "Rs.7200",
+        "isAnswer": true
+    },
+    {
+        "id": 2,
+        "name": "Rs.7000",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "Rs.6900",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Rs.6500",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "A running man crosses a bridge of length 500 meters in 4 minutes. At what speed he is running?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "8.5 km/s",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "7.5 km/s",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "9.5 km/s",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "6.5 km/s",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "A car running at a speed of 140 km/hr reached its destination in 2 hours. If the car wants to reach at its destination in 1 hour, at what speed it needs to travel?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "300 km/hr",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "280 km/hr",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "250 km/hr",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "240 km/hr",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "A train moving at speed of 80 km/hr crosses a pole in 7 seconds. Find the length of the train.",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "150 m",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "165 m",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "175 m",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "170 m",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "A train is moving at 120 km/hr. The length of the train is 150 meters. How long it will take to cross a platform of length 100 meters?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "10 seconds",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "7.5 seconds",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "20 Seconds",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "25 seconds",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "Worker A completes a task in 8 days and worker B completes the same task in 10 days. If both A and B work together, in how many days they will complete the task?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "40/10 days",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "40/9 days",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "40/8 days",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "40/7 days",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "Vikas and Mohan working together can complete a work in 6 days. If Vikas alone completes the same work in 10 days, in how many days Mohan alone can complete the same work?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "13 days",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "14 days",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "15 days",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "16 days",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "The value of 51/4 x (125)0.25 is",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "1",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "15",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "5",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "25",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "Value of (256)0.16 x (256)0.09 is",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "64",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "4",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "8",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "16",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "Find the HCF of 210, 385, and 735.",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "7",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "14",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "21",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "35",
+        "isAnswer": true
+    }
+  ]
+},
+{
+"name": "The LCM of two numbers is 7700, and their HCF is 11. If one of these numbers is 275, what is the other number?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "279",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "283",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "308",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "318",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "What is the area of a triangle with base 5 meters and height 10 meters?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "20 square meters",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "35 square meters",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "25 square meters",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "40 square meters",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "The base of a right-angled triangle is 10 and hypotenuse is 20. What is its area?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "52 meters",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "58 meters",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "68 meters",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "60 meters",
+        "isAnswer": true
+    }
+  ]
+},
+{
+"name": "Look at this series: 2, 1, (1/2), (1/4), …What number should come next?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "(1/3)",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "(1/8)",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "(2/8)",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "(1/16)",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "Which word does NOT belong with the others?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "index",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "glossary",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "chapter",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "book",
+        "isAnswer": true
+    }
+  ]
+},
+{
+"name": "Which word is the odd man out?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "trivial",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "unimportant",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "important",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "insignificant",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "CUP : LIP :: BIRD : ?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "GRASS",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "FOREST",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "BEAK",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "BUSH",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "Safe : Secure :: Protect :",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "Lock",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "Guard",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "Sure",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Conserve",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "Parts : Strap :: Wolf :",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "Flow",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "Animal",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "Wood",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Fox",
+        "isAnswer": true
+    }
+  ]
+},
+{
+"name": "An Informal Gathering occurs when a group of people get together in a casual, relaxed manner. Which situation below is the best example of an Informal Gathering?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "A debating club meets on the first Sunday morning of every month.",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "After finding out about his salary raise, Jay and a few colleagues go out for a quick dinner after work.",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "Meena sends out 10 invitations for a bachelorette party she is giving for her elder sister.",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Whenever she eats at a Chinese restaurant, Roop seems to run into Dibya.",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "A Tiebreaker is an additional contest carried out to establish a winner among tied contestants. Choose one situation from the options below that best represents a Tiebreaker.",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "At halftime, the score is tied at 2-2 in a football match.",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "Serena and Maria have each secured 1 set in the game.",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "The umpire tosses a coin to decide which team will have bat first.",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "RCB and KKR each finished at 140 all out.",
+        "isAnswer":true
+    }
+  ]
+},
+{
+"name": "The Sharks and the Bears each finished with 34 points, and they are now battling it out in a five-minute overtime.",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "When he is offered a better paying position, Jacob leaves the restaurant he manages to manage a new restaurant on the other side of town.",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "Catherine is spending her junior year of college studying abroad in France.",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "Malcolm is readjusting to civilian life after two years of overseas military service.",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "After several miserable months, Sharon decides that she can no longer share an apartment with her roommate Hilary.",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "Reentry occurs when a person leaves his or her social system for a period of time and then returns. Which situation below best describes Reentry?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "When he is offered a better paying position, Javed leaves the hotel he manages to manage another one in a neighboring city.",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "Charan is spending her final year of college studying abroad in China.",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "Manan is readjusting to civilian life after 2 years of overseas merchant navy service.",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "After 5 miserable months, Sneha decides that she can no longer share her room with roommate Hital.",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "The ‘A’ state government has chalked out a plan for the underdeveloped ‘B’ district where 66% of the funds will be placed in the hands of a committee of local representatives. Courses of action: I. The ‘A’ state government should decide guidelines and norms for the functioning of the committee. II. Other state government may follow similar plan if directed by the Central government.",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "If only I follows",
+        "isAnswer": true
+    },
+    {
+        "id": 2,
+        "name": "If only II follows",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "If either I or II follows",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "If neither I nor II follows",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "The car dealer found that there was a tremendous response for the new XYZ’s car booking with long queues of people complaining about the duration of business hours and arrangements. Courses of action: I. People should make their arrangement of lunch and snacks while going for car XYZ’s booking and be ready to spend several hours. II. Arrangement should be made for more booking desks and increase business hours to serve more people in less time.",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "If only I follows",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "If only II follows",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "If either I or II follows",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "If neither I nor II follows",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "According to a schedule, the restaurant’s floors are polished on either…",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "Tuesday or Wednesday",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "Tuesday or Thursday",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "Wednesday or Thursday",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "Thursday or Friday",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "If dinner is served on the same day as plants are watered, which of the following is correct?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "Plants are watered on Tuesday.",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "Floors are polished on Thursday.",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "Plants are watered on Wednesday.",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Floors are polished on Wednesday.",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "Assume that floors are polished on consecutive days, but all other scheduling policies are untampered. For how many of the days can it be determined whether plants are watered, and floors are polished?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "two",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "three",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "four",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "six",
+        "isAnswer": true
+    }
+  ]
+},
+{
+"name": "Which of the following would be the most appropriate title for the passage?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "Being extravagant is always condemnable.",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "The cause of poverty is extravagance.",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "Extravagance is a part of the rich as well as of the poor.",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "Stingy habits of the poor.",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "According to the passage the person, who is a successful businessman and wealthy.",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "Is expected to have lavish lifestyle.",
+        "isAnswer": true
+    },
+    {
+        "id": 2,
+        "name": "Should not bother about popularity.",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "Is more popular if he appears to be wasting away his time.",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Must be extravagant before achieving success.",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "The phrase ‘lavish with his hospitality’ in the third sentence of the first paragraph means",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "Thoughtful in spending only on guests and strangers.",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "Unconcerned in treating his friends and relatives.",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "Stinginess in dealing with his relatives.",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Extravagance in entertaining guest.",
+        "isAnswer": true
+    }
+  ]
+},
+{
+"name": "The word ‘paradox’ in the last sentence of the first paragraph means",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "Statement based on the popular opinion",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "A statement that seems self-contradictory but in reality expresses a possible truth.",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "Statement based on facts",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "A word that brings out the hidden meaning",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "What is the meaning of the word “equanimity”?",
+"questionTypeId": 1,
+"options": [
+    {
+      "id": 1,
+      "name": "Calmness",
+      "isAnswer": true
+   },
+   {
+      "id": 2,
+      "name": "Discomposure",
+      "isAnswer": false
+   },
+   {
+       "id": 3,
+       "name": "Equivocal",
+       "isAnswer": false
+   },
+   {
+       "id": 4,
+       "name": "Dubious",
+       "isAnswer": false
+   }
+ ]
+},
+{
+"name": "The title that best suits the passage would be:-",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "The Will to Fight",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "The Miracle of Confronting Danger",
+        "isAnswer": true
+    },
+    {
+        "id": 3,
+        "name": "The Change of Nature",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Courage and Panic",
+        "isAnswer": false
+    }
+  ]
+},
+ {
+"name": "A man may react to sudden danger in three different ways. What are they?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "He may flee in panic or fight back or stand still.",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "He may be paralyzed with fear, seized with panic or act like an inferior animal.",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "He may be paralyzed with fear, or seized with panic, or as if by miracle, become possessed of the necessary courage, and face the danger.",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "He may be paralyzed with fear, run away or fight.",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "What is the meaning of the word debilitating?",
+"questionTypeId": 1,
+"options": [
+    {
+      "id": 1,
+      "name": "enfeeble",
+      "isAnswer": true
+    },
+    {
+       "id": 2,
+       "name": "strengthen",
+       "isAnswer": false
+    },
+    {
+       "id": 3,
+       "name": "debase",
+       "isAnswer": false
+    },
+    {
+       "id": 4,
+       "name": "thriving",
+       "isAnswer": false
+    }
+  ]
+},
+{
+"name": "Explain the phrase ‘gather resolution from danger’.",
+"questionTypeId": 1,
+"options": [
+   {
+       "id": 1,
+       "name": "Find peace in times of difficulty.",
+       "isAnswer": false
+   },
+   {
+       "id": 2,
+       "name": "A state of utter hopelessness makes one determined to face the difficulty.",
+       "isAnswer": true
+   },
+   {
+       "id": 3,
+       "name": "To remain calm and not to lose hope.",
+       "isAnswer": false
+   },
+   {
+       "id": 4,
+       "name": "To be enthusiastic and brave the odds.",
+       "isAnswer": false
+    }
+  ]
+},
+{
+"name": "The author feels happy in the recollection of dangers faced and overcome because",
+"questionTypeId": 1,
+"options": [
+   {
+      "id": 1,
+      "name": "They brought him a new experience.",
+      "isAnswer": false
+    },
+    {
+       "id": 2,
+       "name": "They added a new perspective and lifted him above himself for a time.",
+       "isAnswer": true
+   },
+   {
+       "id": 3,
+       "name": "These experiences boosted his confidence",
+       "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "He felt elated as he was alive.",
+        "isAnswer": false
+   }
+  ]
+},
+{
+"name": "Which word is nearly opposite in meaning as “defile” as used in the passage?",
+"questionTypeId": 1,
+"options": [
+    {
+      "id": 1,
+      "name": "Disparage",
+      "isAnswer": false
+   },
+   {
+      "id": 2,
+      "name": "forgery",
+      "isAnswer": false
+   },
+   {
+       "id": 3,
+       "name": "degenerate",
+      "isAnswer": false
+   },
+   {
+       "id": 4,
+       "name": "sanctify",
+      "isAnswer": true
+   }
+ ]
+},
+{
+"name": "According to the passage, what should be the main purpose of political education?",
+"questionTypeId": 1,
+"options": [
+   {
+      "id": 1,
+      "name": "To champion the cause of elitism",
+      "isAnswer": false
+   },
+   {
+      "id": 2,
+      "name": "To bring qualitative change in the entire education system",
+      "isAnswer": false
+   },
+   {
+       "id": 3,
+       "name": "To create an egalitarian society",
+       "isAnswer": true
+   },
+   {
+      "id": 4,
+      "name": "To prepare the young generation with high intellectual acumen.",
+      "isAnswer": false
+   }
+  ]
+},
+{
+"name": "How has politics been related to educational institutions after independence?",
+"questionTypeId": 1,
+"options": [
+   {
+     "id": 1,
+     "name": "Although they got political support but there was no interference of politics.",
+     "isAnswer": false
+   },
+   {
+      "id": 2,
+      "name": "It is clear that they got almost no political support as well as political interference.",
+      "isAnswer": false
+   },
+   {
+      "id": 3,
+      "name": "They got political support at the cost of political interference.",
+      "isAnswer": false
+   },
+   {
+     "id": 4,
+     "name": "There was substantial interference without political support.",
+     "isAnswer": true
+   }
+  ]
+},
+{
+"name": "Based on the passage, which is the major drawback of the present education system?",
+"questionTypeId": 1,
+"options": [
+   {
+     "id": 1,
+     "name": "The education system mainly represents the oppressed sections of the society.",
+     "isAnswer": false
+   },
+   {
+      "id": 2,
+      "name": "The present education system promotes the domination of the privileged few.",
+      "isAnswer": true
+   },
+   {
+      "id": 3,
+      "name": "It is based on the British model of education.",
+      "isAnswer": false
+   },
+   {
+     "id": 4,
+     "name": "It is highly hierarchical and egalitarian in nature.",
+     "isAnswer": false
+   }
+  ]    
+},
+{
+"name": "Which is the most opposite in meaning to the word ‘hamper’ as used in the passage?",
+"questionTypeId": 1,
+"options": [
+{
+    "id": 1,
+    "name": "Accelerate",
+    "isAnswer": false
+  },
+  {
+     "id": 2,
+     "name": "envision",
+     "isAnswer": false
+  },
+  {
+     "id": 3,
+     "name": "foster",
+     "isAnswer": true
+  },
+  {
+    "id": 4,
+    "name": "initiate",
+    "isAnswer": false
   }
+ ]    
+},     
+{
+"name": "The electrician / is / do / writing work.",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "the electrician",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "is",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": "do",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "writing work",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+"name": "Either suganya / nor Kanmani / has attended / the function.",
+"questionTypeId": 1,
+"options": [  
+    {
+        "id": 1,
+        "name": "Either suganya",
+        "isAnswer": true
+   },
+   {
+        "id": 2,
+        "name": " nor Kanmani",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "has attended",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": " the function",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+"name": "My friend / and myself / and myself / together now.",
+"questionTypeId": 1,
+"options": [ 
+    {
+        "id": 1,
+        "name": "My friend ",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "and myself",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "and myself",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "together now",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+"name": "The house / has been / built / in 2012.",
+"questionTypeId": 1,
+"options": [ 
+    {
+        "id": 1,
+        "name": "The house",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": " has been ",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "built ",
+        "isAnswer":true
+    },
+    {
+        "id": 4,
+        "name": "in 2012",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+"name": "The / woods / floats / in waters.",
+"questionTypeId": 1,
+"options": [ 
+    {
+        "id": 1,
+        "name": "The",
+        "isAnswer": true
+   },
+   {
+        "id": 2,
+        "name": "woods",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "floats",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "in waters",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+"name": "Are / you involved / in this project? / are you?",
+"questionTypeId": 1,
+"options": [ 
+    {
+        "id": 1,
+        "name": "Are",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "you involved ",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "in this project",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "are you",
+        "isAnswer": true
+    }
+   ]    
+},
+{
+"name": "They / are seeing / a cricket match / with great interest.",
+"questionTypeId": 1,
+"options": [       
+    {
+        "id": 1,
+        "name": "They",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "are seeing ",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": " a cricket match",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "with great interest",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+"name": "The class / is having / forty students / on the rolls.",
+"questionTypeId": 1,
+"options": [        
+    {
+        "id": 1,
+        "name": "The class",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "is having",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": "forty students",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "on the rolls",
+        "isAnswer": false
+    }
+   ]    
+},    
+{
+    "name": "Mahavira / was / a advocate / of non violence",
+    "questionTypeId": 1,
+    "options": [         
+{
+        "id": 1,
+        "name": "Mahavira",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "was",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": " a advocate",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "of non violence",
+        "isAnswer": false
+    }
+   ]    
+}, 
+{
+"name": "He / has married / her / last month.",
+"questionTypeId": 1,
+"options": [  
+    {
+        "id": 1,
+        "name": "He",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "has married",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": "her",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "last month",
+        "isAnswer": false
+    }
+   ]    
+},           
+{
+"name": "If MADRAS can be written as ARSARS, how can ARKONAM be written in that code?",
+"questionTypeId": 1,
+"options": [        
+    {
+        "id": 1,
+        "name": "ROAAKNM",
+        "isAnswer": true
+   },
+   {
+        "id": 2,
+        "name": "ROAKANM",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "ROAKNNM",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "ROKANAM",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+"name": "In a certain code, COMPUTER is written as RFUVQNPC. How is MEDICINE written in the same code?",
+"questionTypeId": 1,
+"options": [         
+    {
+        "id": 1,
+        "name": "EOJDEJFM",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "MFEJDJOE",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "MFEDJJOE",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "EOJDJEFM",
+        "isAnswer": true
+    }
+   ]    
+},
+{
+"name": "If in a certain language FASHION is coded as FOIHSAN, how is PROBLEM coded in that code?",
+"questionTypeId": 1,
+"options": [        
+    {
+        "id": 1,
+        "name": "PELBROM",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "PRBOELM",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "PELBORM",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "RPBOELM",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+"name": "If BOMBAY is written as MYMYMY, how will TAMIL NADU be written in that code?",
+"questionTypeId": 1,
+"options": [    
+    {
+        "id": 1,
+        "name": "TIATIATIA",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": " IATIATIAT",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "MNUMNUMNU",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "ALDALDALD",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+"name": "According to a military code, SYSTEM is SYSMET and NEARER is AENRER. What is the code for FRACTION?",
+"questionTypeId": 1,
+"options": [       
+    {
+        "id": 1,
+        "name": "CARFNOIT",
+        "isAnswer":true
+   },
+   {
+        "id": 2,
+        "name": "CARFTION",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "FRACNOIT",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "ARFCNOIT",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+"name": "1. Patients 2. Diagnosis 3. Bill 4. Doctor 5. Treatment",
+"questionTypeId": 1,
+"options": [        
+    {
+        "id": 1,
+        "name": "1,4,3,2,5",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "1,4,2,5,3",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "1,4,2,3,5",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "1,2,3,4,5",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+"name": "1. Mother 2. Child 3. Milk 4. Cry 5. Smile",
+"questionTypeId": 1,
+"options": [       
+    {
+        "id": 1,
+        "name": "2,4,1,3,5",
+        "isAnswer": true
+   },
+   {
+        "id": 2,
+        "name": "3,2,1,5,4",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "1,5,2,4,3",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "2,4,3,1,5",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "1. Key 2. Door 3. Lock 4. Room 5. Switch on  \t",
+    "questionTypeId": 1,
+    "options": [         
+   {
+        "id": 1,
+        "name": "1,2,3,5,4",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "5,1,2,4,3",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "1,3,2,4,5",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "1,3,2,4,5",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "1. College 2. Child 3. Salary 4. School 5. Employment",
+    "questionTypeId": 1,
+    "options": [         
+   {
+        "id": 1,
+        "name": "4,1,3,5,2",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "1,2,4,3,5",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "2,4,1,5,3",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "5,3,2,1,4",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "1. Birth 2. Death 3. Funeral 4. Marriage 5. Education",
+    "questionTypeId": 1,
+    "options": [         
+
+    {
+        "id": 1,
+        "name": "1,3,4,5,2",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "2,3,4,5,1",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "4,5,3,1,2",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "1,5,4,2,3",
+        "isAnswer": true
+    }
+   ]    
+},
+{
+    "name": "R U S G A – 1 2 3 4 5",
+    "questionTypeId": 1,
+    "options": [         
+   {
+        "id": 1,
+        "name": "4 5 3 2 1",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "3 2 4 5 1",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": "5 3 4 1 2",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "1 5 4 2 3",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "R P E D I – 1 2 3 4 5",
+    "questionTypeId": 1,
+    "options": [    
+    {
+        "id": 1,
+        "name": "1 3 2 5 4",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "4 3 2 1 5",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "3 2 1 5 4",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "2 1 5 4 3",
+        "isAnswer": true       
+    }
+  ]
+},
+{
+"name": "T L P N A E – 1 2 3 4 5 6  \t",
+"questionTypeId": 1,
+"options": [    
+    {
+        "id": 1,
+        "name": "4 5 3 6 2 1",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "3 2 5 4 6 1",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": "4 6 1 3 5 2",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "3 2 5 4 1 6",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "R A C E T – 1 2 3 4 5  \t",
+    "questionTypeId": 1,
+    "options": [           
+   {
+        "id": 1,
+        "name": "1 2 3 4 5",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "5 1 2 3 4",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": "5 2 3 4 1",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "3 2 1 4 5",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "I P E L O C – 1 2 3 4 5 6",
+    "questionTypeId": 1,
+    "options": [         
+    {
+        "id": 1,
+        "name": "4 5 1 2 3 6",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "3 4 5 1 2 6",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "1 4 3 5 2 6",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "2 5 4 1 6 3",
+        "isAnswer": true
+    }
+   ]    
+},
+{
+    "name": "Find the missing number? 7\t4\t5 8\t7\t6 3\t3\t? 29\t19\t31",
+    "questionTypeId": 1,
+    "options": [ 
+    {
+        "id": 1,
+        "name": "3",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "4",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "5",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "6",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "Find the missing number? 51\t11\t61 64\t30\t32 35\t?\t43",
+    "questionTypeId": 1,
+    "options": [ 
+    {
+        "id": 1,
+        "name": "25",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "27",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": "32",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "37",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+
+    "name": "Find the missing number? 18\t24\t32 12\t14\t16 3 \t?\t4 72\t112\t128",
+    "questionTypeId": 1,
+    "options": [        
+    {
+        "id": 1,
+        "name": "2",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "3",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": "4",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "5",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+
+    "name": "Find the missing number? 13\t12\t5 17\t15\t8 25\t24\t? 29\t21\t20",
+    "questionTypeId": 1,
+    "options": [        
+    {
+        "id": 1,
+        "name": "7",
+        "isAnswer": true
+   },
+   {
+        "id": 2,
+        "name": "9",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "11",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "15",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+
+    "name": "Find the missing number? 3\t15\t4 7\t38\t5 3\t?\t5",
+    "questionTypeId": 1,
+    "options": [           
+    {
+        "id": 1,
+        "name": "15",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "18",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": "19",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "20",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+
+    "name": "In a certain code '415' means 'milk is hot'; '18' means 'hot soup'; and '895' means 'soup is brown'. What number will indicate the word 'brown'?",
+    "questionTypeId": 1,
+    "options": [        
+    {
+        "id": 1,
+        "name": "5",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "8",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "9",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "1",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+
+    "name": "What may be the possible code for 'Scientists'?",
+    "questionTypeId": 1,
+    "options": [        
+    {
+        "id": 1,
+        "name": "H@38",
+        "isAnswer": true
+   },
+   {
+        "id": 2,
+        "name": "G%21",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "K@35",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "M%22",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "What will be the code for 'R@29' in the given code language?",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Cloud",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "Impact",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": "Inters",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Follows",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "What is the code for 'Butterflies' in the given code language?",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "F@22",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "E%20",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "T@25",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Y%21",
+        "isAnswer":true
+    }
+   ]    
+},
+{
+    "name": "What is the code for 'Environment' in the given code language?",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "V%25",
+        "isAnswer": true
+   },
+   {
+        "id": 2,
+        "name": "B@20",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "R%15",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "H@22",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "In the given code language, what does the code 'L%29' stand for?",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Other",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "After",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "Ocean",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "Homes",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "What is the code for 'thou'?",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "5",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "6",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "9",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "8",
+        "isAnswer": true
+    }
+   ]    
+},
+{
+    "name": "What may be the possible code for 'thy'?",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "1",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "7",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "3",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "None of these",
+        "isAnswer": true
+    }
+   ]    
+},
+{
+    "name": "Which of the following word represent ‘C2’",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Warn",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "And",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "Oil",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "Only",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "Which of the following represent ‘Foreign Land’ in coding language?",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "D1 G3",
+        "isAnswer": true
+   },
+   {
+        "id": 2,
+        "name": "E4 H6",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "A2 C3",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "D2 E2",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "Statements:  Some Magic is Trick. No Trick is a Risk. Some Risk is Spell. Conclusions: I. All Trick being Magic is a possibility II. All Risk being Magic is a possibility",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Only I is true",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "Only II is true",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "Both I and II are true",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "Neither I nor II is true",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "Statements:  Only a few wells are mats. All pillows are mats. Conclusions: I. Atleast some pillows are wells II. All wells can never be pillow",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Only I is true",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "Only II is true",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": "Either I or II true",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Neither I nor II is true",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "Statements:  Some balls are rackets. Some rackets are bats. All bats are nets. Conclusions: I. No net is a ball II. All rackets are nets",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Only I is true",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "Only II is true",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "Either I or II is true",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "Neither I nor II is true",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "Statements:  All biscuits are butter. No butter is a bread. Conclusions: I. At least some bread are butter. II. No biscuit is a bread.",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Only I is true",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "Only II is true",
+        "isAnswer": true
+   },
+   {
+        "id": 3,
+        "name": "Either I or II is true",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Neither I nor II is true",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "Statements:  All sweet are sugar Some sugar is salt No sweet is bad\t Conclusions: I. Some salt is not bad II. Some sweet is bad is possibility",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Only I is true",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "Only II is true",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "Either I or II is true",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "Both Conclusion I and II are true",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "Statements: A > B, B ≥ C, C < D Conclusions: I. A > C II. A = C",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Only I is true",
+        "isAnswer": true
+   },
+   {
+        "id": 2,
+        "name": "Only II is true",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "Either I or II true",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Neither I nor II is true",
+        "isAnswer": false
+    }
+   ]    
+},
+{
+    "name": "Statements: P = E, Q ≥ P, V < Q Conclusions: I. Q ≤ E II. E > V",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Only I is true",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "Only II is true",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "Either I or II true",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Neither I nor II is true",
+        "isAnswer": true
+    }
+   ]    
+},
+{
+    "name": "Statements: M # K, K % P, P $ R Conclusions: I. R $ M II. P % M ",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Only I is true",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "Only II is true",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "Either I or II true",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Neither I nor II is true",
+        "isAnswer": true
+    }
+   ]    
+},
+{
+    "name": "Statements: L $ P, P % Q, Q # R Conclusions: I. R $ L II. R % L",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Only I is true",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "Only II is true",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Neither I nor II is true",
+        "isAnswer": true
+    }
+   ]    
+},
+{
+    "name": "Statements: L* M, M $ N, N % K Conclusions: I. K @ L II. L * N",
+    "questionTypeId": 1,
+    "options": [     
+    {
+        "id": 1,
+        "name": "Only I is true",
+        "isAnswer": false
+   },
+   {
+        "id": 2,
+        "name": "Only II is true",
+        "isAnswer": false
+   },
+   {
+        "id": 3,
+        "name": "Either I or II true",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "Both Conclusion I and II are true",
+        "isAnswer": true
+    }
+   ]    
+},
+{
+"name": "What is the average of first five multiples of 12?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "36",
+        "isAnswer": true
+    },
+    {
+        "id": 2,
+        "name": "38",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "40",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "42",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "If the average of three consecutive even numbers is 34, find the largest of these numbers.",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "30",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "32",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "34",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "36",
+        "isAnswer": true
+    }
+  ]
+},
+{
+"name": "Age of father is seven times the age of his son. In the next 10 years, the age of father will be three times the age of his son. What is the age of father now?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "35 years",
+        "isAnswer": true
+    },
+    {
+        "id": 2,
+        "name": "37 years",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "39 years",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "41 years",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "A mother is twice as old as her son. If 20 years ago, the age of the mother was 10 times the age of the son, what is the present age of the mother?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "38 years",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "40 years",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "43 years",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "45 years",
+        "isAnswer": true
+    }
+  ]
+},
+{
+"name": "40 % of 280 = ?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "112",
+        "isAnswer": true
+    },
+    {
+        "id": 2,
+        "name": "116",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "115",
+        "isAnswer": false
+    },
+    {
+        "id": 4,
+        "name": "120",
+        "isAnswer": false
+    }
+  ]
+},
+{
+"name": "Whose 35% is 280?",
+"questionTypeId": 1,
+"options": [
+    {
+        "id": 1,
+        "name": "700",
+        "isAnswer": false
+    },
+    {
+        "id": 2,
+        "name": "750",
+        "isAnswer": false
+    },
+    {
+        "id": 3,
+        "name": "800",
+        "isAnswer": true
+    },
+    {
+        "id": 4,
+        "name": "850",
+        "isAnswer": false
+    }
+  ]
+}
+
+]
+}

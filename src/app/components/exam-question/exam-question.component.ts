@@ -7,6 +7,9 @@ import { HelperService } from '../../services/helper.service';
 import { Option, Question, Quiz, QuizConfig } from '../../models/index';
 import { AuthService } from 'src/app/shared/services/auth.service';
 import * as firebase from 'firebase';
+import { CommonModule } from '@angular/common';
+import { User } from "../../shared/services/user";
+
 
 
 @Component({
@@ -17,7 +20,7 @@ import * as firebase from 'firebase';
 })
 export class ExamQuestionComponent implements OnInit {
 
-  user: firebase.User;
+  user: any;
 
   exam: any;
   quizes: any[];
@@ -52,7 +55,7 @@ export class ExamQuestionComponent implements OnInit {
   ellapsedTime = '00:00';
   duration = '';
 
-  constructor(private quizService: QuizService,public afs: AngularFirestore, private auth:AuthService, public router: Router, public ngZone: NgZone) {
+  constructor(private quizService: QuizService,public afs: AngularFirestore, public auth:AuthService, public router: Router, public ngZone: NgZone) {
    }
 
   ngOnInit() {
@@ -65,10 +68,13 @@ export class ExamQuestionComponent implements OnInit {
     this.correctAnswerCount = 0;
 
     //Auth state
-    this.auth.authState()
+   this.user = this.auth.authState()
     .subscribe( user => {
-      this.user = user;
+      return this.afs.doc<User>(`users/${user.uid}`).valueChanges();
+
     })
+    console.log('User from ec:'+this.user.examCompleted)
+
   }
 
   loadQuiz(quizName: string) {
@@ -147,7 +153,9 @@ export class ExamQuestionComponent implements OnInit {
     
     this.afs.collection('users').doc(`${this.user.uid}`).set({
       Score : this.correctAnswerCount,
-      SubmissionTime : date,    },{
+      SubmissionTime : date,
+      examCompleted : true
+    },{
       merge: true
     });
     // console.log(this.quiz.questions);
