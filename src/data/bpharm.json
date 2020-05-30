@@ -873,15 +873,8 @@
             "questionTypeId": 1,
             "options": [
                 {
-<<<<<<< HEAD
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "2 cos2x",
-=======
                     "id": "a",
-                    
                     "name": "2 cos2x  b) 2 cos 2x .dx c) 2 cos 2x dx.  d) cos 2x dx",
->>>>>>> 0973d875ea071320cea8c714d44f9a4347e1e083
                     "isAnswer": false
                 },
                 {
@@ -2181,15 +2174,8 @@
             "questionTypeId": 1,
             "options": [
                 {
-<<<<<<< HEAD
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "Diffraction bands become narrower and crowded together",
-=======
                     "id": "a",
-                    
                     "name": ") Diffraction bands become narrower and crowded together",
->>>>>>> 0973d875ea071320cea8c714d44f9a4347e1e083
                     "isAnswer": true
                 },
                 {
