@@ -1,0 +1,3425 @@
+{
+    "name": "LAW",
+    "questions": [
+      {
+        "id": 1010,
+        "name": "Sale has really taken ________ now.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "up",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "on",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "of",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "off",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1011,
+        "name": "My father was annoyed __________ me.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Towards",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Against",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "With",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Upon",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1012,
+        "name": "The housewife __________ the cakes burning, and ran to switch off the oven",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "smell",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "smells",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "smelling",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "smelt",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1013,
+        "name": "In big cities people are cut ________ from nature.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "off",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "down",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "away",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "out",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1014,
+        "name": "I really object ________ people smoking in my house",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "on",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "about",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "for",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "to",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1015,
+        "name": "Mala Fide",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "in good faith",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "in bad faith",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "without any faith",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "with full faith",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1016,
+        "name": "Ab initio",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "from the very beginning",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "initiative",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "things done later",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "without initiative",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1017,
+        "name": "Alibi",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "every where",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "else where",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "no where",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": " none of the above",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1018,
+        "name": "Uberrima Fide",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "mistrust",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "no faith",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "bad faith",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "utmost good faith",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1019,
+        "name": "Ad infinitum",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "interruption",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "finite",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "forevermore",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "the end",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1020,
+        "name": "Prima Facie",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "the most important",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "that which comes firs",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "at first view",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "the face that is young",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1021,
+        "name": "Bonafide",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "identification car",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "indispensable condition",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "without doubt",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "in good faith",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1022,
+        "name": "De Facto",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "in fact, whether by right or no",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "here and there",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "in the same way",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "clear details",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1023,
+        "name": "Status Quo",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "side remarks",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "social position",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "legally valid",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "present condition",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1024,
+        "name": "Sine die",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "signing legal documents before death",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "without fixing a date",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "applying mathematical concepts to solve a difficult problem",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "by voice vote",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1025,
+        "name": "The art of beautiful handwriting.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "painte",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "calligraphy",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "paleography",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "draftsman",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1026,
+        "name": "A thing kept in the memory of a person.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "gift",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "catholic",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "memento",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "epitaph",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1027,
+        "name": "Government in which all religions are honoured",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "secular",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "catholic",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "progressive",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "fanatic",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1028,
+        "name": "A place where everything is perfect.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "utopia",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "cosmos",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "platoon",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "heaven",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1029,
+        "name": "A person leaving his native country to settle in another country.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "immigrant",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "emigrant",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "traveller",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "nomad",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1030,
+        "name": "According to the author of 'Mentality' of a nation is mainly product of its",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "present character",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "international position",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "politics",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "history",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1031,
+        "name": "What according to the author is an important part of a civilisation?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "speaking",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "advanced writing method",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "government",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "technology",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1032,
+        "name": "According to the author, Nomads are",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "a bunch of underdeveloped, not modern and sometimes barbaric people",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "well-developed people",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "technocrats",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "people belonging to a section of a civilized society",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1033,
+        "name": "The character of a nation is the result of its...",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "gross ignorance",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "cultural heritage",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "socio-political conditions",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "mentality",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1034,
+        "name": "The need for a greater understanding between nations",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "is no longer there",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "was always there",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "is more today than ever before",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "will always be there",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1035,
+        "name": "The total age of Amar, Akbar and Anthony at present is 80 years. What was the total of their ages three years ago?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "71yrs",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "72yrs",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "76yrs",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "77yrs",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1036,
+        "name": "A number of friends decided to go on a picnic and planned to spend Rs. 96 on eatables. Four of them, however, did not turn up. As a consequence, the remaining ones had to contribute Rs. 4 each extra. The number of those who attended the picnic was",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "8",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "12",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "16",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "4",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1037,
+        "name": "A pineapple costs Rs. 7 each. A watermelon costs Rs. 5 each. X spends Rs. 38 on these fruits. The number of pineapples purchased is",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "2",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "3",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "4",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "5",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1038,
+        "name": " A woman says, If you reverse my own age, the figures represent my husband's age. He is, of course, senior to me and the difference between our ages is one-eleventh of their sum. The woman's age is",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "23yrs",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "34yrs",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "45yrs",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "56yrs",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1039,
+        "name": "A boat can travel with a speed of 13 km/hr in still water. If the speed of the stream is 4 km/hr, find the time taken by the boat to go 68 km downstream.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "2 hours",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "3 hours",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "4 hours",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "5 hours",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1040,
+        "name": "A clock shows the time as 6 a.m. If the minute hand gains 2 minutes every hour, how many minutes will the clock gain by 9 p.m.?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "30 minutes",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "25 minutes",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "28 minutes",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "34 minutes",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1041,
+        "name": "The solution to x + 6x + 9 = 0 is ……..",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "x1 = + 3, x2 = -3",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "x1 = 3, x2 = 3",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "x1 = -3, x2 = -3",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "No solution",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1042,
+        "name": "If 75 % of a number is added to 75, the result is the number itself, then the number is:",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "250",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "750",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "400",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "300",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1043,
+        "name": "A school has enough food for 400 children for 12 days. How long will the food last if 80 more children join them?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "6 days",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "7 days",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "10 days",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "8 days",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1044,
+        "name": "20% of 5 + 5% of 20 =",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "5",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "2",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "6",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "21",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1045,
+        "name": "At present, Madhu is 15 years older than Kamal. After 5 years Kamal will be 10 years old. What is Madhu’s present age?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "25 years",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "10 years",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "20 years",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "30 years",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1046,
+        "name": "486 + 32 × 25 — 59 =",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "514",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "528",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "599",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "507",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1047,
+        "name": "4, 6, 12, 14, 28, 30, ?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "32",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "60",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "62",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "64",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1048,
+        "name": "2, 1, (1/2), (1/4), ?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "(1/3",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "(2/8)",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "(1/8)",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "(1/16)",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1049,
+        "name": "0.5, 0.55, 0.65, 0.8, ?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "0.7",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "0.9",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "0.95",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "1",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1050,
+        "name": "The Constitution of India borrowed the scheme of Indian Federation from which of the following Constitution?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "USA",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Canads",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Ireland",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "UK",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1051,
+        "name": "The full form of PIL is",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Public International Litigation",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Public Interest Litigation",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Private Interest Litigation",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Publicity Interest Litigation",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1052,
+        "name": "The last of the High Courts in India were established in 2019 in Telengana. What is the total number of High Courts currently?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "22",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "23",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "24",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "25",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1053,
+        "name": "Which among the following is wrongly matched?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "My Experiments With Truth Mahatma Gandhi",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Manifesto for Change   A.P.J. Abdul Kalam",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "What is History?   Arnold Toynbee",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Arthasashtra   Kautilya",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1054,
+        "name": "Which of the following is considered as the Mother of all subjects",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Biology",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Economics",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Mathematics",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "History",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1058,
+        "name": "Who is regarded as the Father of Political Science?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Plato",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Socrates",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Aristotle",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Kautilya",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1059,
+        "name": "Who was the first Education Minister of Independent India?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Maulana Abul Kalam Azad",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Sardar Vallabhai Pate",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Dr. B.R. Ambedkar",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Govind Bhalabh Pant",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1060,
+        "name": "What is the maximum strength of the Lok Sabha?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "234 Members",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "272 Members",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "272 Members",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "545 Members",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1061,
+        "name": "The acronym for NITI Aayog is",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "National Institute for Training and Implementation",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "National Institute for Technology and Investment",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "National Institute for Transformation and Increment",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "National Institute for Transforming India",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1062,
+        "name": "Name the ambitious programme of the Government of India which was launched in 2014 for the purpose of Financial Inclusion to ensure access to financial services namely Banking Services and Deposit Accounts",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Pradhan Mantri Awas Yojana",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Pradhan Mantri Rozgar Yojana",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Pradhan Mantri Jan Dhan Yojana",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Atal Pension Scheme",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1063,
+        "name": "India stood third in the medal tally at XXI Commonwealth Games (2018) at Gold Coast. How many medals did India win totally in the medal tally?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "198",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "66",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "136",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "82",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1064,
+        "name": "The actress who was conferred Best Actress award at the 63rd National Film Awards by the President of India for her role in the movie ‘Mom’ was",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Kajol Devgan",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Sridevi Kapoor",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Madhuri Dixit",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Jaya Baachhan",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1065,
+        "name": "Who among the following candidates secured Rank 1 in UPSC Civil Service exam results of 2017 announced recently?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Tina Dabi",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Durishetty Anudeep",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Nandhini K R",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Ira Singha",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1066,
+        "name": "Idris Hassan Latif, who died recently, was the former chief of which Indian Armed Forces?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Indian Coast Guard",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Indian Army",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Indian Navy",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Indian Air Force",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1067,
+        "name": "Who is the current Chief Executive Officer of Amazon?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Warren Buffet",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Jeff Bezos",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Satya Nadela",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Sundar Piccha",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1068,
+        "name": "A Federal Constitution has",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Distribution of Powers",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Supremacy of the Constitution",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Written Constitution",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "All the above",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1069,
+        "name": "Which is the lengthiest constitution in the world?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Indian",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "British",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "American",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Pakistani",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1070,
+        "name": "Who is the first woman lawyer to have been directly elevated from the Bar as Supreme Court Judge?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Justice Fatima Beev",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Justice Indu Malhotra",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Justice Leila Seth",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Justice Bhanumathi",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1071,
+        "name": "Who is the Legal Advisor to the Government of a State in India?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "The Solicitor General ",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "The State Chief Legal Officer",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "The High Court",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "The Advocate General",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1072,
+        "name": "Which of the following is entrusted with a statutory duty of laying down the standards of professional conduct and etiquette for advocates in India?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Supreme Court of India",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Bar Association of India",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Bar Council of India",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Delhi Bar Council",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1073,
+        "name": "The elements required for a crime is / are",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Criminal Act",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Criminal Intent",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Both a and b",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "None of the above",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1074,
+        "name": "A legal maxim is established principle of law and it is originated from",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Greek",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Latin",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Mandarin",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Sanskrit",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1075,
+        "name": "The term LEX means",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Act",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Fact",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Fact",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Right",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1076,
+        "name": "The term REMEDIUM means",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Remedy",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Restriction",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Reques",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "None of the above",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1077,
+        "name": "Among the below mentioned options, identify the modern source of Hindu Law.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Custom",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Sruthi",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Statutes (legislation)",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Smritis",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1078,
+        "name": "What does the legal maxim ‘Ubi Jus Ibi Remedium’ mean",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Right and Remedies are Relevant",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Rights and Remedies are Irrelevant",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Where there is a Right, there is a Remedy",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "None of the above",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1079,
+        "name": "Which part of the Indian Constitution contains provisions regarding Fundamental Rights?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Part III",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Part IV",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Part V",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Part VI",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1080,
+        "name": "The President of India has",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Administrative Powers",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Legislative Powers",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "judicial Powers",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Both A and B",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1081,
+        "name": "Judge made law is known as",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Legislation",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Custom",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Precedent",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "None of the above",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1082,
+        "name": "The written authority extended by a party specifying the powers intended to be entrusted to a pleader is",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "General power of attorney",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Special power of attorney",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Vakalat",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Affidavit",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1083,
+        "name": "Sovereign powers under the Constitution of India lies with the",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Prime Minister",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "President",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Chief Justice of India",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Home Minister",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1084,
+        "name": "Strike is the legitimate weapon in the hands of the",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Workmen",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Employer",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Employee",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Both workmen and employee",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1085,
+        "name": "The Chairman of the First Indian Law Commission is",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Lord Macaulay",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Allady Krishnaswamy Iyer",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Dr. B.R. Ambedkar",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Sardar Vallabhai Patel",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1086,
+        "name": "Number of judges of the High Court is fixed by the",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "President of India",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Prime Minister of India",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Chief Justice of India",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Constitution of India",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1087,
+        "name": "If A + B means A is the mother of B; A - B means A is the brother of B; A % B means A is the father of B and A x B means A is the sister of B, which of the following shows that P is the maternal uncle of Q?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Q – N+ M x P",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "P + S x N – Q",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "P – M + N x Q",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Q – S % P ",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1088,
+        "name": "If, P : Passengers were told to be ready to quit the ship. Q : The rising gale fanned the smouldering fire. R : Everyone now knew there was fire on board. S : Flames broke out here and there. Which among the following is the correct order of the sentence?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "RSQP",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "PQRS",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "SQPR",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "QSRP",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1089,
+        "name": "SCD, TEF, UGH, ____, WKL",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "CMN",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "UJI",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "VIJ",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "IJT",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1090,
+        "name": "Identifying the correct statement",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Federalism implies a system of government which embodies a division of powers between a CentrE and State.",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Federalism implies a system of government which embodies a division of powers between Legislature, Executive and Judiciary",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Federalism implies a system of Government which embodies Parliamentary supremacy",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "None of the above",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1091,
+        "name": "Which one of the following is not a direct tax?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Income Tax",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Goods and Services Tax",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Wealth Tax",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Estate Duty",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1092,
+        "name": "The attainment of individual and organisational goals is mutually interdependent and linked by a common denominator - employee work motivation. Organisational members are motivated to satisfy their personal goals, and they contribute their efforts to the attainment of organisational objectives as means of achieving these personal goals. The passage best supports the statement that motivation-",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "encourages an individual to give priority to personal goals over organisational goals",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "is crucial for the survival of an individual and organisation",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "is the product of an individual's physical and mental energy",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "is the external force which induces an individual to contribute his efforts",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1093,
+        "name": "Odometer is to mileage as compass is to",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Speed",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Hiking",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Needle",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Direction",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1094,
+        "name": "Yard is to an inch as quart is to",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "gallon",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "ounce",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "milk",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "liquid",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1095,
+        "name": "Tanya is older than Eric. Cliff is older than Tanya. Eric is older than Cliff. If the first two statements are true, the third statement is",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "True",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "False",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Uncertain",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "May be false",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1096,
+        "name": "Statement: A large number of people in ward X of the city are diagnosed to be suffering from a fatal malaria type. Courses of Action: i) The city municipal authority should take immediate steps to carry out extensive fumigation in ward X. ii) The people in the area should be advised to take steps to avoid mosquito bites",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Only I follows",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Only II follows",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Both I and II follows",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Neither I and II follows",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1097,
+        "name": "Zachary has invited his three buddies over to watch the basketball game on his wide-screen television. They are all hungry, but no one wants to leave to get food. Just as they are arguing about who should make the food run, a commercial comes on for a local pizze-ria that delivers. The phone number flashes on the screen briefly and they all try to remember it. By the time Zachary grabs a pen and paper, each of them recollects a different number. #1: All of the men agree that the first three numbers are 995. #2: Three of them agree that the fourth number is 9. #3: Three agree that the fifth number is 2. #4: Three agree that the sixth number is 6; three others agree that the seventh number is also 6. Which of the numbers is most likely the telephone number of the pizzeria?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "995-9266",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "995-9336",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "995-9268",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "995-8266",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1098,
+        "name": "Maxim: Ignorantia Facti Excusat, Ignorantia Juris Non Excusat – It means that ignorance of law is not an excuse, but ignorance of fact is an excuse.  Fact: A man of 22 years married a girl of 16 years thinking that she is of 19 years of age, as she appeared to be of such age. He was arrested for marrying a minor girl as she was below 18 years of age",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "He will not be punished, because he thought that she was above 18 years of age",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "He will be punished because she was less than 18 years of age",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "The girl’s appearance made him think that she was a major and hence he cannot be punished",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "None of the above",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1099,
+        "name": "Principle: Mere silence as to the facts likely to affect the willingness of a person to enter into a contract is not a fraud, unless the circumstances of the case are such that, on close examination it is found to be the duty of the person keeping silent to speak, or unless his silence is, in itself, equivalent to speech. Facts: X sells by auction to Y, a horse which X knows to be of unsound state of mind. X says nothing to Y about the horse’s unsound state of mind. Give the correct answer.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "X can be held liable for fraud",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "X can be held liable for misrepresentation",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "X cannot be held liable, because he did not say anything positive about the mental state of the horse.",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "X cannot be held liable because it is the buyer who must be aware of the things",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1100,
+        "name": "Principle: Whoever causes unreasonable interference to the right of another over his property and space is causing nuisance. Tanvi and Ashrita were residents of Jahnvi Devi Society. Ashrita has been into the habit of practising Nitinnatyam before sunrise each morning since the past 25 years. She plays loud dance beats in her music system each morning to help her practice. The loud noise emanating from her music system disturbs Tanvi who is woken up each morning due to the sound. After putting up with this for 25 years, Tanvi finally decides she can take it no more and decides to sue Ashrita for nuisance.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Ashrita is liable because her dance practice cause unreasonable interference with Tanvi’s sleep",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Ashrita is liable because she could easily choose some other time of the day.",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Ashrita is not liable because she has been doing this for over 20 years, and has now acquired a prescriptive right to continue with it unchallenged.",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Ashrita is not liable because it is her wish as to what she wants to do inside her house.",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1101,
+        "name": "Principle: No Person shall be convicted for the same offence twice. Facts: Rajiv Chanda was driving his BMW when he drove the car on the pathway and crushed three people to death. Due to lack of evidence he is acquitted, now the prosecution finds eye witness and evidence against him. They want to prosecute him again.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Rajiv Chanda cannot be prosecuted again",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "He can be prosecuted since there is fresh evidence against him",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "He cannot be prosecuted as his grandfather was the chief of Army.",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "He can be prosecuted again as he was not punished at all.",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1102,
+        "name": "Has Vinodji committed theft?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Yes, he committed theft of the newspapers and the painting",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "No, he did not committed theft because he had Subhadra’s consent.",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Yes, he has committed theft of the painting, but not of the newspapers",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "No, he has not committed theft because he has not moved the painting out of Subhadra’s possession.",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1103,
+        "name": "Is Vinodji guilty of criminal damage?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "No, he is not guilty of criminal damage as he did not intentionally impair the value of the painting.",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Yes, he is guilty of criminal damage as he intentionally stuck the paper on to the painting",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "No, he is not guilty of criminal damage as he does not have the painting in his possession anymore.",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "No, he is not guilty of criminal damage as he has not destroyed the painting.",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1104,
+        "name": "If Vinodji had discovered the painting before leaving Subhadra’s house rather than at the rubbish dump, would he have been guilty of theft in this case?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "If Vinodji had discovered the painting before leaving Subhadra’s house rather than at the rubbish dump, would he have been guilty of theft in this case?",
+            "isAnswer": true
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "No, he would not be guilty of theft.",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Yes, he would be guilty of theft of the painting.",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "None of the above",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1105,
+        "name": "Is Champi guilty of theft?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "No, Champi is now guilty of theft since the person she took the painting from (Vinodji) was not its lawful owner",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "No, Champi is not guilty of theft since she took the painting only with the motive of returning it to Subhadra.",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Yes, Champi is guilty of theft as she took the painting out of Vinodji’s possession without his consent.",
+            "isAnswer": true
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "None of the above.",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1106,
+        "name": "Which of the following propositions could be inferred from the facts and the rules specified",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Champi is guilty of criminal damage as the person she took the painting from (Vinodji) was not its lawful owner.",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Champi is guilty of criminal damage as she took the painting without Vinodji’s consent.",
+            "isAnswer": true
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Champi is not guilty of criminal damage as the painting has not been completely destroyed.",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "None of the above",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1107,
+        "name": "Statements:  i) The prices of petrol and diesel in the domestic market have remained unchanged for the past few months. ii) The crude oil prices in the international market have gone up substantially in the last few months.",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": 1055,
+            "questionId": 1010,
+            "name": "Statement I is the cause and statement II is its effect",
+            "isAnswer": false
+          },
+          {
+            "id": 1057,
+            "questionId": 1010,
+            "name": "Statement II is the cause and statement I is its effect",
+            "isAnswer": false
+          },
+          {
+            "id": 1056,
+            "questionId": 1010,
+            "name": "Both the statements I and II are independent causes",
+            "isAnswer": false
+          },
+          {
+            "id": 1058,
+            "questionId": 1010,
+            "name": "Both the statements I and II are effects of independent causes",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      }
+    ]
+  }

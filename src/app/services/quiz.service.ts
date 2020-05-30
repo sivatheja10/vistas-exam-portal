@@ -15,7 +15,7 @@ export class QuizService {
       { id: 'data/bpharm.json', name: 'B. Pharm' },
       { id: 'data/engineering.json', name: 'Engineering B.E'},
       { id: 'data/mba.json', name: 'MBA' },
-      // { id: 'data/csharp.json', name: 'C Sharp' },
+      { id: 'data/law.json', name: 'Law' },
       // { id: 'data/designPatterns.json', name: 'Design Patterns' }
     ];
   }
