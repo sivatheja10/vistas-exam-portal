@@ -7,22 +7,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "10 mps",
                   "isAnswer": true
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "12 mps",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "14 mps",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "17 mps",
                   "isAnswer": false
               }
@@ -33,22 +33,22 @@
         "questionTypeId": 1,
         "options": [
             {
-                "id": 1,
+                "id": "a",
                 "name": "15 kmph",
                 "isAnswer": false
             },
             {
-                "id": 2,
+                "id": "b",
                 "name": "99 kmph",
                 "isAnswer": false
             },
             {
-                "id": 3,
+                "id": "c",
                 "name": "90 kmph",
                 "isAnswer": true
             },
             {
-                "id": 4,
+                "id": "d",
                 "name": "None",
                 "isAnswer": false
             }
@@ -59,22 +59,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "15 kmph",
               "isAnswer": true
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "12 kmph",
               "isAnswer": false
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "10 kmph",
               "isAnswer": false
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "5 kmph",
               "isAnswer": false
           }
@@ -85,22 +85,22 @@
     "questionTypeId": 1,
     "options": [
         {
-            "id": 1,
+            "id": "a",
             "name": "104 kmph",
             "isAnswer": true
         },
         {
-            "id": 2,
+            "id": "b",
             "name": "140 kmph",
             "isAnswer": false
         },
         {
-            "id": 3,
+            "id": "c",
             "name": "104 mph",
             "isAnswer": false
         },
         {
-            "id": 4,
+            "id": "d",
             "name": "10.4 kmph",
             "isAnswer": false
         }
@@ -111,22 +111,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "3.75 days",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "4 days",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "5 days",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "6 days",
           "isAnswer": false
       }
@@ -137,22 +137,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "10 days",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "20 days",
           "isAnswer": true
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "5 days",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "4 days",
           "isAnswer": false
       }
@@ -163,22 +163,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "15 days",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "14 days",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "13 days",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "11 days",
           "isAnswer": true
       }
@@ -189,22 +189,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "1:2 ",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "2:1",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "2:3",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "6:5",
           "isAnswer": true
       }
@@ -215,22 +215,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "56",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "48",
           "isAnswer": true
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "36",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "58",
           "isAnswer": false
       }
@@ -241,22 +241,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "3 days",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "4 days",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "6 days",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "12 days",
           "isAnswer": false
       }
@@ -267,22 +267,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "42",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "50",
           "isAnswer": true
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "62",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "55",
           "isAnswer": false
       }
@@ -293,22 +293,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "3:8",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "9:31",
           "isAnswer": true
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "8:21",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "10:27",
           "isAnswer": false
       }
@@ -319,22 +319,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "Rs.18000",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "Rs.15000",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "Rs.17000",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "Rs.14000",
           "isAnswer": true
       }
@@ -345,22 +345,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "22",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "24",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "25",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "23",
           "isAnswer": false
       }
@@ -371,22 +371,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "1.01%",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "5.01%",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "3.01%",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "2.01%",
           "isAnswer": true
       }
@@ -397,22 +397,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "1,2",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "2,3",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "-1,-2",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "1,-2",
           "isAnswer": false
       }
@@ -423,22 +423,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "det(-A) = -det A",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "det A = 0",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "det (A+I) = I + det A",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "det (2A) = 2 det A",
           "isAnswer": false
       }
@@ -449,22 +449,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "1/3",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "1",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "3",
           "isAnswer": true
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "2/3",
           "isAnswer": false
       }
@@ -475,22 +475,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "9998",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "9999",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "1000",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "10001",
           "isAnswer": false
       }
@@ -501,22 +501,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "2",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "0",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "4",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "1",
           "isAnswer": false
       }
@@ -527,22 +527,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "21x+77y-101=0, 11x-3y+9=0",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "11x-6y+111=0, 22x-13y+104=0",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "15x-9y+67=0, 15x+4y+33=0",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "20x+72y-109=0, x+5y=2",
           "isAnswer": false
       }
@@ -553,22 +553,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "intersect at two points",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "touches each other externally",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "touches each other internally",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "Neither touches nor intersects",
           "isAnswer": false
       }
@@ -579,22 +579,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "6/sqrt(5)",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "6.sqrt(5)",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "6/sqrt(2)",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "6.sqrt(2)",
           "isAnswer": false
       }
@@ -605,24 +605,24 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "13/30",
           
   
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "23/30",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "19/30",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "11/30",
           "isAnswer": false
       }
@@ -633,22 +633,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "7",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "10",
           "isAnswer": true
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "12",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "13",
           "isAnswer": false
       }
@@ -659,22 +659,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "(1/3)",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "(1/8)",
           "isAnswer": true
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "(2/8)",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "(1/16)",
           "isAnswer": false
       }
@@ -685,22 +685,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "OLPA",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "KLMA",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "LLMA",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "KLLA",
           "isAnswer": true
       }
@@ -711,22 +711,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "GRR",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "GSS",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "ISS",
           "isAnswer": true
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "ITT",
           "isAnswer": false
       }
@@ -737,22 +737,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "True",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "False",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "Uncertain",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "None",
           "isAnswer": false
       }
@@ -763,22 +763,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "True",
           "isAnswer":true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "False",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "Uncertain",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "None",
           "isAnswer": false
       }
@@ -789,22 +789,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "Novel",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "Glass",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "Cover",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "Page",
           "isAnswer": true
       }
@@ -815,22 +815,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "Dish",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "Soup",
           "isAnswer": true
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "Spoon",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "Food",
           "isAnswer": false
       }
@@ -841,22 +841,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "Speed",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "Hiking",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "Needle",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "Direction",
           "isAnswer": true
       }
@@ -867,22 +867,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "Winter",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "Bear",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "Dream",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "Sleep",
           "isAnswer": true
       }
@@ -893,22 +893,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "JAK",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "HAL",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "HAK",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "JAI",
           "isAnswer": false
       }
@@ -919,22 +919,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "OLPA",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "KLMA",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "LLMA",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "KLLA",
           "isAnswer": true
       }
@@ -945,22 +945,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "True",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "False",
           "isAnswer": true
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "Uncertain",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "None",
           "isAnswer": false
       }
@@ -971,22 +971,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "Technological advancement",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "Scientific code",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "Object Oriented Programming",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "All of the above",
           "isAnswer": false
       }
@@ -997,22 +997,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "PL/1",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "FORTRAN",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "BASIC",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "PASCAL",
           "isAnswer": true
       }
@@ -1023,22 +1023,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "Surface",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "Cylinder",
           "isAnswer": true
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "Cluster",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "All the above",
           "isAnswer": false
       }
@@ -1049,22 +1049,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "Data transmission",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "Data flow",
           "isAnswer": true
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "Data capture",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "Data processing",
           "isAnswer": false
       }
@@ -1075,22 +1075,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "ALU",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "Memory",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "CPU",
           "isAnswer": true
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "Control unit",
           "isAnswer": false
       }
@@ -1101,22 +1101,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "FORTRAN",
           "isAnswer": false
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "PROLOG",
           "isAnswer": true
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "C",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "COBOL",
           "isAnswer": false
       }
@@ -1127,22 +1127,22 @@
   "questionTypeId": 1,
   "options": [
       {
-          "id": 1,
+          "id": "a",
           "name": "M",
           "isAnswer": true
       },
       {
-          "id": 2,
+          "id": "b",
           "name": "SVC",
           "isAnswer": false
       },
       {
-          "id": 3,
+          "id": "c",
           "name": "IP",
           "isAnswer": false
       },
       {
-          "id": 4,
+          "id": "d",
           "name": "MDR",
           "isAnswer": false
       }
@@ -1153,22 +1153,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "Input",
               "isAnswer": false
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "Storage unit",
               "isAnswer": false
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "Logic unit",
               "isAnswer": false
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "Control unit",
               "isAnswer": true
           }
@@ -1179,22 +1179,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "01",
               "isAnswer": true
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "110",
               "isAnswer": false
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "11",
               "isAnswer": false
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "10",
               "isAnswer": false
           }
@@ -1205,22 +1205,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "Delay time",
               "isAnswer": false
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "CPU cycle",
               "isAnswer": true
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "CPU cycle",
               "isAnswer": false
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "Seek time",
               "isAnswer": false
           }
@@ -1231,22 +1231,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "Compiler",
               "isAnswer": false
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "Interpreter",
               "isAnswer": false
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "Assembler",
               "isAnswer": true
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "Comparator",
               "isAnswer": false
           }
@@ -1257,22 +1257,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "2",
               "isAnswer": true
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "10",
               "isAnswer": false
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "8",
               "isAnswer": false
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "16",
               "isAnswer": false
           }
@@ -1283,22 +1283,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "1988",
               "isAnswer": false
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "1990",
               "isAnswer": true
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "1992",
               "isAnswer": false
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "1998",
               "isAnswer": false
           }
@@ -1309,22 +1309,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "Embryonic stem cells are never really living",
               "isAnswer": false
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "Embryonic stem cells can differentiate into many more types of cells",
               "isAnswer": true
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "Adult stem cells cannot be cultured",
               "isAnswer": false
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "Adult stem cells reproduce much faster than embryonic stem cells",
               "isAnswer": false
           }
@@ -1335,22 +1335,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "Bioinformatics and medical microbiology",
               "isAnswer": false
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "Genomics and genetic engineering",
               "isAnswer": false
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "Genomics and bioinformatics",
               "isAnswer": true
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "Proteomics and environmental microbiology",
               "isAnswer": false
           }
@@ -1361,22 +1361,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "Fusion using polyethylene glycol",
               "isAnswer": false
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "Hustarion technique",
               "isAnswer": false
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "Microinjection",
               "isAnswer": false
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "Polymerization",
               "isAnswer": true
           }
@@ -1387,22 +1387,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "Carrier",
               "isAnswer": false
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "Vector",
               "isAnswer": true
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "Transformant",
               "isAnswer": false
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "cDNA",
               "isAnswer": false
           }
@@ -1413,22 +1413,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "Bentahm and Hooker",
               "isAnswer": false
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "Carolus Linnaeus",
               "isAnswer": true
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "Engler and Prantl",
               "isAnswer": false
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "Charles Darwin",
               "isAnswer": false
           }
@@ -1439,22 +1439,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "Terminal head",
               "isAnswer": false
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "Axillary Cyathium",
               "isAnswer": false
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "Terminal or Axillary Cyme",
               "isAnswer": true
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "Axillary Cyme",
               "isAnswer": false
           }
@@ -1465,22 +1465,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "Ixora",
               "isAnswer": false
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "Galium",
               "isAnswer": true
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "Gardeni",
               "isAnswer": false
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "Rubia",
               "isAnswer": false
           }
@@ -1491,22 +1491,22 @@
       "questionTypeId": 1,
       "options": [
           {
-              "id": 1,
+              "id": "a",
               "name": "tissue",
               "isAnswer": true
           },
           {
-              "id": 2,
+              "id": "b",
               "name": "tissue system",
               "isAnswer": false
           },
           {
-              "id": 3,
+              "id": "c",
               "name": "organ",
               "isAnswer": false
           },
           {
-              "id": 4,
+              "id": "d",
               "name": "organ system",
               "isAnswer": false
           }
@@ -1516,22 +1516,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "meristematic to permanent",
                   "isAnswer": true
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "simple to complex",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "complex to simple",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "permanent to meristematic",
                   "isAnswer": false
               }
@@ -1542,22 +1542,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "primary vascular tissues",
                   "isAnswer": true
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "epidermis",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "cortex",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "pith",
                   "isAnswer": false
               }
@@ -1568,22 +1568,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "1-4 linkage",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "1-6 linkage",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "1-4 linkage",
                   "isAnswer": true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "1-6 linkage",
                   "isAnswer": false
               }
@@ -1594,22 +1594,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Special creation theory",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Theory of abiogenesis",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Oparin haldane theory",
                   "isAnswer": true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Theory of spontaneous generation",
                   "isAnswer": false
               }
@@ -1620,22 +1620,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Spiracles",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Hepatic caeca",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Malpighian tubules",
                   "isAnswer": true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "short midgut",
                   "isAnswer": false
               }
@@ -1646,22 +1646,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "AACGTAACG",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "UUGCAUUGC",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "AACGUAACG",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "TTGCATTGC",
                   "isAnswer": false
               }
@@ -1672,22 +1672,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Lipid",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Nucleic acids",
                   "isAnswer":true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Carbohydrates",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Proteins",
                   "isAnswer": false
               }
@@ -1698,22 +1698,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "High lysine content",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Insect resistance",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "High protein content",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "High Vitamin-A content",
                   "isAnswer": true
               }
@@ -1724,22 +1724,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Tissue culture",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Genetic diversity",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Genetic engineering",
                   "isAnswer": true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Plastic surgery",
                   "isAnswer": false
               }
@@ -1750,22 +1750,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "transaminase",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "pyruvic carboxylase",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "histidine decarboxylase",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "G-3-P dehydrogenase",
                   "isAnswer": false
               }
@@ -1776,22 +1776,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "1",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "2",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "3",
                   "isAnswer": true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "4",
                   "isAnswer": false
               }
@@ -1802,22 +1802,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Nature of solvent",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Amount of solute",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Size of the particles",
                   "isAnswer": true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Nature of solute",
                   "isAnswer": false
               }
@@ -1828,22 +1828,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "True solutions of light",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Scattering of light",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Refraction of light",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Movement of particles",
                   "isAnswer": false
               }
@@ -1854,22 +1854,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "1 Å – 10 Å",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "10 Å - 2000 Å",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "More than 2000 Å",
                   "isAnswer": true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Less than 1 Å",
                   "isAnswer": false
               }
@@ -1880,22 +1880,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Saturated solution",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Unsaturated solution",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "suspension",
                   "isAnswer": true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Colloidal solution",
                   "isAnswer": false
               }
@@ -1906,22 +1906,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "True solution",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Colloidal solution",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "suspension",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "saturated solution",
                   "isAnswer": false
               }
@@ -1932,22 +1932,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Liquid in gas",
                   "isAnswer": true
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Gas in liquid",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Solid in gas",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Gas in gas",
                   "isAnswer": false
               }
@@ -1958,22 +1958,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "True solution",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Colloidal solution",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Saturated solution",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Suspension",
                   "isAnswer": false
               }
@@ -1984,22 +1984,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Heterogeneous mixture",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "True solutions",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Colloidal solutions",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Suspensions",
                   "isAnswer": false
               }
@@ -2010,22 +2010,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "benzene",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "ether",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "alcohol",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "water",
                   "isAnswer": true
               }
@@ -2036,22 +2036,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Solid in solid",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Liquid in solid",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Solid in liquid",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Gas in solid",
                   "isAnswer": false
               }
@@ -2062,22 +2062,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Solid in solid",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Liquid in solid",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Solid in liquid",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Solid in Gas",
                   "isAnswer": true
               }
@@ -2088,22 +2088,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "20g",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "36g",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "95g",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "8g",
                   "isAnswer": false
               }
@@ -2114,22 +2114,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Chermic",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "endothermic",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "exothermic",
                   "isAnswer": true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "hypothermic",
                   "isAnswer": false
               }
@@ -2140,22 +2140,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Helium - Oxygen",
                   "isAnswer": true
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Nitrogen - Oxygen",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Hydrogen - Nitrogen",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Helium – Nitrogen",
                   "isAnswer": false
               }
@@ -2166,22 +2166,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Increase",
                   "isAnswer": true
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Decreases",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "change",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Does not change",
                   "isAnswer": false
               }
@@ -2192,22 +2192,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Brownian motion",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Tyndall effect",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Raman effect",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Uniform motion",
                   "isAnswer": false
               }
@@ -2218,22 +2218,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Atomic number",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Mass number",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Number of electrons",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Chemical nature",
                   "isAnswer": false
               }
@@ -2244,22 +2244,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Nichrome",
                   "isAnswer": true
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Copper",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Aluminumv",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "None of these",
                   "isAnswer": false
               }
@@ -2270,22 +2270,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "X-rays",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Gamma rays",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Ultra sound",
                   "isAnswer": true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Ultra Violet rays",
                   "isAnswer": false
               }
@@ -2296,22 +2296,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Mercury",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Venus",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Earth",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Mars",
                   "isAnswer": true
               }
@@ -2322,22 +2322,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Low resistance in series",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "High resistance in series",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Low resistance in parallel",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "High resistance in parallel",
                   "isAnswer": false
               }
@@ -2348,22 +2348,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Energy",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Power",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Electric charge",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Current",
                   "isAnswer": false
               }
@@ -2374,22 +2374,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "35oC",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "45oC",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "60oC",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "0oC",
                   "isAnswer": true
               }
@@ -2400,22 +2400,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Decrease",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Increase",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "First increase and then decrease",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Remain Unaffected",
                   "isAnswer": false
               }
@@ -2426,22 +2426,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "II, I, IV, III",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "I, III, II, IV",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "I, II, III, IV",
                   "isAnswer": true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "IV, III, II, I",
                   "isAnswer": false
               }
@@ -2452,22 +2452,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Madam Curie",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Einstein",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Roentgen",
                   "isAnswer": true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "J. J. Thomson",
                   "isAnswer": false
               }
@@ -2478,22 +2478,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "0o C",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "32o C",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "- 4o C",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "4o C",
                   "isAnswer": true
               }
@@ -2504,22 +2504,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Copper",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Iron",
                   "isAnswer": true
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Nickel",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Cobalt",
                   "isAnswer": false
               }
@@ -2530,22 +2530,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Reduce the current in AC circuit",
                   "isAnswer": true
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Reduce the current in DC circuit",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Convert AC to DC",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "Convert DC to AC",
                   "isAnswer": false
               }
@@ -2557,22 +2557,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "Both are different instruments",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "Telescope’s eyepiece with longer focal lengths that the oblective ",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "Telescope has objective of large focal length and eyepiece of smaller focal lengths",
                   "isAnswer":true
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "None of these",
                   "isAnswer": false
               }
@@ -2583,22 +2583,22 @@
           "questionTypeId": 1,
           "options": [
               {
-                  "id": 1,
+                  "id": "a",
                   "name": "0o C",
                   "isAnswer": false
               },
               {
-                  "id": 2,
+                  "id": "b",
                   "name": "273o C",
                   "isAnswer": false
               },
               {
-                  "id": 3,
+                  "id": "c",
                   "name": "100o C",
                   "isAnswer": false
               },
               {
-                  "id": 4,
+                  "id": "d",
                   "name": "-273o C",
                   "isAnswer": true
               }

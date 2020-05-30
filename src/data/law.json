@@ -7,26 +7,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "up",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "on",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "of",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "off",
             "isAnswer": false
           }
@@ -43,26 +43,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Towards",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Against",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "With",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Upon",
             "isAnswer": false
           }
@@ -79,26 +79,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "smell",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "smells",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "smelling",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "smelt",
             "isAnswer": true
           }
@@ -115,26 +115,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "off",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "down",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "away",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "out",
             "isAnswer": false
           }
@@ -151,26 +151,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "on",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "about",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "for",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "to",
             "isAnswer": true
           }
@@ -187,26 +187,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "in good faith",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "in bad faith",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "without any faith",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "with full faith",
             "isAnswer": false
           }
@@ -223,26 +223,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "from the very beginning",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "initiative",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "things done later",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "without initiative",
             "isAnswer": false
           }
@@ -259,26 +259,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "every where",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "else where",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "no where",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": " none of the above",
             "isAnswer": false
           }
@@ -295,26 +295,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "mistrust",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "no faith",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "bad faith",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "utmost good faith",
             "isAnswer": true
           }
@@ -331,26 +331,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "interruption",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "finite",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "forevermore",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "the end",
             "isAnswer": false
           }
@@ -367,26 +367,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "the most important",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "that which comes firs",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "at first view",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "the face that is young",
             "isAnswer": false
           }
@@ -403,26 +403,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "identification car",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "indispensable condition",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "without doubt",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "in good faith",
             "isAnswer": true
           }
@@ -439,26 +439,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "in fact, whether by right or no",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "here and there",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "in the same way",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "clear details",
             "isAnswer": false
           }
@@ -475,26 +475,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "side remarks",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "social position",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "legally valid",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "present condition",
             "isAnswer": true
           }
@@ -511,26 +511,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "signing legal documents before death",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "without fixing a date",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "applying mathematical concepts to solve a difficult problem",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "by voice vote",
             "isAnswer": false
           }
@@ -547,26 +547,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "painte",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "calligraphy",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "paleography",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "draftsman",
             "isAnswer": false
           }
@@ -583,26 +583,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "gift",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "catholic",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "memento",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "epitaph",
             "isAnswer": false
           }
@@ -619,26 +619,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "secular",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "catholic",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "progressive",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "fanatic",
             "isAnswer": false
           }
@@ -655,26 +655,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "utopia",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "cosmos",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "platoon",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "heaven",
             "isAnswer": false
           }
@@ -691,26 +691,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "immigrant",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "emigrant",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "traveller",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "nomad",
             "isAnswer": false
           }
@@ -727,26 +727,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "present character",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "international position",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "politics",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "history",
             "isAnswer": true
           }
@@ -763,26 +763,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "speaking",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "advanced writing method",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "government",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "technology",
             "isAnswer": false
           }
@@ -799,26 +799,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "a bunch of underdeveloped, not modern and sometimes barbaric people",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "well-developed people",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "technocrats",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "people belonging to a section of a civilized society",
             "isAnswer": false
           }
@@ -835,26 +835,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "gross ignorance",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "cultural heritage",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "socio-political conditions",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "mentality",
             "isAnswer": true
           }
@@ -871,26 +871,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "is no longer there",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "was always there",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "is more today than ever before",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "will always be there",
             "isAnswer": false
           }
@@ -907,26 +907,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "71yrs",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "72yrs",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "76yrs",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "77yrs",
             "isAnswer": false
           }
@@ -943,26 +943,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "8",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "12",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "16",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "4",
             "isAnswer": false
           }
@@ -979,26 +979,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "2",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "3",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "4",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "5",
             "isAnswer": false
           }
@@ -1015,26 +1015,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "23yrs",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "34yrs",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "45yrs",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "56yrs",
             "isAnswer": false
           }
@@ -1051,26 +1051,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "2 hours",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "3 hours",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "4 hours",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "5 hours",
             "isAnswer": false
           }
@@ -1087,26 +1087,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "30 minutes",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "25 minutes",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "28 minutes",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "34 minutes",
             "isAnswer": false
           }
@@ -1123,26 +1123,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "x1 = + 3, x2 = -3",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "x1 = 3, x2 = 3",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "x1 = -3, x2 = -3",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "No solution",
             "isAnswer": false
           }
@@ -1159,26 +1159,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "250",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "750",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "400",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "300",
             "isAnswer": true
           }
@@ -1195,26 +1195,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "6 days",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "7 days",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "10 days",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "8 days",
             "isAnswer": false
           }
@@ -1231,26 +1231,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "5",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "2",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "6",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "21",
             "isAnswer": false
           }
@@ -1267,26 +1267,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "25 years",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "10 years",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "20 years",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "30 years",
             "isAnswer": false
           }
@@ -1303,26 +1303,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "514",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "528",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "599",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "507",
             "isAnswer": false
           }
@@ -1339,26 +1339,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "32",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "60",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "62",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "64",
             "isAnswer": false
           }
@@ -1375,26 +1375,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "(1/3",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "(2/8)",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "(1/8)",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "(1/16)",
             "isAnswer": false
           }
@@ -1411,26 +1411,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "0.7",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "0.9",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "0.95",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "1",
             "isAnswer": true
           }
@@ -1447,26 +1447,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "USA",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Canads",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Ireland",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "UK",
             "isAnswer": false
           }
@@ -1483,26 +1483,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Public International Litigation",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Public Interest Litigation",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Private Interest Litigation",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Publicity Interest Litigation",
             "isAnswer": false
           }
@@ -1519,26 +1519,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "22",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "23",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "24",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "25",
             "isAnswer": true
           }
@@ -1555,26 +1555,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "My Experiments With Truth Mahatma Gandhi",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Manifesto for Change   A.P.J. Abdul Kalam",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "What is History?   Arnold Toynbee",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Arthasashtra   Kautilya",
             "isAnswer": false
           }
@@ -1591,26 +1591,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Biology",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Economics",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Mathematics",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "History",
             "isAnswer": false
           }
@@ -1622,31 +1622,31 @@
         }
       },
       {
-        "id": 1058,
+        "id": "d",
         "name": "Who is regarded as the Father of Political Science?",
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Plato",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Socrates",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Aristotle",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Kautilya",
             "isAnswer": false
           }
@@ -1663,26 +1663,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Maulana Abul Kalam Azad",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Sardar Vallabhai Pate",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Dr. B.R. Ambedkar",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Govind Bhalabh Pant",
             "isAnswer": false
           }
@@ -1699,26 +1699,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "234 Members",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "272 Members",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "272 Members",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "545 Members",
             "isAnswer": true
           }
@@ -1735,26 +1735,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "National Institute for Training and Implementation",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "National Institute for Technology and Investment",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "National Institute for Transformation and Increment",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "National Institute for Transforming India",
             "isAnswer": true
           }
@@ -1771,26 +1771,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Pradhan Mantri Awas Yojana",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Pradhan Mantri Rozgar Yojana",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Pradhan Mantri Jan Dhan Yojana",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Atal Pension Scheme",
             "isAnswer": false
           }
@@ -1807,26 +1807,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "198",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "66",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "136",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "82",
             "isAnswer": false
           }
@@ -1843,26 +1843,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Kajol Devgan",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Sridevi Kapoor",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Madhuri Dixit",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Jaya Baachhan",
             "isAnswer": false
           }
@@ -1879,26 +1879,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Tina Dabi",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Durishetty Anudeep",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Nandhini K R",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Ira Singha",
             "isAnswer": false
           }
@@ -1915,26 +1915,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Indian Coast Guard",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Indian Army",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Indian Navy",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Indian Air Force",
             "isAnswer": true
           }
@@ -1951,26 +1951,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Warren Buffet",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Jeff Bezos",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Satya Nadela",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Sundar Piccha",
             "isAnswer": false
           }
@@ -1987,26 +1987,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Distribution of Powers",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Supremacy of the Constitution",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Written Constitution",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "All the above",
             "isAnswer": true
           }
@@ -2023,26 +2023,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Indian",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "British",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "American",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Pakistani",
             "isAnswer": false
           }
@@ -2059,26 +2059,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Justice Fatima Beev",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Justice Indu Malhotra",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Justice Leila Seth",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Justice Bhanumathi",
             "isAnswer": false
           }
@@ -2095,26 +2095,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "The Solicitor General ",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "The State Chief Legal Officer",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "The High Court",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "The Advocate General",
             "isAnswer": true
           }
@@ -2131,26 +2131,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Supreme Court of India",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Bar Association of India",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Bar Council of India",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Delhi Bar Council",
             "isAnswer": false
           }
@@ -2167,26 +2167,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Criminal Act",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Criminal Intent",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Both a and b",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "None of the above",
             "isAnswer": false
           }
@@ -2203,26 +2203,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Greek",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Latin",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Mandarin",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Sanskrit",
             "isAnswer": false
           }
@@ -2239,26 +2239,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Act",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Fact",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Fact",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Right",
             "isAnswer": false
           }
@@ -2275,26 +2275,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Remedy",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Restriction",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Reques",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "None of the above",
             "isAnswer": false
           }
@@ -2311,26 +2311,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Custom",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Sruthi",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Statutes (legislation)",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Smritis",
             "isAnswer": false
           }
@@ -2347,26 +2347,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Right and Remedies are Relevant",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Rights and Remedies are Irrelevant",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Where there is a Right, there is a Remedy",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "None of the above",
             "isAnswer": false
           }
@@ -2383,26 +2383,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Part III",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Part IV",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Part V",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Part VI",
             "isAnswer": false
           }
@@ -2419,26 +2419,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Administrative Powers",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Legislative Powers",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "judicial Powers",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Both A and B",
             "isAnswer": true
           }
@@ -2455,26 +2455,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Legislation",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Custom",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Precedent",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "None of the above",
             "isAnswer": false
           }
@@ -2491,26 +2491,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "General power of attorney",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Special power of attorney",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Vakalat",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Affidavit",
             "isAnswer": false
           }
@@ -2527,26 +2527,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Prime Minister",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "President",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Chief Justice of India",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Home Minister",
             "isAnswer": false
           }
@@ -2563,26 +2563,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Workmen",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Employer",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Employee",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Both workmen and employee",
             "isAnswer": true
           }
@@ -2599,26 +2599,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Lord Macaulay",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Allady Krishnaswamy Iyer",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Dr. B.R. Ambedkar",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Sardar Vallabhai Patel",
             "isAnswer": false
           }
@@ -2635,26 +2635,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "President of India",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Prime Minister of India",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Chief Justice of India",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Constitution of India",
             "isAnswer": false
           }
@@ -2671,26 +2671,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Q – N+ M x P",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "P + S x N – Q",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "P – M + N x Q",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Q – S % P ",
             "isAnswer": false
           }
@@ -2707,26 +2707,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "RSQP",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "PQRS",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "SQPR",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "QSRP",
             "isAnswer": true
           }
@@ -2743,26 +2743,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "CMN",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "UJI",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "VIJ",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "IJT",
             "isAnswer": false
           }
@@ -2779,26 +2779,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Federalism implies a system of government which embodies a division of powers between a CentrE and State.",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Federalism implies a system of government which embodies a division of powers between Legislature, Executive and Judiciary",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Federalism implies a system of Government which embodies Parliamentary supremacy",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "None of the above",
             "isAnswer": false
           }
@@ -2815,26 +2815,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Income Tax",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Goods and Services Tax",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Wealth Tax",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Estate Duty",
             "isAnswer": false
           }
@@ -2851,26 +2851,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "encourages an individual to give priority to personal goals over organisational goals",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "is crucial for the survival of an individual and organisation",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "is the product of an individual's physical and mental energy",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "is the external force which induces an individual to contribute his efforts",
             "isAnswer": false
           }
@@ -2887,26 +2887,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Speed",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Hiking",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Needle",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Direction",
             "isAnswer": true
           }
@@ -2923,26 +2923,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "gallon",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "ounce",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "milk",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "liquid",
             "isAnswer": false
           }
@@ -2959,26 +2959,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "True",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "False",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Uncertain",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "May be false",
             "isAnswer": false
           }
@@ -2995,26 +2995,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Only I follows",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Only II follows",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Both I and II follows",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Neither I and II follows",
             "isAnswer": false
           }
@@ -3031,26 +3031,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "995-9266",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "995-9336",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "995-9268",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "995-8266",
             "isAnswer": false
           }
@@ -3067,26 +3067,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "He will not be punished, because he thought that she was above 18 years of age",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "He will be punished because she was less than 18 years of age",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "The girl’s appearance made him think that she was a major and hence he cannot be punished",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "None of the above",
             "isAnswer": false
           }
@@ -3103,26 +3103,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "X can be held liable for fraud",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "X can be held liable for misrepresentation",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "X cannot be held liable, because he did not say anything positive about the mental state of the horse.",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "X cannot be held liable because it is the buyer who must be aware of the things",
             "isAnswer": false
           }
@@ -3139,26 +3139,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Ashrita is liable because her dance practice cause unreasonable interference with Tanvi’s sleep",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Ashrita is liable because she could easily choose some other time of the day.",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Ashrita is not liable because she has been doing this for over 20 years, and has now acquired a prescriptive right to continue with it unchallenged.",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Ashrita is not liable because it is her wish as to what she wants to do inside her house.",
             "isAnswer": false
           }
@@ -3175,26 +3175,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Rajiv Chanda cannot be prosecuted again",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "He can be prosecuted since there is fresh evidence against him",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "He cannot be prosecuted as his grandfather was the chief of Army.",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "He can be prosecuted again as he was not punished at all.",
             "isAnswer": false
           }
@@ -3211,26 +3211,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Yes, he committed theft of the newspapers and the painting",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "No, he did not committed theft because he had Subhadra’s consent.",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Yes, he has committed theft of the painting, but not of the newspapers",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "No, he has not committed theft because he has not moved the painting out of Subhadra’s possession.",
             "isAnswer": false
           }
@@ -3247,26 +3247,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "No, he is not guilty of criminal damage as he did not intentionally impair the value of the painting.",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Yes, he is guilty of criminal damage as he intentionally stuck the paper on to the painting",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "No, he is not guilty of criminal damage as he does not have the painting in his possession anymore.",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "No, he is not guilty of criminal damage as he has not destroyed the painting.",
             "isAnswer": true
           }
@@ -3283,26 +3283,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "If Vinodji had discovered the painting before leaving Subhadra’s house rather than at the rubbish dump, would he have been guilty of theft in this case?",
             "isAnswer": true
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "No, he would not be guilty of theft.",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Yes, he would be guilty of theft of the painting.",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "None of the above",
             "isAnswer": false
           }
@@ -3319,26 +3319,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "No, Champi is now guilty of theft since the person she took the painting from (Vinodji) was not its lawful owner",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "No, Champi is not guilty of theft since she took the painting only with the motive of returning it to Subhadra.",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Yes, Champi is guilty of theft as she took the painting out of Vinodji’s possession without his consent.",
             "isAnswer": true
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "None of the above.",
             "isAnswer": false
           }
@@ -3355,26 +3355,26 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Champi is guilty of criminal damage as the person she took the painting from (Vinodji) was not its lawful owner.",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Champi is guilty of criminal damage as she took the painting without Vinodji’s consent.",
             "isAnswer": true
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Champi is not guilty of criminal damage as the painting has not been completely destroyed.",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "None of the above",
             "isAnswer": false
           }
@@ -3391,28 +3391,208 @@
         "questionTypeId": 1,
         "options": [
           {
-            "id": 1055,
-            "questionId": 1010,
+            "id": "a",
+            
             "name": "Statement I is the cause and statement II is its effect",
             "isAnswer": false
           },
           {
-            "id": 1057,
-            "questionId": 1010,
+            "id": "c",
+            
             "name": "Statement II is the cause and statement I is its effect",
             "isAnswer": false
           },
           {
-            "id": 1056,
-            "questionId": 1010,
+            "id": "b",
+            
             "name": "Both the statements I and II are independent causes",
             "isAnswer": false
           },
           {
-            "id": 1058,
-            "questionId": 1010,
+            "id": "d",
+            
             "name": "Both the statements I and II are effects of independent causes",
             "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1108,
+        "name": "The housewife __________ the cakes burning, and ran to switch off the oven",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": "a",
+            
+            "name": "smell",
+            "isAnswer": false
+          },
+          {
+            "id": "c",
+            
+            "name": "smells",
+            "isAnswer": false
+          },
+          {
+            "id": "b",
+            
+            "name": "smelling",
+            "isAnswer": false
+          },
+          {
+            "id": "d",
+            
+            "name": "smelt",
+            "isAnswer": true
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1109,
+        "name": "At present, Madhu is 15 years older than Kamal. After 5 years Kamal will be 10 years old. What is Madhu’s present age?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": "a",
+            
+            "name": "25 years",
+            "isAnswer": false
+          },
+          {
+            "id": "c",
+            
+            "name": "10 years",
+            "isAnswer": false
+          },
+          {
+            "id": "b",
+            
+            "name": "20 years",
+            "isAnswer": true
+          },
+          {
+            "id": "d",
+            
+            "name": "30 years",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1110,
+        "name": "Which part of the Indian Constitution contains provisions regarding Fundamental Rights?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": "a",
+            
+            "name": "Part III",
+            "isAnswer": true
+          },
+          {
+            "id": "c",
+            
+            "name": "Part IV",
+            "isAnswer": false
+          },
+          {
+            "id": "b",
+            
+            "name": "Part V",
+            "isAnswer": false
+          },
+          {
+            "id": "d",
+            
+            "name": "Part VI",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1111,
+        "name": "Ad infinitum",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": "a",
+            
+            "name": "interruption",
+            "isAnswer": false
+          },
+          {
+            "id": "c",
+            
+            "name": "finite",
+            "isAnswer": false
+          },
+          {
+            "id": "b",
+            
+            "name": "forevermore",
+            "isAnswer": true
+          },
+          {
+            "id": "d",
+            
+            "name": "the end",
+            "isAnswer": false
+          }
+        ],
+        "questionType": {
+          "id": 1,
+          "name": "Multiple Choice",
+          "isActive": true
+        }
+      },
+      {
+        "id": 1031,
+        "name": "What according to the author is an important part of a civilisation?",
+        "questionTypeId": 1,
+        "options": [
+          {
+            "id": "a",
+            
+            "name": "speaking",
+            "isAnswer": false
+          },
+          {
+            "id": "c",
+            
+            "name": "advanced writing method",
+            "isAnswer": true
+          },
+          {
+            "id": "b",
+            
+            "name": "government",
+            "isAnswer": false
+          },
+          {
+            "id": "d",
+            
+            "name": "technology",
+            "isAnswer": false
           }
         ],
         "questionType": {
