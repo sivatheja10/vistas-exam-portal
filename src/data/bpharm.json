@@ -7,22 +7,22 @@
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1,
+                    "id": "a",
                     "name": "All the enzymes are protein in nature",
                     "isAnswer": false
                 },
                 {
-                    "id": 2,
+                    "id": "b",
                     "name": "Specific in action",
                     "isAnswer": true
                 },
                 {
-                    "id": 3,
+                    "id": "c",
                     "name": "Thermostable",
                     "isAnswer": false
                 },
                 {
-                    "id": 4,
+                    "id": "d",
                     "name": "None of the above",
                     "isAnswer": false
                 }
@@ -33,22 +33,22 @@
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1,
+                    "id": "a",
                     "name": "Citric acid",
                     "isAnswer": false
                 },
                 {
-                    "id": 2,
+                    "id": "b",
                     "name": "Maleic acid",
                     "isAnswer": false
                 },
                 {
-                    "id": 3,
+                    "id": "c",
                     "name": "Gluconic acid",
                     "isAnswer": true
                 },
                 {
-                    "id": 4,
+                    "id": "d",
                     "name": "Succinyl coenzyme",
                     "isAnswer": false
                 }
@@ -59,22 +59,22 @@
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1,
+                    "id": "a",
                     "name": "virus ",
                     "isAnswer": false
                 },
                 {
-                    "id": 2,
+                    "id": "b",
                     "name": "Aalge ",
                     "isAnswer": false
                 },
                 {
-                    "id": 3,
+                    "id": "c",
                     "name": "Bacteia",
                     "isAnswer": false
                 },
                 {
-                    "id": 4,
+                    "id": "d",
                     "name": "Fungus",
                     "isAnswer": true
                 }
@@ -85,22 +85,22 @@
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1,
+                    "id": "a",
                     "name": "Virus",
                     "isAnswer": true
                 },
                 {
-                    "id": 2,
+                    "id": "b",
                     "name": "Fungi",
                     "isAnswer": false
                 },
                 {
-                    "id": 3,
+                    "id": "c",
                     "name": "Bacteria",
                     "isAnswer": false
                 },
                 {
-                    "id": 4,
+                    "id": "d",
                     "name": "Mould",
                     "isAnswer": false
                 }
@@ -111,22 +111,22 @@
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1,
+                    "id": "a",
                     "name": "Dicots ",
                     "isAnswer": false
                 },
                 {
-                    "id": 2,
+                    "id": "b",
                     "name": " Monocots ",
                     "isAnswer": true
                 },
                 {
-                    "id": 3,
+                    "id": "c",
                     "name": "Hydrophytes",
                     "isAnswer": false
                 },
                 {
-                    "id": 4,
+                    "id": "d",
                     "name": "Xerophytes",
                     "isAnswer": false
                 }
@@ -137,22 +137,22 @@
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1,
+                    "id": "a",
                     "name": "Quartz",
                     "isAnswer": false
                 },
                 {
-                    "id": 2,
+                    "id": "b",
                     "name": "Mica",
                     "isAnswer": false
                 },
                 {
-                    "id": 3,
+                    "id": "c",
                     "name": "Germanium",
                     "isAnswer": false
                 },
                 {
-                    "id": 4,
+                    "id": "d",
                     "name": "Copper",
                     "isAnswer": true
                 }
@@ -163,363 +163,362 @@
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1,
+                    "id": "a",
                     "name": "Decreases",
                     "isAnswer": false
                 },
                 {
-                    "id": 2,
+                    "id": "b",
                     "name": "Increases",
                     "isAnswer": true
                 },
                 {
-                    "id": 3,
+                    "id": "c",
                     "name": "Remain constant",
                     "isAnswer": false
                 },
                 {
-                    "id": 4,
+                    "id": "d",
                     "name": "Becomes zero",
                     "isAnswer": false
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "Thermodynamically the most stable form of carbon is",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Diamond",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Gold",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Coal",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Graphite",
                     "isAnswer": true
                 }
             ]
         },
         {
-            "id": 1019,
             "name": "Phenacetin is used a",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Analgesic ",
                     "isAnswer":false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Anti inflammatory",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Antipyretic",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Antibacterial",
                     "isAnswer": false
                 }
             ]
         },
                 {
-            "id": 1018,
+            
             "name": "Which of the following lanthanide is commonly used?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Thorium",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " Lanthanum",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Cerium",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Nobelium",
                     "isAnswer": false
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "Which of the following ions has the least magnetic moment?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Cu2",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "CO2",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name":  "Fe2",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Ni2",
                     "isAnswer": false
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "Electromagnetic induction is not used in________",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Transformer",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Room heater",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "AC generator",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Choke coil",
                     "isAnswer": true
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "Television waves range from_________",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "54 MHz TO 890MHz",    
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "56MHz to 765MHz ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "63MHz to 660MHz",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "78MHz to 440MHz",
                     "isAnswer": false
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "The amount of optical rotation depends on_______",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "thickness of crystal",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "wave length of the light used",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "the temperature of the solutions",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "all the above",
                     "isAnswer": true
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "Synthetic polymer which resembles natural rubber is",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Nylon",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Neoprene",
                     "isAnswer": true               
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " Glyptal",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Chloroprene",
                     "isAnswer": false
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "In gymnosperms, the ovule is naked because",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": " Ovary wall is absent",
                     "isAnswer":true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Perianth is absent",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Epidermis is absent",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Cell wall is absent",
                     "isAnswer": false
                 }
             ]
         }, 
         {
-            "id": 1018,
+            
             "name": "Crossing over occurs during",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Zygotene",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Diplotene",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Leptotene",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Pachytene",
                     "isAnswer": true
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "Clove is",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Flower bud",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Fruit",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Axillary bud ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Bark",
                     "isAnswer": false
                 }
@@ -527,248 +526,248 @@
         },
 
         {
-            "id": 1018,
+            
             "name": "Genes are made up of",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Cystine",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " Poly nuleotides",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Adenolide",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Glycene",
                     "isAnswer": false
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "________ is used in treatment of skin disease",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Radio-iodine",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Radio-sodium ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Radio – iron",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Radio – phosphorus",
                     "isAnswer": true
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "The mean life of radon is 5.5 days. Its half life is_________",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "8 days ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "2.8 days",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "0.38 days",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "3.8 days",
                     "isAnswer": true
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "Two compounds have the same empirical formula but different molecular formulae they must have",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Different mol. wt",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Same viscosity",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Same density",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Same mol. wt",
                     "isAnswer": false
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "DNA strands are antiparallel because of the presence of",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Phosphodiester bond",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Peptide bonds",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "H-bonds",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Disulphide bonds",
                     "isAnswer": false
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "Porous wood contains",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Phloem ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Fibers",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Vessels",
                     "isAnswer":true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Pericylic fiber",
                     "isAnswer": false
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "In TV blanking pulse is applied to",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Horizontal plates",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Vertical plates",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Control grid",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Filament",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "When lead nitrate is heated, it produces",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "NO2",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "N2O ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "NO",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "N2O5",
                     "isAnswer": false
                 }
@@ -776,1178 +775,1184 @@
         },
 
 {
-            "id": 1018,
+            
             "name": "Which of the following compounds is found abundantly in nature?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Starch",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Cellulose",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Proteins",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Fats",
                     "isAnswer": false
                 }
                 ]
          },
         {
-            "id": 1018,
+            
             "name": "Which of the following is the strongest acid?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "HNO3",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "CH3COOH ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "HIO3 ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "HClO4",
                     "isAnswer": true
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The curve y2=x2 (1-x2) is symmetrical about ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "x-axis only    b) y-axis only  c) x and y axes only d) x,y axis an origin",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "y-axis only",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " x and y axes only",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "x,y axis an origin",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The differential of y if y = sin 2x ",
             "questionTypeId": 1,
             "options": [
                 {
+<<<<<<< HEAD
                     "id": 1055,
                     "questionId": 1010,
                     "name": "2 cos2x",
+=======
+                    "id": "a",
+                    
+                    "name": "2 cos2x  b) 2 cos 2x .dx c) 2 cos 2x dx.  d) cos 2x dx",
+>>>>>>> 0973d875ea071320cea8c714d44f9a4347e1e083
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " 2 cos 2x .dx",
                     "isAnswer":true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "2 cos 2x dx.",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "cos 2x dx",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The set of positive even integers, with usual multiplication forms ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Afinite group",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "only a semi group",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "only a monoid",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "zero",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Which of the following is not true regarding the normal distribution?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Skewness is zero",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Mean =Median = Mode",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "X= π± 1 ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "h=1/√2 π",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The transition metal ion is purple in colour while Ti4 metal ion is colourless due to",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Completely filled d-orbitals",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Unpaired electrons in d-orbitals",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Vacant d-orbitals ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": " None of the above",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Which of these scientists proposed electromagnetic wave theory",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "H.G.J Moseley ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Clark Maxwell",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " de- Broglie",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Maxplanck",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Which one of these p - block elements is used as thermistors",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "indium  ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "gallium",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " thallium",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "boron",
                     "isAnswer": true
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "What is the net charge of the complex [ Fe (CN)6]4-",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "-4",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "+4",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "-2",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "+2",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The smallest leucocytes are",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Eosinophils",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Neutrophils ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Lymphocytes",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Monocytes",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Y chromosome belongs to",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Group A ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Group D ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Group C ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Group G",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Histamine is secreted by",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Epithelial cells",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "mast cells",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "  RBC ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "WBC",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Vitamin Kplays an important role in ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Bone growth",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Blood clotting ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Visual perception ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Energy production",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Which one of the following is a protozoan disease",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Measles",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Cholera",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "African sleeping disease",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "AIDS",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The blood cell count is made by using",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Haemocytometer",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " Sphygmomanometer",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " Glucometer",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Hemoglobinometer",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Virions contain only a single copy of nucleic acid, hence they are called",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Incomplete viruses",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Variolavirus ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Haploid virus",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Ploidy virus",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "A clot in the cerebral vessel causes",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Thrombosis",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " Stroke ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Embolus",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Coronary thrombosis",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The ability of the callus to develop into shoot or root or embryoid",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Dedifferentiation",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Totipotency",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Redifferentiation",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Differentiation",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The enzyme that catalyses the fixation of CO2 in C4 cycle is ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "RUBP carboxylas",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "PEP carboxylase ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " Transaminase ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "PGA kinase",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Example for aquatic fern",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Azotobacterero",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " Azolla",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Pseudomonas striata",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Azospirillum",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The phenomenon of paramagnetism is a consequence of _______.   ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Distortion effect",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " Orientation effect",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "both (A) and (B)",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "neither (A) nor (B)",
                     "isAnswer": true
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The reduction of which of the following compound would yield secondary amine?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": " Carbylamine",
                     "isAnswer":true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Alkylamine",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Primary amine",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Azo compound",
                     "isAnswer": false
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "If the earth stops rotating, the value of ‘g’ at the equator will _______.   ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Increase  ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Decrease ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Remain same ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Become zero",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "On being churned the butter separates out of milk due to _______.   ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Centrifugal force ",
                     "isAnswer":true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Adhesive force ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Cohesive force",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": " Frictional force",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "A solid having irregular shape is called _______ solid.   ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Amorphous",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Crystalline",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " Anisotropic",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": " Isomorphous",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "In graphite, carbon atoms form interlinked _______ membered rings.  ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Four",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Five",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "six",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "seven",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Silicon is a _______.  ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Conductor",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Semiconductor  ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " Non-conductor",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Metal complex",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Amorphous solids are _______.  ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Solid substances ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Liquids ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Super cooled liquids",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Substances with definite melting point",
                     "isAnswer": false
              }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The highest magnetic moment will be shown by",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Zn ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Fe ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " Ni ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": " Co",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Yellow glass contains _______.",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "CuO ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "UO2",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "CoO",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Fe2O3",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The lustre of a metal is due to _______.   ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": " Its high density ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Its high polishing",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Its chemical inertness",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Presence of free electrons",
                     "isAnswer": true
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Nuclear force is",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Short range and charge dependent",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " Long range and charge dependent",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Long range and charge independent ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Short range and charge independent",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "A simple second pendulum is mounted in a rocket. Its time period will decrease when the rocket is",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": " Moving up with uniform velocity",	
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Moving up with uniform acceleration",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Moving down with uniform acceleration",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Moving down with uniform velocity",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The force required to keep a body in uniform circular motion is   ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "centripetal force. ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "centrifugal force.",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "frictional force.",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "breaking force.",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Who is known as “Father of Genetics",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Theophrastus ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Stephen Hales",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Mendel ",
                     "isAnswer":true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Aristotle",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Genotype is   ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "genetic constitution of an organism.",
                     "isAnswer":true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "genetic constitution of somatic cells.",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "genetic constitution of plastids.",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "genetic constitution of germ cells",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The botanical name of garden pea is   ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Pisumsativum ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Lathyrusodoratus  ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Mangiferaindica ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Solanumtuberosum",
                     "isAnswer": false
                 }
@@ -1955,1116 +1960,1122 @@
         },
 
 {
-            "id": 1018,
+            
             "name": "Find the odd one out.",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "TtRr",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "TTRR",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Ttrr",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "TtRR",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The science dealing with heredity and variation is known as  ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "cytology",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "cytohistology",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " embryology",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "genetics",
                     "isAnswer": true
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The drug ‘belladonna’ is obtained from",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Atropa ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Belladonna",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Rauwolfia",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Solanum",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Which part of embryo comes out first during seed germination?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": " Plumule",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Hypocotyl",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Epicotyl ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Radicle",
                     "isAnswer": true
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Lower ether act as",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "lewis acid",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "anaesthetics",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " antibiotics",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "antiseptics",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Bragg’s equation is used to calculate",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "wavelength of gamma rays",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "wavelength of x- rays",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "wavelength of beta rays",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "wavelength of crystals",
                     "isAnswer":false
                 }
             ]
         },{
-            "id": 1018,
+            
             "name": "The inside and outside temperatures of a refrigerator are 273 K and 303 K respectively Assuming that refrigerator cycle is reversible for every joule of work done the heat delivered to the surrounding will be",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "10J",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "20J",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "30J",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "50J",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "A diffraction pattern is obtained using a beam of red light. What happens if the red light is replaced by blue light?",
             "questionTypeId": 1,
             "options": [
                 {
+<<<<<<< HEAD
                     "id": 1055,
                     "questionId": 1010,
                     "name": "Diffraction bands become narrower and crowded together",
+=======
+                    "id": "a",
+                    
+                    "name": ") Diffraction bands become narrower and crowded together",
+>>>>>>> 0973d875ea071320cea8c714d44f9a4347e1e083
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Bands become broader and farther apart ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Bands disappear altogether",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "No change",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The focal length of the objective of a telescope is 60 cm. To obtain a magnification of 20 for the relaxed eye, the length of telescope should be",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "80cm",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "40cm",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "57cm",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "63cm",
                     "isAnswer": true
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Two identical capacitors are joined in parallel and charged to a potential V. Then these are separated and connected in series with the positive plate of one connected to the negative of the other. Then the",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Potential difference between the plates become 2V ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Energy stored in the system increases ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " Charge on the free plates increases ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Charge on the plates connected together are destroyed",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Which of the following shows rhipidiuminfloresence",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Solanumnigrum ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Solanumtuberosum",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Schizanthuspinnatus",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Solanummelongena",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Two electric bulbs, one of 200 V, 40 W and the other of 200 V, 100 W are connected in a domestic circuit. Then",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "The resistance of the bulb of 100W is more",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "The resistance of the bulb of 40W is more",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "The resistance of both the bulbs are same",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "They have equal currents through them",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Parsec is a unit of",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Angle ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " Velocity ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Time",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Distance",
                     "isAnswer": true
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Carrier proteins are involved in ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Passive transport of ions ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Active transport of ions",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Transport of proteins",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": " Transport of water",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Haploid callus can be converted to diploid callus using",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Auxins",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Absicic acid",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Cytokinin",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Colchicine",
                     "isAnswer": true
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Ribosomal precursor or ribosomal subunits in cell is formed in:",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Nucleus ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name":   "Nucleolus",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Mitochondria ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Chloroplast",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "How will you separate mixture of two gases? ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Fraction distillation technique ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "rahams law of diffusion technique ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Osmosis",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "hromatography",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Which of these have no unit? ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Electro negativity ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Electron affinity",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Ionization energy ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Excitation potential",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Which of the following cuts ultraviolet rays?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Soda glass ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " Crooke’s glass",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Pyrex",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "None of these",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Acetone is mixed with bleaching powder to give ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Chloroform ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Acetaldehyde ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Ethanol",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Phosgene",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Impurities of Cu and Ag from gold are removed by ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Electrolytically  ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Boiling impure gold with dil. H2SO4   ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Boiling impure gold with con. H2SO4 ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Both b & c",
                     "isAnswer":true
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "EDTA has coordination number  ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "3 ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "4 ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "5",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "6",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Write the IUPAC name of propionic acid ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Ethyl formic acid (b) Ethyl carboxylic acid (c) Ethane methanoic acid (d) Propanoic acid ",
                     "isAnswer": true
                   },
                
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Ethyl carboxylic acid  ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
+                    "id": "c",
                     "questionId":1010,
                     "name":" Ethane methanoic acid ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Propanoic acid ",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Stainless steel is an alloy of  ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Copper ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Nickel and chromium ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Manganese",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": " Zinc",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": " Triple point of water is ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "273 K ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " 373 K ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "203 K",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "193 K Q-38",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "What is the % of acetic acid present in vinegar?  ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": " 6-10%  ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "70-80% ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "7-8%",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "90-100% ",
                     "isAnswer":false
                 }
             ]
         },
                 {
-            "id": 1018,
+            
             "name": "Nitrous oxide is known as   ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Breathing gas ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Laughing gas ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Exercising gas",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": " Laboratory gas",
                     "isAnswer":false
                 }
             ]
         },
                 {
-            "id": 1018,
+            
             "name": "The magnitude of acceleration of particle executing SHM at the position of maximum displacement is  ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": " Maximum ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " Minimum ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "zero",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "None of the above",
                     "isAnswer": false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The wavelength of a radiowave of frequency of I MHz is ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "200m ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "300m ",
                     "isAnswer":false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "350m",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": " 400m",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The error in the measurement of radius of the sphere is 0.3%. What is the permissible error in its surface area?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "0.6%",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "1.2 % ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": " 2.4 % ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": " 1.8 %",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Graphite is a good conductor of heat and electricity because it contains  ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": " Layer of carbon atoms ",
                     "isAnswer":false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " Sheet like structure  ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Free electrons",
                     "isAnswer": true
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": " no free electrons ",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "The crucial function of moderators in nuclear reactors is to  ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Decrease the energy of neutrons",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": " Absorb extra neutrons ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Absorb extra neutrons",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": " Provide cooling",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "Tyndall effect can be observed in",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Colloidal solution  ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Solvent ",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Solute",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": " Precipitate",
                     "isAnswer":false
                 }
             ]
         },
 {
-            "id": 1018,
+            
             "name": "According to Bronsted, a base is a substance which  ",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Accept proton",
                     "isAnswer": false
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Donate electron ",
                     "isAnswer": true
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Lose a pair of electron",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "  Gain a pair of electron ",
                     "isAnswer":false
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "Interferon suppresses the pathogenic activity of:",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Virus",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "Fungi",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name": "Bacteria",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Mould",
                     "isAnswer":false
                 }
             ]
         },
         {
-            "id": 1018,
+            
             "name": "Which of the following ions has the least magnetic moment?",
             "questionTypeId": 1,
             "options": [
                 {
-                    "id": 1055,
-                    "questionId": 1010,
+                    "id": "a",
+                    
                     "name": "Cu2",
                     "isAnswer": true
                 },
                 {
-                    "id": 1057,
-                    "questionId": 1010,
+                    "id": "b",
+                    
                     "name": "CO2",
                     "isAnswer": false
                 },
                 {
-                    "id": 1056,
-                    "questionId": 1010,
+                    "id": "c",
+                    
                     "name":  "Fe2",
                     "isAnswer": false
                 },
                 {
-                    "id": 1058,
-                    "questionId": 1010,
+                    "id": "d",
+                    
                     "name": "Ni2",
                     "isAnswer": false
                 }

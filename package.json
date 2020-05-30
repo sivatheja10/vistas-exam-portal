@@ -32,6 +32,7 @@
     "popper.js": "^1.16.1",
     "rxjs": "~6.5.4",
     "save": "^2.4.0",
+    "sweetalert2": "^9.13.4",
     "tailwindcss": "^1.4.6",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
@@ -39,7 +40,7 @@
   "devDependencies": {
     "@angular-builders/custom-webpack": "^9.1.0",
     "@angular-devkit/architect": "~0.900",
-    "@angular-devkit/build-angular": "~0.901.4",
+    "@angular-devkit/build-angular": "^0.901.7",
     "@angular/cli": "~9.1.4",
     "@angular/compiler-cli": "~9.1.4",
     "@angular/language-service": "~9.1.4",
@@ -60,7 +61,7 @@
     "karma-jasmine": "~3.0.1",
     "karma-jasmine-html-reporter": "^1.4.2",
     "lite-server": "^2.5.4",
-    "protractor": "~5.4.3",
+    "protractor": "^7.0.0",
     "ts-node": "~8.3.0",
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"

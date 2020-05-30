@@ -1,26 +1,25 @@
 import { Component, OnInit } from '@angular/core';
-import { Router } from "@angular/router";
-import {  NgZone } from '@angular/core';
-import { AngularFirestore, AngularFirestoreDocument } from '@angular/fire/firestore';
+import { Router } from '@angular/router';
+import { NgZone } from '@angular/core';
+import {
+  AngularFirestore,
+  AngularFirestoreDocument,
+} from '@angular/fire/firestore';
 import { QuizService } from '../../services/quiz.service';
 import { HelperService } from '../../services/helper.service';
 import { Option, Question, Quiz, QuizConfig } from '../../models/index';
 import { AuthService } from 'src/app/shared/services/auth.service';
 import * as firebase from 'firebase';
-import { CommonModule } from '@angular/common';
-import { User } from "../../shared/services/user";
-
-
+import Swal from 'sweetalert2';
 
 @Component({
   selector: 'app-exam-question',
   templateUrl: `./exam-question.component.html`,
   styleUrls: ['./exam-question.component.css'],
-  providers: [QuizService]
+  providers: [QuizService],
 })
 export class ExamQuestionComponent implements OnInit {
-
-  user: any;
+  user: firebase.User;
 
   exam: any;
   quizes: any[];
@@ -30,24 +29,24 @@ export class ExamQuestionComponent implements OnInit {
   correctAnswerCount: number = 0;
 
   config: QuizConfig = {
-    'allowBack': true,
-    'allowReview': true,
-    'autoMove': false,  // if true, it will move to next question automatically when answered.
-    'duration': 1800,  // indicates the time (in secs) in which quiz needs to be completed. 0 means unlimited.
-    'pageSize': 1,
-    'requiredAll': false,  // indicates if you must answer all the questions before submitting.
-    'richText': false,
-    'shuffleQuestions': false,
-    'shuffleOptions': false,
-    'showClock': false,
-    'showPager': true,
-    'theme': 'none'
+    allowBack: true,
+    allowReview: true,
+    autoMove: false, // if true, it will move to next question automatically when answered.
+    duration: 1800, // indicates the time (in secs) in which quiz needs to be completed. 0 means unlimited.
+    pageSize: 1,
+    requiredAll: false, // indicates if you must answer all the questions before submitting.
+    richText: false,
+    shuffleQuestions: false,
+    shuffleOptions: false,
+    showClock: false,
+    showPager: true,
+    theme: 'none',
   };
 
   pager = {
     index: 0,
     size: 1,
-    count: 1
+    count: 1,
   };
   timer: any = null;
   startTime: Date;
@@ -55,8 +54,13 @@ export class ExamQuestionComponent implements OnInit {
   ellapsedTime = '00:00';
   duration = '';
 
-  constructor(private quizService: QuizService,public afs: AngularFirestore, public auth:AuthService, public router: Router, public ngZone: NgZone) {
-   }
+  constructor(
+    private quizService: QuizService,
+    public afs: AngularFirestore,
+    private auth: AuthService,
+    public router: Router,
+    public ngZone: NgZone
+  ) {}
 
   ngOnInit() {
     this.exam = localStorage.getItem('exam');
@@ -68,22 +72,20 @@ export class ExamQuestionComponent implements OnInit {
     this.correctAnswerCount = 0;
 
     //Auth state
-   this.user = this.auth.authState()
-    .subscribe( user => {
-      return this.afs.doc<User>(`users/${user.uid}`).valueChanges();
-
-    })
-    console.log('User from ec:'+this.user.examCompleted)
-
+    this.auth.authState().subscribe((user) => {
+      this.user = user;
+    });
   }
 
   loadQuiz(quizName: string) {
-    this.quizService.get(quizName).subscribe(res => {
+    this.quizService.get(quizName).subscribe((res) => {
       this.quiz = new Quiz(res);
       this.pager.count = this.quiz.questions.length;
       this.startTime = new Date();
       this.ellapsedTime = '00:00';
-      this.timer = setInterval(() => { this.tick(); }, 1000);
+      this.timer = setInterval(() => {
+        this.tick();
+      }, 1000);
       this.duration = this.parseTime(this.config.duration);
     });
     this.mode = 'quiz';
@@ -107,13 +109,19 @@ export class ExamQuestionComponent implements OnInit {
   }
 
   get filteredQuestions() {
-    return (this.quiz.questions) ?
-      this.quiz.questions.slice(this.pager.index, this.pager.index + this.pager.size) : [];
+    return this.quiz.questions
+      ? this.quiz.questions.slice(
+          this.pager.index,
+          this.pager.index + this.pager.size
+        )
+      : [];
   }
 
   onSelect(question: Question, option: Option) {
     if (question.questionTypeId === 1) {
-      question.options.forEach((x) => { if (x.id !== option.id) x.selected = false; });
+      question.options.forEach((x) => {
+        if (x.id !== option.id) x.selected = false;
+      });
     }
 
     if (this.config.autoMove) {
@@ -129,36 +137,59 @@ export class ExamQuestionComponent implements OnInit {
   }
 
   isAnswered(question: Question) {
-    return question.options.find(x => x.selected) ? 'Answered' : 'Not Answered';
-  };
+    return question.options.find((x) => x.selected)
+      ? 'Answered'
+      : 'Not Answered';
+  }
 
   isCorrect(question: Question) {
-    if(question.options.every(x => x.selected == x.isAnswer)){
-      this.correctAnswerCount++
+    if (question.options.every((x) => x.selected == x.isAnswer)) {
+      this.correctAnswerCount++;
       // console.log(this.correctAnswerCount)
       // console.log('Score increased')
-      return question.options.every(x => x.selected == x.isAnswer) ? 'Correct' : 'Wrong'  };
-
+      return question.options.every((x) => x.selected == x.isAnswer)
+        ? 'Correct'
+        : 'Wrong';
     }
+  }
 
   onSubmit() {
-    var date = firebase.firestore.Timestamp.now();
-    this.quiz.questions.forEach(qn => this.isCorrect(qn));
-    // Post your data to the server here. answers contains the questionId and the users' answer.
-    
-    this.ngZone.run(() => {
-      this.router.navigate(['submission']);
-    });
-
-    
-    this.afs.collection('users').doc(`${this.user.uid}`).set({
-      Score : this.correctAnswerCount,
-      SubmissionTime : date,
-      examCompleted : true
-    },{
-      merge: true
-    });
     // console.log(this.quiz.questions);
-    this.mode = 'result';
+    // this.mode = 'result';
+
+    Swal.fire({
+      title: 'Are you sure?',
+      text: 'You will not be continued if once you click yes..!',
+      icon: 'warning',
+      showCancelButton: true,
+      confirmButtonText: 'Yes, end it!',
+      cancelButtonText: 'No, keep it',
+    }).then((result) => {
+      if (result.value) {
+        Swal.fire(
+          'Success!',
+          'Your exam has been successfully submited..!',
+          'success'
+        );
+        var date = firebase.firestore.Timestamp.now();
+        this.quiz.questions.forEach((qn) => this.isCorrect(qn));
+        // Post your data to the server here. answers contains the questionId and the users' answer.
+
+        this.afs.collection('users').doc(`${this.user.uid}`).set(
+          {
+            Score: this.correctAnswerCount,
+            SubmissionTime: date,
+          },
+          {
+            merge: true,
+          }
+        );
+        this.ngZone.run(() => {
+          this.router.navigate(['submission']);
+        });
+      } else if (result.dismiss === Swal.DismissReason.cancel) {
+        Swal.fire('Cancelled', 'You can continue writing..!', 'error');
+      }
+    });
   }
 }
