@@ -19,15 +19,15 @@
           <span [innerHTML]="question.name"></span>
         </h3>
         <!-- Options -->
-        <!-- <div class="row text-left options"> -->
+        <div class="row text-left options">
           <div class="col-6" *ngFor="let option of question.options">
             <div class="shadow-xl rounded-full mx-5 option">
               <label class="font-weight-normal" [attr.for]="option.id">
-                <input id="{{option.id}}" type="checkbox" [(ngModel)]="option.selected" (change)="onSelect(question, option);" />({{option.id}}) {{option.name}}
+                <input id="{{option.id}}" type="checkbox" [(ngModel)]="option.selected" (change)="onSelect(question, option);" />  ({{option.id}}) {{option.name}}
               </label>
             </div>
           </div>
-        <!-- </div> -->
+        </div>
 
       </div>
       <br><br><br>
