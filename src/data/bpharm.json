@@ -844,7 +844,7 @@
                 {
                     "id": "a",
                     
-                    "name": "x-axis only    b) y-axis only  c) x and y axes only d) x,y axis an origin",
+                    "name": "x-axis only",
                     "isAnswer": false
                 },
                 {
@@ -874,7 +874,7 @@
             "options": [
                 {
                     "id": "a",
-                    "name": "2 cos2x  b) 2 cos 2x .dx c) 2 cos 2x dx.  d) cos 2x dx",
+                    "name": "2 cos2x",
                     "isAnswer": false
                 },
                 {
@@ -1804,7 +1804,7 @@
                 {
                     "id": "a",
                     
-                    "name": " Moving up with uniform velocity",	
+                    "name": "Moving up with uniform velocity",	
                     "isAnswer": true
                 },
                 {
@@ -1835,7 +1835,7 @@
                 {
                     "id": "a",
                     
-                    "name": "centripetal force. ",
+                    "name": "centripetal force.",
                     "isAnswer": true
                 },
                 {
@@ -1866,7 +1866,7 @@
                 {
                     "id": "a",
                     
-                    "name": "Theophrastus ",
+                    "name": "Theophrastus",
                     "isAnswer": false
                 },
                 {
@@ -2175,7 +2175,7 @@
             "options": [
                 {
                     "id": "a",
-                    "name": ") Diffraction bands become narrower and crowded together",
+                    "name": "Diffraction bands become narrower and crowded together",
                     "isAnswer": true
                 },
                 {
@@ -2640,7 +2640,7 @@
                 {
                     "id": "a",
                     
-                    "name": "Ethyl formic acid (b) Ethyl carboxylic acid (c) Ethane methanoic acid (d) Propanoic acid ",
+                    "name": "Ethyl formic acid",
                     "isAnswer": true
                   },
                
