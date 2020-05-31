@@ -1,5 +1,5 @@
 {
-  "id": 1,  
+  "id": "a",  
   "name": "MBA",
     "questions": [
 {
@@ -7,22 +7,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "23%",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "25%",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "27%",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "29%",
         "isAnswer": false
     }
@@ -33,22 +33,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "Rs.7200",
         "isAnswer": true
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "Rs.7000",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "Rs.6900",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Rs.6500",
         "isAnswer": false
     }
@@ -59,22 +59,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "8.5 km/s",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "7.5 km/s",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "9.5 km/s",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "6.5 km/s",
         "isAnswer": false
     }
@@ -85,22 +85,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "300 km/hr",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "280 km/hr",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "250 km/hr",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "240 km/hr",
         "isAnswer": false
     }
@@ -111,22 +111,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "150 m",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "165 m",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "175 m",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "170 m",
         "isAnswer": false
     }
@@ -137,22 +137,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "10 seconds",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "7.5 seconds",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "20 Seconds",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "25 seconds",
         "isAnswer": false
     }
@@ -163,22 +163,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "40/10 days",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "40/9 days",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "40/8 days",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "40/7 days",
         "isAnswer": false
     }
@@ -189,22 +189,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "13 days",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "14 days",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "15 days",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "16 days",
         "isAnswer": false
     }
@@ -215,22 +215,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "1",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "15",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "5",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "25",
         "isAnswer": false
     }
@@ -241,22 +241,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "64",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "4",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "8",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "16",
         "isAnswer": false
     }
@@ -267,22 +267,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "7",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "14",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "21",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "35",
         "isAnswer": true
     }
@@ -293,22 +293,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "279",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "283",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "308",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "318",
         "isAnswer": false
     }
@@ -319,22 +319,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "20 square meters",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "35 square meters",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "25 square meters",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "40 square meters",
         "isAnswer": false
     }
@@ -345,22 +345,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "52 meters",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "58 meters",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "68 meters",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "60 meters",
         "isAnswer": true
     }
@@ -371,22 +371,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "(1/3)",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "(1/8)",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "(2/8)",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "(1/16)",
         "isAnswer": false
     }
@@ -397,22 +397,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "index",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "glossary",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "chapter",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "book",
         "isAnswer": true
     }
@@ -423,22 +423,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "trivial",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "unimportant",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "important",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "insignificant",
         "isAnswer": false
     }
@@ -449,22 +449,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "GRASS",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "FOREST",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "BEAK",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "BUSH",
         "isAnswer": false
     }
@@ -475,22 +475,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "Lock",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "Guard",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "Sure",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Conserve",
         "isAnswer": false
     }
@@ -501,22 +501,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "Flow",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "Animal",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "Wood",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Fox",
         "isAnswer": true
     }
@@ -527,22 +527,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "A debating club meets on the first Sunday morning of every month.",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "After finding out about his salary raise, Jay and a few colleagues go out for a quick dinner after work.",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "Meena sends out 10 invitations for a bachelorette party she is giving for her elder sister.",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Whenever she eats at a Chinese restaurant, Roop seems to run into Dibya.",
         "isAnswer": false
     }
@@ -553,22 +553,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "At halftime, the score is tied at 2-2 in a football match.",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "Serena and Maria have each secured 1 set in the game.",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "The umpire tosses a coin to decide which team will have bat first.",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "RCB and KKR each finished at 140 all out.",
         "isAnswer":true
     }
@@ -579,22 +579,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "When he is offered a better paying position, Jacob leaves the restaurant he manages to manage a new restaurant on the other side of town.",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "Catherine is spending her junior year of college studying abroad in France.",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "Malcolm is readjusting to civilian life after two years of overseas military service.",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "After several miserable months, Sharon decides that she can no longer share an apartment with her roommate Hilary.",
         "isAnswer": false
     }
@@ -605,22 +605,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "When he is offered a better paying position, Javed leaves the hotel he manages to manage another one in a neighboring city.",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "Charan is spending her final year of college studying abroad in China.",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "Manan is readjusting to civilian life after 2 years of overseas merchant navy service.",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "After 5 miserable months, Sneha decides that she can no longer share her room with roommate Hital.",
         "isAnswer": false
     }
@@ -631,22 +631,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "If only I follows",
         "isAnswer": true
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "If only II follows",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "If either I or II follows",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "If neither I nor II follows",
         "isAnswer": false
     }
@@ -657,22 +657,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "If only I follows",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "If only II follows",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "If either I or II follows",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "If neither I nor II follows",
         "isAnswer": false
     }
@@ -683,22 +683,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "Tuesday or Wednesday",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "Tuesday or Thursday",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "Wednesday or Thursday",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Thursday or Friday",
         "isAnswer": false
     }
@@ -709,22 +709,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "Plants are watered on Tuesday.",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "Floors are polished on Thursday.",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "Plants are watered on Wednesday.",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Floors are polished on Wednesday.",
         "isAnswer": false
     }
@@ -735,412 +735,412 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "two",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "three",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "four",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "six",
         "isAnswer": true
     }
   ]
 },
 {
-"name": "Which of the following would be the most appropriate title for the passage?",
+"name": "Question: Which of the following would be the most appropriate title for the below passage ? Passage: A fact that draws our attention is that, according to his position in life, an extravagant man is either admired or loathed. A successful businessman does nothing to increase his popularity by being prudent with his money. A person who is wealthy is expected to lead a luxurious life and to be lavish with his hospitality. If he is not so, he is considered mean, and his reputation in business may even suffer in consequence. The paradox remains that he had not been careful with his money in the first place; he would never have achieved his present wealth. Among the low-income group, a different set of values exists. The young clerk, who makes his wife a present of a new dress when he has not paid his house rent, is condemned as extravagant. Carefulness with money to the point of meanness is applauded as a virtue. Nothing in his life is considered more worthy than paying his bills. The ideal wife for such a man separates her housekeeping money into joyless little piles – so much for rent, for food, for the children’s shoes, she is able to face the milkman with equanimity every, month satisfied with her economizing ways , and never knows the guilt of buying something she can’t really afford. As for myself, I fall neither of these categories. If I have money to spare, I can be extravagant, but when, as is usually the case, I am hard up and then I am the meanest man imaginable.",
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "Being extravagant is always condemnable.",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "The cause of poverty is extravagance.",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "Extravagance is a part of the rich as well as of the poor.",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Stingy habits of the poor.",
         "isAnswer": false
     }
   ]
 },
 {
-"name": "According to the passage the person, who is a successful businessman and wealthy.",
+"name": "Question: According to the passage the person, who is a successful businessman and wealthy.  Passage: A fact that draws our attention is that, according to his position in life, an extravagant man is either admired or loathed. A successful businessman does nothing to increase his popularity by being prudent with his money. A person who is wealthy is expected to lead a luxurious life and to be lavish with his hospitality. If he is not so, he is considered mean, and his reputation in business may even suffer in consequence. The paradox remains that he had not been careful with his money in the first place; he would never have achieved his present wealth. Among the low-income group, a different set of values exists. The young clerk, who makes his wife a present of a new dress when he has not paid his house rent, is condemned as extravagant. Carefulness with money to the point of meanness is applauded as a virtue. Nothing in his life is considered more worthy than paying his bills. The ideal wife for such a man separates her housekeeping money into joyless little piles – so much for rent, for food, for the children’s shoes, she is able to face the milkman with equanimity every, month satisfied with her economizing ways , and never knows the guilt of buying something she can’t really afford. As for myself, I fall neither of these categories. If I have money to spare, I can be extravagant, but when, as is usually the case, I am hard up and then I am the meanest man imaginable.",
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "Is expected to have lavish lifestyle.",
         "isAnswer": true
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "Should not bother about popularity.",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "Is more popular if he appears to be wasting away his time.",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Must be extravagant before achieving success.",
         "isAnswer": false
     }
   ]
 },
 {
-"name": "The phrase ‘lavish with his hospitality’ in the third sentence of the first paragraph means",
+"name": "Question: The phrase ‘lavish with his hospitality’ in the third sentence of the first paragraph means. Passage: A fact that draws our attention is that, according to his position in life, an extravagant man is either admired or loathed. A successful businessman does nothing to increase his popularity by being prudent with his money. A person who is wealthy is expected to lead a luxurious life and to be lavish with his hospitality. If he is not so, he is considered mean, and his reputation in business may even suffer in consequence. The paradox remains that he had not been careful with his money in the first place; he would never have achieved his present wealth. Among the low-income group, a different set of values exists. The young clerk, who makes his wife a present of a new dress when he has not paid his house rent, is condemned as extravagant. Carefulness with money to the point of meanness is applauded as a virtue. Nothing in his life is considered more worthy than paying his bills. The ideal wife for such a man separates her housekeeping money into joyless little piles – so much for rent, for food, for the children’s shoes, she is able to face the milkman with equanimity every, month satisfied with her economizing ways , and never knows the guilt of buying something she can’t really afford. As for myself, I fall neither of these categories. If I have money to spare, I can be extravagant, but when, as is usually the case, I am hard up and then I am the meanest man imaginable.",
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "Thoughtful in spending only on guests and strangers.",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "Unconcerned in treating his friends and relatives.",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "Stinginess in dealing with his relatives.",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Extravagance in entertaining guest.",
         "isAnswer": true
     }
   ]
 },
 {
-"name": "The word ‘paradox’ in the last sentence of the first paragraph means",
+"name": "Question: The word ‘paradox’ in the last sentence of the first paragraph means? Passage: A fact that draws our attention is that, according to his position in life, an extravagant man is either admired or loathed. A successful businessman does nothing to increase his popularity by being prudent with his money. A person who is wealthy is expected to lead a luxurious life and to be lavish with his hospitality. If he is not so, he is considered mean, and his reputation in business may even suffer in consequence. The paradox remains that he had not been careful with his money in the first place; he would never have achieved his present wealth. Among the low-income group, a different set of values exists. The young clerk, who makes his wife a present of a new dress when he has not paid his house rent, is condemned as extravagant. Carefulness with money to the point of meanness is applauded as a virtue. Nothing in his life is considered more worthy than paying his bills. The ideal wife for such a man separates her housekeeping money into joyless little piles – so much for rent, for food, for the children’s shoes, she is able to face the milkman with equanimity every, month satisfied with her economizing ways , and never knows the guilt of buying something she can’t really afford. As for myself, I fall neither of these categories. If I have money to spare, I can be extravagant, but when, as is usually the case, I am hard up and then I am the meanest man imaginable.",
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "Statement based on the popular opinion",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "A statement that seems self-contradictory but in reality expresses a possible truth.",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "Statement based on facts",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "A word that brings out the hidden meaning",
         "isAnswer": false
     }
   ]
 },
 {
-"name": "What is the meaning of the word “equanimity”?",
+"name": "Question: What is the meaning of the word “equanimity”? Passage: A fact that draws our attention is that, according to his position in life, an extravagant man is either admired or loathed. A successful businessman does nothing to increase his popularity by being prudent with his money. A person who is wealthy is expected to lead a luxurious life and to be lavish with his hospitality. If he is not so, he is considered mean, and his reputation in business may even suffer in consequence. The paradox remains that he had not been careful with his money in the first place; he would never have achieved his present wealth. Among the low-income group, a different set of values exists. The young clerk, who makes his wife a present of a new dress when he has not paid his house rent, is condemned as extravagant. Carefulness with money to the point of meanness is applauded as a virtue. Nothing in his life is considered more worthy than paying his bills. The ideal wife for such a man separates her housekeeping money into joyless little piles – so much for rent, for food, for the children’s shoes, she is able to face the milkman with equanimity every, month satisfied with her economizing ways , and never knows the guilt of buying something she can’t really afford. As for myself, I fall neither of these categories. If I have money to spare, I can be extravagant, but when, as is usually the case, I am hard up and then I am the meanest man imaginable.",
 "questionTypeId": 1,
 "options": [
     {
-      "id": 1,
+      "id": "a",
       "name": "Calmness",
       "isAnswer": true
    },
    {
-      "id": 2,
+      "id": "b",
       "name": "Discomposure",
       "isAnswer": false
    },
    {
-       "id": 3,
+       "id": "c",
        "name": "Equivocal",
        "isAnswer": false
    },
    {
-       "id": 4,
+       "id": "d",
        "name": "Dubious",
        "isAnswer": false
    }
  ]
 },
 {
-"name": "The title that best suits the passage would be:-",
+"name": "Question: The title that best suits the passage would be:- Passage: If a person suddenly encounters any terrible danger, the change of nature one undergoes is equally great. Sometimes fear numbs our senses. Like animals, one stands still, powerless to move a step in fright or to lift a hand in defence of our lives, and sometimes one is seized with panic, and again, act more like the inferior animals than rational beings. On the other hand, frequently in cases of sudden extreme peril, which cannot be escaped by flight, and must be instantly faced, even the most timid men at once as if by miracle, become possessed of the necessary courage, sharp quick apprehension and swift decision. This is a miracle quite common in nature. Man, and the inferior animals alike, when confronted with almost certain death ‘gather resolution from despair’ but there can really be no trace of so debilitating a feeling in the person fighting or prepared to fight for dear life. At such times the mind is clearer than it has ever been the nerves are steel, there is nothing felt but a wonderful strength and daring. Looking back at certain perilous moments in my own life, I remember them with a kind of joy, not that there was any joyful excitement then, but because they broadened my horizon, lifted me for a time above myself.",
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "The Will to Fight",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "The Miracle of Confronting Danger",
         "isAnswer": true
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "The Change of Nature",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Courage and Panic",
         "isAnswer": false
     }
   ]
 },
  {
-"name": "A man may react to sudden danger in three different ways. What are they?",
+"name": "Question: A man may react to sudden danger in three different ways. What are they? Passage: If a person suddenly encounters any terrible danger, the change of nature one undergoes is equally great. Sometimes fear numbs our senses. Like animals, one stands still, powerless to move a step in fright or to lift a hand in defence of our lives, and sometimes one is seized with panic, and again, act more like the inferior animals than rational beings. On the other hand, frequently in cases of sudden extreme peril, which cannot be escaped by flight, and must be instantly faced, even the most timid men at once as if by miracle, become possessed of the necessary courage, sharp quick apprehension and swift decision. This is a miracle quite common in nature. Man, and the inferior animals alike, when confronted with almost certain death ‘gather resolution from despair’ but there can really be no trace of so debilitating a feeling in the person fighting or prepared to fight for dear life. At such times the mind is clearer than it has ever been the nerves are steel, there is nothing felt but a wonderful strength and daring. Looking back at certain perilous moments in my own life, I remember them with a kind of joy, not that there was any joyful excitement then, but because they broadened my horizon, lifted me for a time above myself.",
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "He may flee in panic or fight back or stand still.",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "He may be paralyzed with fear, seized with panic or act like an inferior animal.",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "He may be paralyzed with fear, or seized with panic, or as if by miracle, become possessed of the necessary courage, and face the danger.",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "He may be paralyzed with fear, run away or fight.",
         "isAnswer": false
     }
   ]
 },
 {
-"name": "What is the meaning of the word debilitating?",
+"name": "Question: What is the meaning of the word debilitating? Passage: If a person suddenly encounters any terrible danger, the change of nature one undergoes is equally great. Sometimes fear numbs our senses. Like animals, one stands still, powerless to move a step in fright or to lift a hand in defence of our lives, and sometimes one is seized with panic, and again, act more like the inferior animals than rational beings. On the other hand, frequently in cases of sudden extreme peril, which cannot be escaped by flight, and must be instantly faced, even the most timid men at once as if by miracle, become possessed of the necessary courage, sharp quick apprehension and swift decision. This is a miracle quite common in nature. Man, and the inferior animals alike, when confronted with almost certain death ‘gather resolution from despair’ but there can really be no trace of so debilitating a feeling in the person fighting or prepared to fight for dear life. At such times the mind is clearer than it has ever been the nerves are steel, there is nothing felt but a wonderful strength and daring. Looking back at certain perilous moments in my own life, I remember them with a kind of joy, not that there was any joyful excitement then, but because they broadened my horizon, lifted me for a time above myself.",
 "questionTypeId": 1,
 "options": [
     {
-      "id": 1,
+      "id": "a",
       "name": "enfeeble",
       "isAnswer": true
     },
     {
-       "id": 2,
+       "id": "b",
        "name": "strengthen",
        "isAnswer": false
     },
     {
-       "id": 3,
+       "id": "c",
        "name": "debase",
        "isAnswer": false
     },
     {
-       "id": 4,
+       "id": "d",
        "name": "thriving",
        "isAnswer": false
     }
   ]
 },
 {
-"name": "Explain the phrase ‘gather resolution from danger’.",
+"name": "Question: Explain the phrase ‘gather resolution from danger’. Passage: If a person suddenly encounters any terrible danger, the change of nature one undergoes is equally great. Sometimes fear numbs our senses. Like animals, one stands still, powerless to move a step in fright or to lift a hand in defence of our lives, and sometimes one is seized with panic, and again, act more like the inferior animals than rational beings. On the other hand, frequently in cases of sudden extreme peril, which cannot be escaped by flight, and must be instantly faced, even the most timid men at once as if by miracle, become possessed of the necessary courage, sharp quick apprehension and swift decision. This is a miracle quite common in nature. Man, and the inferior animals alike, when confronted with almost certain death ‘gather resolution from despair’ but there can really be no trace of so debilitating a feeling in the person fighting or prepared to fight for dear life. At such times the mind is clearer than it has ever been the nerves are steel, there is nothing felt but a wonderful strength and daring. Looking back at certain perilous moments in my own life, I remember them with a kind of joy, not that there was any joyful excitement then, but because they broadened my horizon, lifted me for a time above myself.",
 "questionTypeId": 1,
 "options": [
    {
-       "id": 1,
+       "id": "a",
        "name": "Find peace in times of difficulty.",
        "isAnswer": false
    },
    {
-       "id": 2,
+       "id": "b",
        "name": "A state of utter hopelessness makes one determined to face the difficulty.",
        "isAnswer": true
    },
    {
-       "id": 3,
+       "id": "c",
        "name": "To remain calm and not to lose hope.",
        "isAnswer": false
    },
    {
-       "id": 4,
+       "id": "d",
        "name": "To be enthusiastic and brave the odds.",
        "isAnswer": false
     }
   ]
 },
 {
-"name": "The author feels happy in the recollection of dangers faced and overcome because",
+"name": "Question: The author feels happy in the recollection of dangers faced and overcome because. Passage: If a person suddenly encounters any terrible danger, the change of nature one undergoes is equally great. Sometimes fear numbs our senses. Like animals, one stands still, powerless to move a step in fright or to lift a hand in defence of our lives, and sometimes one is seized with panic, and again, act more like the inferior animals than rational beings. On the other hand, frequently in cases of sudden extreme peril, which cannot be escaped by flight, and must be instantly faced, even the most timid men at once as if by miracle, become possessed of the necessary courage, sharp quick apprehension and swift decision. This is a miracle quite common in nature. Man, and the inferior animals alike, when confronted with almost certain death ‘gather resolution from despair’ but there can really be no trace of so debilitating a feeling in the person fighting or prepared to fight for dear life. At such times the mind is clearer than it has ever been the nerves are steel, there is nothing felt but a wonderful strength and daring. Looking back at certain perilous moments in my own life, I remember them with a kind of joy, not that there was any joyful excitement then, but because they broadened my horizon, lifted me for a time above myself.",
 "questionTypeId": 1,
 "options": [
    {
-      "id": 1,
+      "id": "a",
       "name": "They brought him a new experience.",
       "isAnswer": false
     },
     {
-       "id": 2,
+       "id": "b",
        "name": "They added a new perspective and lifted him above himself for a time.",
        "isAnswer": true
    },
    {
-       "id": 3,
+       "id": "c",
        "name": "These experiences boosted his confidence",
        "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "He felt elated as he was alive.",
         "isAnswer": false
    }
   ]
 },
 {
-"name": "Which word is nearly opposite in meaning as “defile” as used in the passage?",
+"name": "Question: Which word is nearly opposite in meaning as “defile” as used in the passage? Passage : Political education has many connotations. It may be defined as the preparation of a citizen to take well informed, responsible, and sustained action for participation in the national struggle in order to achieve the socio-economic objectives of the country. The predominant socio- economic objectives in India are the abolition of poverty and the creation of a modern democratic, secular, and socialist society in place of the present traditional, feudal, hierarchical and in egalitarian one. Under the colonial rule, the Congress leaders argued that political education was an important part of education and refused to accept the official view that education and politics should not be mixed with one another. But when they came to power in 1947, they almost adopted the British policy and began to talk of education being defiled by politics. ‘Hands off education’ was the call to political parties. But despite it, political infiltration into the educational system has greatly increased in the sense that different political parties vie with each other to capture the mind of teachers and students. The wise academicians wanted political support, without political interference. What we have received is infinite political interference with little genuine political support. This interference with the educational system by political parties for their own ulterior motives is no political education at all and with the all-round growth of elitism, it is hardly a matter for surprise that real political education within the school system (which really means the creation of a commitment to social transformation) has been even weaker than in the pre-independence period. During that time only, the struggle for freedom came to an end and the major non- formal agency of political education disappeared. The press played a major role by providing some political education. But it did not utilize the opportunity to the full and the strangle hold of vested interests continued to dominate it. The same can be said of political parties as well as of other institutions and agencies outside the school system which can be expected to provide political education. After analyzing all these things, it appears that we have made no progress in genuine political education in the post-education period and have even slided back in some respects. For instance, the education system has become even more elite-oriented. Patriotism has become the first casualty. The father of the nation gave us the courage to oppose government when it was wrong, in a disciplined fashion and on basic principles. Today, we have even lost the courage to fight on basic issues in a disciplined manner because agitational and anarchic politics for individual, group or party aggrandizement has become common. In the recent times the education system continues to support domination of the privileged groups and domestication of the under- privileged ones. The situation will not change unless we take vigorous steps to provide genuine political education on an adequate scale. This is one of the major educational reforms we need, and if it is not carried out, mere linear expansion of the existing system of formal education will only support the status quo and hamper radical social transformation.",
 "questionTypeId": 1,
 "options": [
     {
-      "id": 1,
+      "id": "a",
       "name": "Disparage",
       "isAnswer": false
    },
    {
-      "id": 2,
+      "id": "b",
       "name": "forgery",
       "isAnswer": false
    },
    {
-       "id": 3,
+       "id": "c",
        "name": "degenerate",
       "isAnswer": false
    },
    {
-       "id": 4,
+       "id": "d",
        "name": "sanctify",
       "isAnswer": true
    }
  ]
 },
 {
-"name": "According to the passage, what should be the main purpose of political education?",
+"name": "Question: According to the passage, what should be the main purpose of political education? Passage : Political education has many connotations. It may be defined as the preparation of a citizen to take well informed, responsible, and sustained action for participation in the national struggle in order to achieve the socio-economic objectives of the country. The predominant socio- economic objectives in India are the abolition of poverty and the creation of a modern democratic, secular, and socialist society in place of the present traditional, feudal, hierarchical and in egalitarian one. Under the colonial rule, the Congress leaders argued that political education was an important part of education and refused to accept the official view that education and politics should not be mixed with one another. But when they came to power in 1947, they almost adopted the British policy and began to talk of education being defiled by politics. ‘Hands off education’ was the call to political parties. But despite it, political infiltration into the educational system has greatly increased in the sense that different political parties vie with each other to capture the mind of teachers and students. The wise academicians wanted political support, without political interference. What we have received is infinite political interference with little genuine political support. This interference with the educational system by political parties for their own ulterior motives is no political education at all and with the all-round growth of elitism, it is hardly a matter for surprise that real political education within the school system (which really means the creation of a commitment to social transformation) has been even weaker than in the pre-independence period. During that time only, the struggle for freedom came to an end and the major non- formal agency of political education disappeared. The press played a major role by providing some political education. But it did not utilize the opportunity to the full and the strangle hold of vested interests continued to dominate it. The same can be said of political parties as well as of other institutions and agencies outside the school system which can be expected to provide political education. After analyzing all these things, it appears that we have made no progress in genuine political education in the post-education period and have even slided back in some respects. For instance, the education system has become even more elite-oriented. Patriotism has become the first casualty. The father of the nation gave us the courage to oppose government when it was wrong, in a disciplined fashion and on basic principles. Today, we have even lost the courage to fight on basic issues in a disciplined manner because agitational and anarchic politics for individual, group or party aggrandizement has become common. In the recent times the education system continues to support domination of the privileged groups and domestication of the under- privileged ones. The situation will not change unless we take vigorous steps to provide genuine political education on an adequate scale. This is one of the major educational reforms we need, and if it is not carried out, mere linear expansion of the existing system of formal education will only support the status quo and hamper radical social transformation.",
 "questionTypeId": 1,
 "options": [
    {
-      "id": 1,
+      "id": "a",
       "name": "To champion the cause of elitism",
       "isAnswer": false
    },
    {
-      "id": 2,
+      "id": "b",
       "name": "To bring qualitative change in the entire education system",
       "isAnswer": false
    },
    {
-       "id": 3,
+       "id": "c",
        "name": "To create an egalitarian society",
        "isAnswer": true
    },
    {
-      "id": 4,
+      "id": "d",
       "name": "To prepare the young generation with high intellectual acumen.",
       "isAnswer": false
    }
   ]
 },
 {
-"name": "How has politics been related to educational institutions after independence?",
+"name": "Question: How has politics been related to educational institutions after independence? Passage : Political education has many connotations. It may be defined as the preparation of a citizen to take well informed, responsible, and sustained action for participation in the national struggle in order to achieve the socio-economic objectives of the country. The predominant socio- economic objectives in India are the abolition of poverty and the creation of a modern democratic, secular, and socialist society in place of the present traditional, feudal, hierarchical and in egalitarian one. Under the colonial rule, the Congress leaders argued that political education was an important part of education and refused to accept the official view that education and politics should not be mixed with one another. But when they came to power in 1947, they almost adopted the British policy and began to talk of education being defiled by politics. ‘Hands off education’ was the call to political parties. But despite it, political infiltration into the educational system has greatly increased in the sense that different political parties vie with each other to capture the mind of teachers and students. The wise academicians wanted political support, without political interference. What we have received is infinite political interference with little genuine political support. This interference with the educational system by political parties for their own ulterior motives is no political education at all and with the all-round growth of elitism, it is hardly a matter for surprise that real political education within the school system (which really means the creation of a commitment to social transformation) has been even weaker than in the pre-independence period. During that time only, the struggle for freedom came to an end and the major non- formal agency of political education disappeared. The press played a major role by providing some political education. But it did not utilize the opportunity to the full and the strangle hold of vested interests continued to dominate it. The same can be said of political parties as well as of other institutions and agencies outside the school system which can be expected to provide political education. After analyzing all these things, it appears that we have made no progress in genuine political education in the post-education period and have even slided back in some respects. For instance, the education system has become even more elite-oriented. Patriotism has become the first casualty. The father of the nation gave us the courage to oppose government when it was wrong, in a disciplined fashion and on basic principles. Today, we have even lost the courage to fight on basic issues in a disciplined manner because agitational and anarchic politics for individual, group or party aggrandizement has become common. In the recent times the education system continues to support domination of the privileged groups and domestication of the under- privileged ones. The situation will not change unless we take vigorous steps to provide genuine political education on an adequate scale. This is one of the major educational reforms we need, and if it is not carried out, mere linear expansion of the existing system of formal education will only support the status quo and hamper radical social transformation.",
 "questionTypeId": 1,
 "options": [
    {
-     "id": 1,
+     "id": "a",
      "name": "Although they got political support but there was no interference of politics.",
      "isAnswer": false
    },
    {
-      "id": 2,
+      "id": "b",
       "name": "It is clear that they got almost no political support as well as political interference.",
       "isAnswer": false
    },
    {
-      "id": 3,
+      "id": "c",
       "name": "They got political support at the cost of political interference.",
       "isAnswer": false
    },
    {
-     "id": 4,
+     "id": "d",
      "name": "There was substantial interference without political support.",
      "isAnswer": true
    }
   ]
 },
 {
-"name": "Based on the passage, which is the major drawback of the present education system?",
+"name": "Question: Based on the passage, which is the major drawback of the present education system? Passage : Political education has many connotations. It may be defined as the preparation of a citizen to take well informed, responsible, and sustained action for participation in the national struggle in order to achieve the socio-economic objectives of the country. The predominant socio- economic objectives in India are the abolition of poverty and the creation of a modern democratic, secular, and socialist society in place of the present traditional, feudal, hierarchical and in egalitarian one. Under the colonial rule, the Congress leaders argued that political education was an important part of education and refused to accept the official view that education and politics should not be mixed with one another. But when they came to power in 1947, they almost adopted the British policy and began to talk of education being defiled by politics. ‘Hands off education’ was the call to political parties. But despite it, political infiltration into the educational system has greatly increased in the sense that different political parties vie with each other to capture the mind of teachers and students. The wise academicians wanted political support, without political interference. What we have received is infinite political interference with little genuine political support. This interference with the educational system by political parties for their own ulterior motives is no political education at all and with the all-round growth of elitism, it is hardly a matter for surprise that real political education within the school system (which really means the creation of a commitment to social transformation) has been even weaker than in the pre-independence period. During that time only, the struggle for freedom came to an end and the major non- formal agency of political education disappeared. The press played a major role by providing some political education. But it did not utilize the opportunity to the full and the strangle hold of vested interests continued to dominate it. The same can be said of political parties as well as of other institutions and agencies outside the school system which can be expected to provide political education. After analyzing all these things, it appears that we have made no progress in genuine political education in the post-education period and have even slided back in some respects. For instance, the education system has become even more elite-oriented. Patriotism has become the first casualty. The father of the nation gave us the courage to oppose government when it was wrong, in a disciplined fashion and on basic principles. Today, we have even lost the courage to fight on basic issues in a disciplined manner because agitational and anarchic politics for individual, group or party aggrandizement has become common. In the recent times the education system continues to support domination of the privileged groups and domestication of the under- privileged ones. The situation will not change unless we take vigorous steps to provide genuine political education on an adequate scale. This is one of the major educational reforms we need, and if it is not carried out, mere linear expansion of the existing system of formal education will only support the status quo and hamper radical social transformation.",
 "questionTypeId": 1,
 "options": [
    {
-     "id": 1,
+     "id": "a",
      "name": "The education system mainly represents the oppressed sections of the society.",
      "isAnswer": false
    },
    {
-      "id": 2,
+      "id": "b",
       "name": "The present education system promotes the domination of the privileged few.",
       "isAnswer": true
    },
    {
-      "id": 3,
+      "id": "c",
       "name": "It is based on the British model of education.",
       "isAnswer": false
    },
    {
-     "id": 4,
+     "id": "d",
      "name": "It is highly hierarchical and egalitarian in nature.",
      "isAnswer": false
    }
   ]    
 },
 {
-"name": "Which is the most opposite in meaning to the word ‘hamper’ as used in the passage?",
+"name": "Question: Which is the most opposite in meaning to the word ‘hamper’ as used in the passage? Passage : Political education has many connotations. It may be defined as the preparation of a citizen to take well informed, responsible, and sustained action for participation in the national struggle in order to achieve the socio-economic objectives of the country. The predominant socio- economic objectives in India are the abolition of poverty and the creation of a modern democratic, secular, and socialist society in place of the present traditional, feudal, hierarchical and in egalitarian one. Under the colonial rule, the Congress leaders argued that political education was an important part of education and refused to accept the official view that education and politics should not be mixed with one another. But when they came to power in 1947, they almost adopted the British policy and began to talk of education being defiled by politics. ‘Hands off education’ was the call to political parties. But despite it, political infiltration into the educational system has greatly increased in the sense that different political parties vie with each other to capture the mind of teachers and students. The wise academicians wanted political support, without political interference. What we have received is infinite political interference with little genuine political support. This interference with the educational system by political parties for their own ulterior motives is no political education at all and with the all-round growth of elitism, it is hardly a matter for surprise that real political education within the school system (which really means the creation of a commitment to social transformation) has been even weaker than in the pre-independence period. During that time only, the struggle for freedom came to an end and the major non- formal agency of political education disappeared. The press played a major role by providing some political education. But it did not utilize the opportunity to the full and the strangle hold of vested interests continued to dominate it. The same can be said of political parties as well as of other institutions and agencies outside the school system which can be expected to provide political education. After analyzing all these things, it appears that we have made no progress in genuine political education in the post-education period and have even slided back in some respects. For instance, the education system has become even more elite-oriented. Patriotism has become the first casualty. The father of the nation gave us the courage to oppose government when it was wrong, in a disciplined fashion and on basic principles. Today, we have even lost the courage to fight on basic issues in a disciplined manner because agitational and anarchic politics for individual, group or party aggrandizement has become common. In the recent times the education system continues to support domination of the privileged groups and domestication of the under- privileged ones. The situation will not change unless we take vigorous steps to provide genuine political education on an adequate scale. This is one of the major educational reforms we need, and if it is not carried out, mere linear expansion of the existing system of formal education will only support the status quo and hamper radical social transformation.",
 "questionTypeId": 1,
 "options": [
 {
-    "id": 1,
+    "id": "a",
     "name": "Accelerate",
     "isAnswer": false
   },
   {
-     "id": 2,
+     "id": "b",
      "name": "envision",
      "isAnswer": false
   },
   {
-     "id": 3,
+     "id": "c",
      "name": "foster",
      "isAnswer": true
   },
   {
-    "id": 4,
+    "id": "d",
     "name": "initiate",
     "isAnswer": false
   }
@@ -1151,22 +1151,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "the electrician",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "is",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "do",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "writing work",
         "isAnswer": false
     }
@@ -1177,22 +1177,22 @@
 "questionTypeId": 1,
 "options": [  
     {
-        "id": 1,
+        "id": "a",
         "name": "Either suganya",
         "isAnswer": true
    },
    {
-        "id": 2,
+        "id": "b",
         "name": " nor Kanmani",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "has attended",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": " the function",
         "isAnswer": false
     }
@@ -1203,22 +1203,22 @@
 "questionTypeId": 1,
 "options": [ 
     {
-        "id": 1,
+        "id": "a",
         "name": "My friend ",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "and myself",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "and myself",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "together now",
         "isAnswer": false
     }
@@ -1229,22 +1229,22 @@
 "questionTypeId": 1,
 "options": [ 
     {
-        "id": 1,
+        "id": "a",
         "name": "The house",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": " has been ",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "built ",
         "isAnswer":true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "in 2012",
         "isAnswer": false
     }
@@ -1255,22 +1255,22 @@
 "questionTypeId": 1,
 "options": [ 
     {
-        "id": 1,
+        "id": "a",
         "name": "The",
         "isAnswer": true
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "woods",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "floats",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "in waters",
         "isAnswer": false
     }
@@ -1281,22 +1281,22 @@
 "questionTypeId": 1,
 "options": [ 
     {
-        "id": 1,
+        "id": "a",
         "name": "Are",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "you involved ",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "in this project",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "are you",
         "isAnswer": true
     }
@@ -1307,22 +1307,22 @@
 "questionTypeId": 1,
 "options": [       
     {
-        "id": 1,
+        "id": "a",
         "name": "They",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "are seeing ",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": " a cricket match",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "with great interest",
         "isAnswer": false
     }
@@ -1333,22 +1333,22 @@
 "questionTypeId": 1,
 "options": [        
     {
-        "id": 1,
+        "id": "a",
         "name": "The class",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "is having",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "forty students",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "on the rolls",
         "isAnswer": false
     }
@@ -1359,22 +1359,22 @@
     "questionTypeId": 1,
     "options": [         
 {
-        "id": 1,
+        "id": "a",
         "name": "Mahavira",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "was",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": " a advocate",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "of non violence",
         "isAnswer": false
     }
@@ -1385,22 +1385,22 @@
 "questionTypeId": 1,
 "options": [  
     {
-        "id": 1,
+        "id": "a",
         "name": "He",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "has married",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "her",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "last month",
         "isAnswer": false
     }
@@ -1411,22 +1411,22 @@
 "questionTypeId": 1,
 "options": [        
     {
-        "id": 1,
+        "id": "a",
         "name": "ROAAKNM",
         "isAnswer": true
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "ROAKANM",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "ROAKNNM",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "ROKANAM",
         "isAnswer": false
     }
@@ -1437,22 +1437,22 @@
 "questionTypeId": 1,
 "options": [         
     {
-        "id": 1,
+        "id": "a",
         "name": "EOJDEJFM",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "MFEJDJOE",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "MFEDJJOE",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "EOJDJEFM",
         "isAnswer": true
     }
@@ -1463,22 +1463,22 @@
 "questionTypeId": 1,
 "options": [        
     {
-        "id": 1,
+        "id": "a",
         "name": "PELBROM",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "PRBOELM",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "PELBORM",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "RPBOELM",
         "isAnswer": false
     }
@@ -1489,22 +1489,22 @@
 "questionTypeId": 1,
 "options": [    
     {
-        "id": 1,
+        "id": "a",
         "name": "TIATIATIA",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": " IATIATIAT",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "MNUMNUMNU",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "ALDALDALD",
         "isAnswer": false
     }
@@ -1515,22 +1515,22 @@
 "questionTypeId": 1,
 "options": [       
     {
-        "id": 1,
+        "id": "a",
         "name": "CARFNOIT",
         "isAnswer":true
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "CARFTION",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "FRACNOIT",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "ARFCNOIT",
         "isAnswer": false
     }
@@ -1541,22 +1541,22 @@
 "questionTypeId": 1,
 "options": [        
     {
-        "id": 1,
+        "id": "a",
         "name": "1,4,3,2,5",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "1,4,2,5,3",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "1,4,2,3,5",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "1,2,3,4,5",
         "isAnswer": false
     }
@@ -1567,22 +1567,22 @@
 "questionTypeId": 1,
 "options": [       
     {
-        "id": 1,
+        "id": "a",
         "name": "2,4,1,3,5",
         "isAnswer": true
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "3,2,1,5,4",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "1,5,2,4,3",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "2,4,3,1,5",
         "isAnswer": false
     }
@@ -1593,22 +1593,22 @@
     "questionTypeId": 1,
     "options": [         
    {
-        "id": 1,
+        "id": "a",
         "name": "1,2,3,5,4",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "5,1,2,4,3",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "1,3,2,4,5",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "1,3,2,4,5",
         "isAnswer": false
     }
@@ -1619,22 +1619,22 @@
     "questionTypeId": 1,
     "options": [         
    {
-        "id": 1,
+        "id": "a",
         "name": "4,1,3,5,2",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "1,2,4,3,5",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "2,4,1,5,3",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "5,3,2,1,4",
         "isAnswer": false
     }
@@ -1646,152 +1646,152 @@
     "options": [         
 
     {
-        "id": 1,
+        "id": "a",
         "name": "1,3,4,5,2",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "2,3,4,5,1",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "4,5,3,1,2",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "1,5,4,2,3",
         "isAnswer": true
     }
    ]    
 },
 {
-    "name": "R U S G A – 1 2 3 4 5",
+    "name": "Select the combination of numbers so that letters/words arranged accordingly will form meaningful word. R U S G A – 1 2 3 4 5",
     "questionTypeId": 1,
     "options": [         
    {
-        "id": 1,
+        "id": "a",
         "name": "4 5 3 2 1",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "3 2 4 5 1",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "5 3 4 1 2",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "1 5 4 2 3",
         "isAnswer": false
     }
    ]    
 },
 {
-    "name": "R P E D I – 1 2 3 4 5",
+    "name": "Select the combination of numbers so that letters/words arranged accordingly will form meaningful word. R P E D I – 1 2 3 4 5",
     "questionTypeId": 1,
     "options": [    
     {
-        "id": 1,
+        "id": "a",
         "name": "1 3 2 5 4",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "4 3 2 1 5",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "3 2 1 5 4",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "2 1 5 4 3",
         "isAnswer": true       
     }
   ]
 },
 {
-"name": "T L P N A E – 1 2 3 4 5 6  \t",
+"name": "Select the combination of numbers so that letters/words arranged accordingly will form meaningful word. T L P N A E – 1 2 3 4 5 6  \t",
 "questionTypeId": 1,
 "options": [    
     {
-        "id": 1,
+        "id": "a",
         "name": "4 5 3 6 2 1",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "3 2 5 4 6 1",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "4 6 1 3 5 2",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "3 2 5 4 1 6",
         "isAnswer": false
     }
    ]    
 },
 {
-    "name": "R A C E T – 1 2 3 4 5  \t",
+    "name": "Select the combination of numbers so that letters/words arranged accordingly will form meaningful word. R A C E T – 1 2 3 4 5  \t",
     "questionTypeId": 1,
     "options": [           
    {
-        "id": 1,
+        "id": "a",
         "name": "1 2 3 4 5",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "5 1 2 3 4",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "5 2 3 4 1",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "3 2 1 4 5",
         "isAnswer": false
     }
    ]    
 },
 {
-    "name": "I P E L O C – 1 2 3 4 5 6",
+    "name": "Select the combination of numbers so that letters/words arranged accordingly will form meaningful word. I P E L O C – 1 2 3 4 5 6",
     "questionTypeId": 1,
     "options": [         
     {
-        "id": 1,
+        "id": "a",
         "name": "4 5 1 2 3 6",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "3 4 5 1 2 6",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "1 4 3 5 2 6",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "2 5 4 1 6 3",
         "isAnswer": true
     }
@@ -1802,22 +1802,22 @@
     "questionTypeId": 1,
     "options": [ 
     {
-        "id": 1,
+        "id": "a",
         "name": "3",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "4",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "5",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "6",
         "isAnswer": false
     }
@@ -1828,22 +1828,22 @@
     "questionTypeId": 1,
     "options": [ 
     {
-        "id": 1,
+        "id": "a",
         "name": "25",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "27",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "32",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "37",
         "isAnswer": false
     }
@@ -1855,22 +1855,22 @@
     "questionTypeId": 1,
     "options": [        
     {
-        "id": 1,
+        "id": "a",
         "name": "2",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "3",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "4",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "5",
         "isAnswer": false
     }
@@ -1882,22 +1882,22 @@
     "questionTypeId": 1,
     "options": [        
     {
-        "id": 1,
+        "id": "a",
         "name": "7",
         "isAnswer": true
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "9",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "11",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "15",
         "isAnswer": false
     }
@@ -1909,22 +1909,22 @@
     "questionTypeId": 1,
     "options": [           
     {
-        "id": 1,
+        "id": "a",
         "name": "15",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "18",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "19",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "20",
         "isAnswer": false
     }
@@ -1936,22 +1936,22 @@
     "questionTypeId": 1,
     "options": [        
     {
-        "id": 1,
+        "id": "a",
         "name": "5",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "8",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "9",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "1",
         "isAnswer": false
     }
@@ -1963,22 +1963,22 @@
     "questionTypeId": 1,
     "options": [        
     {
-        "id": 1,
+        "id": "a",
         "name": "H@38",
         "isAnswer": true
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "G%21",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "K@35",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "M%22",
         "isAnswer": false
     }
@@ -1989,22 +1989,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Cloud",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "Impact",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "Inters",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Follows",
         "isAnswer": false
     }
@@ -2015,22 +2015,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "F@22",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "E%20",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "T@25",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Y%21",
         "isAnswer":true
     }
@@ -2041,22 +2041,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "V%25",
         "isAnswer": true
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "B@20",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "R%15",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "H@22",
         "isAnswer": false
     }
@@ -2067,22 +2067,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Other",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "After",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "Ocean",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Homes",
         "isAnswer": false
     }
@@ -2093,22 +2093,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "5",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "6",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "9",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "8",
         "isAnswer": true
     }
@@ -2119,22 +2119,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "1",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "7",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "3",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "None of these",
         "isAnswer": true
     }
@@ -2145,22 +2145,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Warn",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "And",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "Oil",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Only",
         "isAnswer": false
     }
@@ -2171,22 +2171,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "D1 G3",
         "isAnswer": true
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "E4 H6",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "A2 C3",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "D2 E2",
         "isAnswer": false
     }
@@ -2197,22 +2197,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Only I is true",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "Only II is true",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "Both I and II are true",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Neither I nor II is true",
         "isAnswer": false
     }
@@ -2223,22 +2223,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Only I is true",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "Only II is true",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "Either I or II true",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Neither I nor II is true",
         "isAnswer": false
     }
@@ -2249,22 +2249,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Only I is true",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "Only II is true",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "Either I or II is true",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Neither I nor II is true",
         "isAnswer": false
     }
@@ -2275,22 +2275,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Only I is true",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "Only II is true",
         "isAnswer": true
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "Either I or II is true",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Neither I nor II is true",
         "isAnswer": false
     }
@@ -2301,22 +2301,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Only I is true",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "Only II is true",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "Either I or II is true",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Both Conclusion I and II are true",
         "isAnswer": false
     }
@@ -2327,22 +2327,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Only I is true",
         "isAnswer": true
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "Only II is true",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "Either I or II true",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Neither I nor II is true",
         "isAnswer": false
     }
@@ -2353,22 +2353,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Only I is true",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "Only II is true",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "Either I or II true",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Neither I nor II is true",
         "isAnswer": true
     }
@@ -2379,22 +2379,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Only I is true",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "Only II is true",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "Either I or II true",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Neither I nor II is true",
         "isAnswer": true
     }
@@ -2405,22 +2405,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Only I is true",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "Only II is true",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Neither I nor II is true",
         "isAnswer": true
     }
@@ -2431,22 +2431,22 @@
     "questionTypeId": 1,
     "options": [     
     {
-        "id": 1,
+        "id": "a",
         "name": "Only I is true",
         "isAnswer": false
    },
    {
-        "id": 2,
+        "id": "b",
         "name": "Only II is true",
         "isAnswer": false
    },
    {
-        "id": 3,
+        "id": "c",
         "name": "Either I or II true",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "Both Conclusion I and II are true",
         "isAnswer": true
     }
@@ -2457,22 +2457,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "36",
         "isAnswer": true
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "38",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "40",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "42",
         "isAnswer": false
     }
@@ -2483,22 +2483,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "30",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "32",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "34",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "36",
         "isAnswer": true
     }
@@ -2509,22 +2509,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "35 years",
         "isAnswer": true
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "37 years",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "39 years",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "41 years",
         "isAnswer": false
     }
@@ -2535,22 +2535,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "38 years",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "40 years",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "43 years",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "45 years",
         "isAnswer": true
     }
@@ -2561,22 +2561,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "112",
         "isAnswer": true
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "116",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "115",
         "isAnswer": false
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "120",
         "isAnswer": false
     }
@@ -2587,22 +2587,22 @@
 "questionTypeId": 1,
 "options": [
     {
-        "id": 1,
+        "id": "a",
         "name": "700",
         "isAnswer": false
     },
     {
-        "id": 2,
+        "id": "b",
         "name": "750",
         "isAnswer": false
     },
     {
-        "id": 3,
+        "id": "c",
         "name": "800",
         "isAnswer": true
     },
     {
-        "id": 4,
+        "id": "d",
         "name": "850",
         "isAnswer": false
     }
